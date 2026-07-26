@@ -1,4 +1,4 @@
-name: Update SET Companies Data1
+name: Update SET Companies Data
 
 on:
   schedule:
