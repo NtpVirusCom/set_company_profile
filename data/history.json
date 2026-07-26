@@ -1,0 +1,27 @@
+{
+  "snapshots": [
+    {
+      "timestamp": "2026-07-26T14:07:16.484521+00:00",
+      "total_companies": 895,
+      "markets": {
+        "SET": 668,
+        "mai": 227
+      },
+      "columns": [
+        "symbol",
+        "company_name_th",
+        "company_name_en",
+        "market",
+        "industry",
+        "sector",
+        "address",
+        "zip_code",
+        "telephone",
+        "fax",
+        "website",
+        "updated_at"
+      ]
+    }
+  ],
+  "changes": []
+}
