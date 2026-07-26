@@ -2,43 +2,42 @@ name: Update SET Companies Data
 
 on:
   schedule:
-    # รันทุกวัน เวลา 00:00 UTC (07:00 น. ตามเวลาไทย)
-    - cron: '0 0 * * *'
-  workflow_dispatch:  # อนุญาตให้กดรัน manual ได้จากหน้า GitHub
+    - cron: '0 0 * * *'   # 07:00 น. ไทย
+  workflow_dispatch:
 
 jobs:
   update-data:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # อนุญาตให้ bot commit/push ได้
+      contents: write
     
     steps:
-      # 1) ดึงโค้ดจาก repository นี้
       - name: 📥 Checkout repository
         uses: actions/checkout@v4
       
-      # 2) ติดตั้ง Python 3.11
       - name: 🐍 Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
       
-      # 3) ติดตั้ง dependencies (แค่ 3 ตัว!)
       - name: 📦 Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r scripts/requirements.txt
       
-      # 4) รันสคริปต์ดึงข้อมูล (เสร็จใน ~5 วินาที)
-      - name: 🏛️ Fetch SET data from official .xls
+      # ============ STEP 1: ดึงข้อมูลบริษัทจาก SET ============
+      - name: 🏛️ Fetch SET companies
         run: python scripts/fetch.py
       
-      # 5) Commit & Push ถ้ามีการเปลี่ยนแปลง
-      - name: 🚀 Commit and push changes
+      # ============ STEP 2: วิเคราะห์ Technical (ใช้เวลา ~10-15 นาที) ============
+      - name: 🔬 Run Technical Analysis
+        run: python scripts/technical_analysis.py
+      
+      # ============ STEP 3: Commit ทุกไฟล์ ============
+      - name: 🚀 Commit and push all changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"
           git add data/
-          # ถ้าไม่มีการเปลี่ยนแปลงจะไม่ commit (ใช้ || true ป้องกัน error)
-          git diff --staged --quiet || git commit -m "🤖 Auto-update SET data: $(date -u +%Y-%m-%d)"
+          git diff --staged --quiet || git commit -m "🤖 Auto-update: $(date -u +%Y-%m-%d %H:%M) UTC"
           git push || true
