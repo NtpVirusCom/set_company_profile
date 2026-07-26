@@ -15,8 +15,8 @@ from pathlib import Path
 import requests
 
 # ============ CONFIG ============
-TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
-TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "")
+TELEGRAM_BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+TELEGRAM_CHAT_ID = os.environ.get("CHAT_ID", "")
 TELEGRAM_API = "https://api.telegram.org/bot{token}/sendMessage"
 
 DATA_DIR = Path(__file__).parent.parent / "data"
