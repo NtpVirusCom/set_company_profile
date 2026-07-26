@@ -1,51 +1,44 @@
-name: Update SET Company Profile
+name: Update SET Companies Data
 
 on:
-
-  workflow_dispatch:
-
   schedule:
-    - cron: "0 1 * * *"
-
-permissions:
-  contents: write
+    # รันทุกวัน เวลา 00:00 UTC (07:00 น. ตามเวลาไทย)
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # อนุญาตให้กดรัน manual ได้จากหน้า GitHub
 
 jobs:
-
-  update:
-
+  update-data:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write  # อนุญาตให้ bot commit/push ได้
+    
     steps:
-
-      - name: Checkout Repository
+      # 1) ดึงโค้ดจาก repository นี้
+      - name: 📥 Checkout repository
         uses: actions/checkout@v4
-
-      - name: Setup Python
+      
+      # 2) ติดตั้ง Python 3.11
+      - name: 🐍 Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
-
-      - name: Install Python Packages
+          python-version: '3.11'
+      
+      # 3) ติดตั้ง dependencies
+      - name: 📦 Install dependencies
         run: |
-          pip install -r requirements.txt
-
-      - name: Install Playwright Browser
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+      
+      # 4) รันสคริปต์ดึงข้อมูล
+      - name: 🏛️ Fetch SET data
+        run: python scripts/fetch.py
+      
+      # 5) Commit & Push ถ้ามีการเปลี่ยนแปลง
+      - name: 🚀 Commit and push changes
         run: |
-          playwright install chromium
-
-      - name: Run Scraper
-        run: |
-          python fetch.py
-
-      - name: Commit Changes
-        run: |
-
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-
-          git add .
-
-          git commit -m "Daily update" || echo "No changes"
-
-          git push
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          git add data/
+          # ถ้าไม่มีการเปลี่ยนแปลงจะไม่ commit (ใช้ || true ป้องกัน error)
+          git diff --staged --quiet || git commit -m "🤖 Auto-update SET data: $(date -u +%Y-%m-%d)"
+          git push || true
