@@ -292,4 +292,18 @@ def main():
     # บันทึก changes ถ้ามี
     if changes:
         history["changes"].extend(changes)
-        print(f"🔔 Detected {len(changes)} change(s
+        print(f"🔔 Detected {len(changes)} change(s)")
+        for c in changes[:5]:  # โชว์แค่ 5 รายการแรก
+            print(f"   • {c['symbol']}: {c['field']} | {c['old_value']} → {c['new_value']}")
+        if len(changes) > 5:
+            print(f"   ... and {len(changes)-5} more")
+    
+    save_history(history)
+    print(f"💾 Updated history: {HISTORY_FILE}")
+    
+    print("\n" + "=" * 70)
+    print("✅ Done! All data saved.")
+    print("=" * 70)
+
+if __name__ == "__main__":
+    main()
