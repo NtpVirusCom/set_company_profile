@@ -191,12 +191,12 @@ def build_combo_alert(ta_data: dict, div_data: dict) -> str | None:
             continue
         if "ABOVE_CLOUD (Strong Bull)" not in stock.get("price_vs_cloud", ""):
             continue
-        if stock.get("tk_signal") != "BULLISH":
-            continue
-        if "BULLISH" not in stock.get("macd_signal", "") and "BUY" not in stock.get("macd_signal", ""):
-            continue
-        if stock.get("rsi_condition") == "OVERBOUGHT":
-            continue
+        #if stock.get("tk_signal") != "BULLISH":
+        #    continue
+        #if "BULLISH" not in stock.get("macd_signal", "") and "BUY" not in stock.get("macd_signal", ""):
+        #    continue
+        #if stock.get("rsi_condition") == "OVERBOUGHT":
+        #    continue
         
         # === Dividend Checks ===
         div = div_lookup.get(sym)
