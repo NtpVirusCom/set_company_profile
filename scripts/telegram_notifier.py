@@ -229,7 +229,7 @@ def build_combo_alert(ta_data: dict, div_data: dict) -> str | None:
             "👑 <b>COMBO ALERT: Strong Buy + Dividend</b>\n"
             f"🕐 {datetime.now(timezone.utc).strftime('%Y-%m-%d')}\n\n"
             "📭 วันนี้ไม่มีหุ้นที่ผ่านเงื่อนไขทั้ง Technical + Dividend พร้อมกัน\n"
-            "   (Score ≥ 75 + Yield ≥ 3% + Payout ≤ 80% + จ่ายต่อเนื่อง ≥ 2 ปี)\n\n"
+            "   (Score ≥ 75 + Yield ≥ 5% + Payout ≤ 80% + จ่ายต่อเนื่อง ≥ 10 ปี)\n\n"
             "<i>💡 ลองดูข้อความ 🌟 Strong Buy Alert หรือ 💰 Dividend Opportunities แยกก่อน</i>"
         )
     
@@ -243,7 +243,7 @@ def build_combo_alert(ta_data: dict, div_data: dict) -> str | None:
         "",
         "<b>🎯 เงื่อนไขที่ใช้คัด</b>",
         "   Technical: Score ≥ 75 | เหนือ Cloud | Tenkan > Kijun | MACD Bullish | ไม่ Overbought",
-        "   Dividend: Yield ≥ 3% | Payout ≤ 80% | จ่ายต่อเนื่อง ≥ 2 ปี",
+        "   Dividend: Yield ≥ 5% | Payout ≤ 80% | จ่ายต่อเนื่อง ≥ 10 ปี",
         "",
         "<b>🏆 หุ้นที่ผ่านเกณฑ์</b>"
     ]
