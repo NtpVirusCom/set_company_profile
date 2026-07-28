@@ -186,7 +186,8 @@ def build_combo_alert(ta_data: dict, div_data: dict) -> str | None:
         score = stock.get("score", 0)
         
         # === Technical Checks ===
-        if score < 75:
+        #if score < 75:
+        if score < 60:
             continue
         if "ABOVE" not in stock.get("price_vs_cloud", ""):
             continue
