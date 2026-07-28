@@ -224,7 +224,15 @@ def build_combo_alert(ta_data: dict, div_data: dict) -> str | None:
         })
     
     if not combo_stocks:
-        return None
+        #return None
+        # แก้ตรงนี้: ส่งข้อความบอกว่าไม่มี แทนที่จะคืน None
+        return (
+            "👑 <b>COMBO ALERT: Strong Buy + Dividend</b>\n"
+            f"🕐 {datetime.now(timezone.utc).strftime('%Y-%m-%d')}\n\n"
+            "📭 วันนี้ไม่มีหุ้นที่ผ่านเงื่อนไขทั้ง Technical + Dividend พร้อมกัน\n"
+            "   (Score ≥ 75 + Yield ≥ 3% + Payout ≤ 80% + จ่ายต่อเนื่อง ≥ 2 ปี)\n\n"
+            "<i>💡 ลองดูข้อความ 🌟 Strong Buy Alert หรือ 💰 Dividend Opportunities แยกก่อน</i>"
+        )
     
     # เรียงตาม Score สูงสุด
     combo_stocks.sort(key=lambda x: x["score"], reverse=True)
