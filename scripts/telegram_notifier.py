@@ -189,7 +189,7 @@ def build_combo_alert(ta_data: dict, div_data: dict) -> str | None:
         #if score < 75:
         if score < 60:
             continue
-        if "ABOVE" not in stock.get("price_vs_cloud", ""):
+        if "ABOVE_CLOUD (Strong Bull)" not in stock.get("price_vs_cloud", ""):
             continue
         if stock.get("tk_signal") != "BULLISH":
             continue
