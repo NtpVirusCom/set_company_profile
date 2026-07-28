@@ -24,11 +24,11 @@ COMPANIES_JSON = DATA_DIR / "companies.json"
 DIVIDEND_JSON = DATA_DIR / "dividend_screening.json"
 CALENDAR_JSON = DATA_DIR / "dividend_calendar.json"
 
-MIN_YIELD = 3.0
-MAX_PAYOUT = 80.0
-MIN_CONSECUTIVE_YEARS = 2
-LOOKBACK_YEARS = 5
-SLEEP = 0.15
+MIN_YIELD = 5.0                # ขั้นต่ำ 3%
+MAX_PAYOUT = 80.0              # ไม่เกิน 80%
+MIN_CONSECUTIVE_YEARS = 10     # จ่ายต่อเนื่องอย่างน้อย 2 ปี
+LOOKBACK_YEARS = 10            # ดูประวัติย้อนหลัง 5 ปี
+SLEEP = 0.15                   # หน่วงระหว่างตัว
 
 
 def strip_tz(dt):
