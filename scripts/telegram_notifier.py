@@ -203,11 +203,11 @@ def build_combo_alert(ta_data: dict, div_data: dict) -> str | None:
             continue
         
         # กรองอีกชั้นเพื่อความชัดเจน (ถึงจะอยู่ใน dividend_stocks แล้ว)
-        if div.get("dividend_yield", 0) < 5.0:
+        if div.get("dividend_yield", 0) < 3.0:
             continue
         if div.get("payout_ratio") is not None and div["payout_ratio"] > 80:
             continue
-        if div.get("consecutive_years", 0) < 10:
+        if div.get("consecutive_years", 0) < 2:
             continue
         
         combo_stocks.append({
@@ -235,7 +235,7 @@ def build_combo_alert(ta_data: dict, div_data: dict) -> str | None:
         "",
         "<b>🎯 เงื่อนไขที่ใช้คัด</b>",
         "   Technical: Score ≥ 75 | เหนือ Cloud | Tenkan > Kijun | MACD Bullish | ไม่ Overbought",
-        "   Dividend: Yield ≥ 5% | Payout ≤ 80% | จ่ายต่อเนื่อง ≥ 10 ปี",
+        "   Dividend: Yield ≥ 3% | Payout ≤ 80% | จ่ายต่อเนื่อง ≥ 2 ปี",
         "",
         "<b>🏆 หุ้นที่ผ่านเกณฑ์</b>"
     ]
