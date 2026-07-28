@@ -2,7 +2,7 @@
 """
 SET Dividend Screener + Calendar
 =================================
-ดึงประวัติเงินปันผล → คำนวณ Yield + Payout + วิเคราะห์รูปแบบการจ่าย
+ดึงประวัติเงินปันผลจาก Yahoo Finance คำนวณ Yield + Payout + Consistency
 คาดการณ์วันปันผลถัดไปจากประวัติ (Annual/Semi-annual pattern)
 """
 
@@ -31,8 +31,41 @@ LOOKBACK_YEARS = 5
 SLEEP = 0.15
 
 
+def strip_tz(dt):
+    """
+    แปลง datetime หรือ Timestamp ใดๆ ให้เป็น naive (ไม่มี timezone)
+    รองรับทั้ง pandas Timestamp, datetime, string
+    """
+    if dt is None:
+        return None
+    
+    # ถ้าเป็น pandas Timestamp
+    if hasattr(dt, 'tz_localize'):
+        if dt.tz is not None:
+            dt = dt.tz_localize(None)
+        return dt.to_pydatetime() if hasattr(dt, 'to_pydatetime') else dt
+    
+    # ถ้าเป็น datetime ที่มี tzinfo
+    if hasattr(dt, 'tzinfo') and dt.tzinfo is not None:
+        return dt.replace(tzinfo=None)
+    
+    return dt
+
+
+def to_naive_index(idx):
+    """
+    เอา timezone ออกจาก pandas DatetimeIndex ทั้งก้อน
+    """
+    if idx.tz is not None:
+        return idx.tz_localize(None)
+    return idx
+
+
 def fetch_dividend_data(symbol: str):
-    """ดึงข้อมูลปันผล + วิเคราะห์ Calendar จาก Yahoo Finance"""
+    """
+    ดึงข้อมูลปันผล + วิเคราะห์ Calendar จาก Yahoo Finance
+    คืนค่า (screener_dict, calendar_dict) หรือ (None, None)
+    """
     yf_symbol = f"{symbol}.BK"
     
     try:
@@ -41,6 +74,9 @@ def fetch_dividend_data(symbol: str):
         
         if div_history is None or div_history.empty:
             return None, None
+        
+        # ===== แก้ timezone: เอา tz ออกจาก index ก่อนใช้งาน =====
+        div_history.index = to_naive_index(div_history.index)
         
         # ราคาล่าสุด
         hist = ticker.history(period="5d", interval="1d")
@@ -51,8 +87,11 @@ def fetch_dividend_data(symbol: str):
         # ข้อมูลพื้นฐาน
         info = ticker.info or {}
         
-        # === Screener Data ===
-        cutoff = pd.Timestamp.now(tz="UTC") - pd.DateOffset(months=12)
+        # ===== Screener Data =====
+        # แก้: ใช้ naive datetime ทั้งสองฝั่ง
+        now_naive = datetime.now().replace(tzinfo=None)
+        cutoff = pd.Timestamp(now_naive) - pd.DateOffset(months=12)
+        
         recent_divs = div_history[div_history.index >= cutoff]
         ttm_dividend = float(recent_divs.sum())
         div_yield = (ttm_dividend / last_price) * 100 if last_price > 0 else 0
@@ -72,7 +111,7 @@ def fetch_dividend_data(symbol: str):
         # จ่ายติดต่อกันกี่ปี
         div_by_year = div_history.groupby(div_history.index.year).sum()
         consecutive = 0
-        current_year = datetime.now().year
+        current_year = now_naive.year
         for year in range(current_year, current_year - LOOKBACK_YEARS, -1):
             if year in div_by_year.index and div_by_year[year] > 0:
                 consecutive += 1
@@ -105,13 +144,13 @@ def fetch_dividend_data(symbol: str):
             "source": "Yahoo Finance"
         }
         
-        # === Calendar Analysis ===
+        # ===== Calendar Analysis =====
         calendar = analyze_calendar(div_history, screener)
         
         return screener, calendar
         
     except Exception as e:
-        print(f"   ⚠️  {symbol}: {str(e)[:60]}")
+        print(f"   ⚠️  {symbol}: {str(e)[:80]}")
         return None, None
 
 
@@ -122,21 +161,22 @@ def analyze_calendar(div_history, screener_data):
     if div_history is None or len(div_history) < 2:
         return None
     
-    now = datetime.now()
+    # ===== แก้: ใช้ naive datetime ทั้งหมด =====
+    now_naive = datetime.now().replace(tzinfo=None)
     
-    # 1) หาเดือนที่จ่ายบ่อยที่สุด
+    # หาเดือนที่จ่ายบ่อยที่สุด
     months = [d.month for d in div_history.index]
     month_counts = Counter(months)
     most_common_month, freq = month_counts.most_common(1)[0]
     
-    # 2) คำนวณช่วงห่างเฉลี่ยระหว่างการจ่าย (วัน)
+    # คำนวณช่วงห่างเฉลี่ยระหว่างการจ่าย (วัน)
     intervals = []
     for i in range(1, len(div_history)):
         delta = (div_history.index[i] - div_history.index[i-1]).days
         intervals.append(delta)
     avg_interval = sum(intervals) / len(intervals) if intervals else 365
     
-    # 3) กำหนดความถี่
+    # กำหนดความถี่
     if avg_interval < 200:
         frequency = "SEMI_ANNUAL"
         freq_label = "2x/Year"
@@ -147,20 +187,20 @@ def analyze_calendar(div_history, screener_data):
         frequency = "IRREGULAR"
         freq_label = "Irregular"
     
-    # 4) คาดการณ์วันถัดไป
-    last_date = pd.Timestamp(div_history.index[-1]).to_pydatetime()
+    # คาดการณ์วันถัดไป
+    last_date = strip_tz(div_history.index[-1])
     expected_next = last_date + timedelta(days=int(avg_interval))
     
     # ถ้า expected_next ผ่านมาแล้ว ให้ปรับไปรอบถัดไป
-    while expected_next < now:
+    while expected_next < now_naive:
         expected_next += timedelta(days=int(avg_interval))
     
-    days_since = (now - last_date).days
-    days_until = (expected_next - now).days
+    days_since = (now_naive - last_date).days
+    days_until = (expected_next - now_naive).days
     
-    # 5) กำหนด Status
+    # กำหนด Status
     if days_since > avg_interval * 1.4:
-        status = "OVERDUE"  # น่าจะประกาศแล้วแต่ยังไม่มีข้อมูล หรือเลื่อน
+        status = "OVERDUE"
         status_emoji = "🔴"
     elif days_until <= 45:
         status = "EXPECTED_SOON"
@@ -172,7 +212,6 @@ def analyze_calendar(div_history, screener_data):
         status = "REGULAR"
         status_emoji = "⚪"
     
-    # 6) ชื่อเดือนไทย/อังกฤษ
     month_names = ["", "Jan", "Feb", "Mar", "Apr", "May", "Jun",
                    "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
     typical_month_name = month_names[most_common_month]
@@ -196,7 +235,10 @@ def analyze_calendar(div_history, screener_data):
 
 
 def screen_dividend_stocks(companies: list) -> tuple:
-    """วนลูปดึงข้อมูลปันผลทุกตัว"""
+    """
+    วนลูปดึงข้อมูลปันผลทุกตัว
+    คืนค่า (all_results, passed, calendars)
+    """
     all_results = []
     passed = []
     calendars = []
@@ -260,17 +302,12 @@ def main():
     
     all_results, passed, calendars = screen_dividend_stocks(companies)
     
-    # เรียง passed ตาม Yield สูงสุด
     passed.sort(key=lambda x: x["dividend_yield"], reverse=True)
     
-    # เรียง Calendar ตาม days_until_next (ใกล้สุดก่อน)
     valid_calendars = [c for c in calendars if c and c.get("days_until_next") is not None]
     valid_calendars.sort(key=lambda x: x["days_until_next"])
-    
-    # แยกเฉพาะที่น่าสนใจ (Expected Soon หรือ Overdue)
     upcoming = [c for c in valid_calendars if c["status"] in ("EXPECTED_SOON", "OVERDUE")]
     
-    # บันทึก Screener
     output = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "criteria": {"min_yield": MIN_YIELD, "max_payout": MAX_PAYOUT, "min_consecutive_years": MIN_CONSECUTIVE_YEARS},
@@ -286,13 +323,12 @@ def main():
     with open(DIVIDEND_JSON, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
     
-    # บันทึก Calendar
     calendar_output = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "total_tracked": len(valid_calendars),
         "upcoming_count": len(upcoming),
-        "upcoming": upcoming,           # เฉพาะที่ใกล้เข้า
-        "calendar": valid_calendars     # ทั้งหมด
+        "upcoming": upcoming,
+        "calendar": valid_calendars
     }
     
     with open(CALENDAR_JSON, "w", encoding="utf-8") as f:
