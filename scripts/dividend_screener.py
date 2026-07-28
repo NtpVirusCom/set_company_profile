@@ -23,9 +23,14 @@ COMPANIES_JSON = DATA_DIR / "companies.json"
 DIVIDEND_JSON = DATA_DIR / "dividend_screening.json"
 
 # เกณฑ์คัดกรอง (ปรับได้ตามความเหมาะสม)
-MIN_YIELD = 3.0          # ขั้นต่ำ 3%
-MAX_PAYOUT = 80.0        # ไม่เกิน 80%
-MIN_CONSECUTIVE_YEARS = 2  # จ่ายต่อเนื่องอย่างน้อย 2 ปี
+#MIN_YIELD = 3.0          # ขั้นต่ำ 3%
+#MAX_PAYOUT = 80.0        # ไม่เกิน 80%
+#MIN_CONSECUTIVE_YEARS = 2  # จ่ายต่อเนื่องอย่างน้อย 2 ปี
+#LOOKBACK_YEARS = 5       # ดูประวัติย้อนหลัง 5 ปี
+#SLEEP = 0.15             # หน่วงระหว่างตัว
+MIN_YIELD = 4.0          # ขั้นต่ำ 3%
+MAX_PAYOUT = 60.0        # ไม่เกิน 80%
+MIN_CONSECUTIVE_YEARS = 5  # จ่ายต่อเนื่องอย่างน้อย 2 ปี
 LOOKBACK_YEARS = 5       # ดูประวัติย้อนหลัง 5 ปี
 SLEEP = 0.15             # หน่วงระหว่างตัว
 
