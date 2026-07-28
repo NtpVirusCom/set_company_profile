@@ -171,7 +171,7 @@ def build_combo_alert(ta_data: dict, div_data: dict) -> str | None:
     หุ้นที่เป็น BOTH Strong Buy Technical + Dividend King
     เงื่อนไข:
       Technical: Score ≥ 75, เหนือ Cloud, Tenkan > Kijun, MACD Bullish, ไม่ Overbought
-      Dividend: Yield ≥ 5%, Payout ≤ 80%, จ่ายต่อเนื่อง ≥ 10 ปี
+      Dividend: Yield ≥ 3%, Payout ≤ 80%, จ่ายต่อเนื่อง ≥ 2 ปี
     """
     if not ta_data or not div_data:
         return None
