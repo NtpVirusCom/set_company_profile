@@ -8,13 +8,13 @@
   {
     "name": "Transportation & Logistics",
     "total": 27,
-    "avg_score": 68,
+    "avg_score": 70,
     "sentiment": "🟢 BULLISH"
   },
   {
     "name": "Energy & Utilities",
     "total": 59,
-    "avg_score": 68,
+    "avg_score": 69,
     "sentiment": "🟢 BULLISH"
   },
   {
@@ -42,6 +42,12 @@
     "sentiment": "🟢 BULLISH"
   },
   {
+    "name": "Resources",
+    "total": 69,
+    "avg_score": 63,
+    "sentiment": "🟢 BULLISH"
+  },
+  {
     "name": "Financials",
     "total": 79,
     "avg_score": 63,
@@ -54,8 +60,8 @@
     "sentiment": "🟢 BULLISH"
   },
   {
-    "name": "Resources",
-    "total": 69,
+    "name": "Property Fund & REITs",
+    "total": 34,
     "avg_score": 62,
     "sentiment": "🟢 BULLISH"
   },
@@ -84,15 +90,21 @@
     "sentiment": "🟢 BULLISH"
   },
   {
+    "name": "Technology",
+    "total": 70,
+    "avg_score": 59,
+    "sentiment": "🟡 SLIGHT_BULL"
+  },
+  {
     "name": "Construction Materials",
     "total": 20,
     "avg_score": 59,
     "sentiment": "🟡 SLIGHT_BULL"
   },
   {
-    "name": "Technology",
-    "total": 70,
-    "avg_score": 57,
+    "name": "Information & Communication Technology",
+    "total": 39,
+    "avg_score": 58,
     "sentiment": "🟡 SLIGHT_BULL"
   },
   {
@@ -108,8 +120,8 @@
     "sentiment": "🟡 SLIGHT_BULL"
   },
   {
-    "name": "Information & Communication Technology",
-    "total": 39,
+    "name": "Property & Construction",
+    "total": 180,
     "avg_score": 55,
     "sentiment": "🟡 SLIGHT_BULL"
   },
@@ -123,18 +135,6 @@
     "name": "Industrials",
     "total": 99,
     "avg_score": 54,
-    "sentiment": "🟡 SLIGHT_BULL"
-  },
-  {
-    "name": "Property & Construction",
-    "total": 181,
-    "avg_score": 53,
-    "sentiment": "🟡 SLIGHT_BULL"
-  },
-  {
-    "name": "Property Fund & REITs",
-    "total": 34,
-    "avg_score": 53,
     "sentiment": "🟡 SLIGHT_BULL"
   },
   {
@@ -174,14 +174,14 @@
     "sentiment": "🟠 SLIGHT_BEAR"
   },
   {
-    "name": "Home & Office Products",
-    "total": 11,
-    "avg_score": 46,
+    "name": "Construction Services",
+    "total": 31,
+    "avg_score": 47,
     "sentiment": "🟠 SLIGHT_BEAR"
   },
   {
-    "name": "Construction Services",
-    "total": 32,
+    "name": "Home & Office Products",
+    "total": 11,
     "avg_score": 46,
     "sentiment": "🟠 SLIGHT_BEAR"
   },
