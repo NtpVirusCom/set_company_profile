@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-Dividend Consistency Checker (10 Consecutive Years)
+Dividend Consistency Checker (5 Consecutive Years)
 ==================================================
-ตรวจสอบหุ้นที่จ่ายปันผลต่อเนื่อง 10 ปี จาก Yahoo Finance
+ตรวจสอบหุ้นที่จ่ายปันผลต่อเนื่อง 5 ปี จาก Yahoo Finance
 รองรับ caching เพื่อลดเวลาในรอบถัดไป
 """
 
@@ -20,12 +20,12 @@ import yfinance as yf
 BASE_DIR = Path(__file__).parent.parent
 DATA_DIR = BASE_DIR / "data"
 COMPANIES_CSV = DATA_DIR / "companies.csv"
-CONSISTENT_CSV = DATA_DIR / "dividend_consistent_10y.csv"
-CONSISTENT_JSON = DATA_DIR / "dividend_consistent_10y.json"
+CONSISTENT_CSV = DATA_DIR / "dividend_consistent_5y.csv"
+CONSISTENT_JSON = DATA_DIR / "dividend_consistent_5y.json"
 CACHE_FILE = DATA_DIR / "dividend_history_cache.json"
 DIVIDEND_CSV = DATA_DIR / "dividend_stocks.csv"
 
-REQUIRED_YEARS = 10          # จำนวนปีที่ต้องจ่ายต่อเนื่อง
+REQUIRED_YEARS = 5          # จำนวนปีที่ต้องจ่ายต่อเนื่อง
 MAX_WORKERS = 5              # จำกัด worker ป้องกัน rate limit
 BATCH_SIZE = 5               # จำนวนตัวต่อ batch
 DELAY_SEC = 2.0              # วินาทีพักระหว่าง batch
@@ -122,7 +122,7 @@ def save_cache(cache):
 
 def main():
     print("=" * 70)
-    print("📅 Dividend Consistency Checker (10 Consecutive Years)")
+    print("📅 Dividend Consistency Checker (5 Consecutive Years)")
     print("   Source: Yahoo Finance (.BK) | With local caching")
     print("=" * 70)
 
@@ -184,7 +184,7 @@ def main():
     save_cache(cache)
     print(f"\n✅ Summary: Processed={processed} | Success={len(results)} | Errors={len(errors)}")
 
-    # ============ กรองเฉพาะหุ้นที่จ่ายต่อเนื่อง 10 ปี ============
+    # ============ กรองเฉพาะหุ้นที่จ่ายต่อเนื่อง 5 ปี ============
     consistent_stocks = []
 
     for res in results:
@@ -196,7 +196,7 @@ def main():
 
         res["required_years"] = sorted(required_years)
         res["missing_years"] = sorted(missing_years)
-        res["is_consistent_10y"] = is_consistent
+        res["is_consistent_5y"] = is_consistent
 
         if is_consistent:
             consistent_stocks.append(res)
@@ -257,7 +257,7 @@ def main():
     print("✅ Done!")
     print(f"   Total checked    : {len(symbols)}")
     print(f"   With dividend data: {len(results)}")
-    print(f"   Consistent 10Y   : {len(consistent_stocks)}")
+    print(f"   Consistent 5Y   : {len(consistent_stocks)}")
     print("=" * 70)
 
 
