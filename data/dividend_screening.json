@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T01:56:56.895352+00:00",
+  "generated_at": "2026-07-29T11:38:46.924276+00:00",
   "criteria": {
     "min_yield": 5.0,
     "max_payout": 80.0,
@@ -12344,8 +12344,8 @@
     {
       "symbol": "VGI",
       "last_price": 1.0,
-      "ttm_dividend": 0.013,
-      "dividend_yield": 1.3,
+      "ttm_dividend": 0.0,
+      "dividend_yield": 0.0,
       "payout_ratio": 325.0,
       "consecutive_years": 0,
       "last_ex_date": "2025-07-29",
@@ -12354,7 +12354,7 @@
       "total_div_history": 24,
       "source": "Yahoo Finance",
       "passed": false,
-      "fail_reason": "Yield 1.3% | Payout 325.0% | 0Y"
+      "fail_reason": "Yield 0.0% | Payout 325.0% | 0Y"
     },
     {
       "symbol": "VIBE",

@@ -1,68 +1,86 @@
 [
   {
-    "name": "Agribusiness",
-    "total": 13,
-    "avg_score": 71,
-    "sentiment": "🟢 BULLISH"
-  },
-  {
     "name": "Transportation & Logistics",
     "total": 27,
-    "avg_score": 70,
+    "avg_score": 72,
     "sentiment": "🟢 BULLISH"
   },
   {
     "name": "Energy & Utilities",
     "total": 59,
-    "avg_score": 69,
+    "avg_score": 72,
     "sentiment": "🟢 BULLISH"
   },
   {
-    "name": "Banking",
-    "total": 12,
-    "avg_score": 67,
+    "name": "Agribusiness",
+    "total": 13,
+    "avg_score": 72,
     "sentiment": "🟢 BULLISH"
   },
   {
     "name": "Finance & Securities",
     "total": 40,
-    "avg_score": 66,
+    "avg_score": 68,
     "sentiment": "🟢 BULLISH"
   },
   {
     "name": "Resources",
     "total": 69,
-    "avg_score": 63,
-    "sentiment": "🟢 BULLISH"
-  },
-  {
-    "name": "Financials",
-    "total": 79,
-    "avg_score": 63,
+    "avg_score": 66,
     "sentiment": "🟢 BULLISH"
   },
   {
     "name": "Petrochemicals & Chemicals",
     "total": 13,
-    "avg_score": 63,
+    "avg_score": 66,
     "sentiment": "🟢 BULLISH"
   },
   {
-    "name": "Property Development",
-    "total": 58,
-    "avg_score": 62,
+    "name": "Steel and Metal Products",
+    "total": 22,
+    "avg_score": 65,
     "sentiment": "🟢 BULLISH"
   },
   {
     "name": "Agro & Food Industry",
     "total": 82,
-    "avg_score": 62,
+    "avg_score": 65,
+    "sentiment": "🟢 BULLISH"
+  },
+  {
+    "name": "Financials",
+    "total": 79,
+    "avg_score": 65,
+    "sentiment": "🟢 BULLISH"
+  },
+  {
+    "name": "Banking",
+    "total": 12,
+    "avg_score": 65,
     "sentiment": "🟢 BULLISH"
   },
   {
     "name": "Property Fund & REITs",
     "total": 34,
-    "avg_score": 62,
+    "avg_score": 64,
+    "sentiment": "🟢 BULLISH"
+  },
+  {
+    "name": "Insurance",
+    "total": 17,
+    "avg_score": 64,
+    "sentiment": "🟢 BULLISH"
+  },
+  {
+    "name": "Property Development",
+    "total": 58,
+    "avg_score": 63,
+    "sentiment": "🟢 BULLISH"
+  },
+  {
+    "name": "Food & Beverage",
+    "total": 56,
+    "avg_score": 63,
     "sentiment": "🟢 BULLISH"
   },
   {
@@ -72,69 +90,63 @@
     "sentiment": "🟢 BULLISH"
   },
   {
-    "name": "Steel and Metal Products",
-    "total": 22,
-    "avg_score": 60,
-    "sentiment": "🟢 BULLISH"
-  },
-  {
-    "name": "Food & Beverage",
-    "total": 56,
-    "avg_score": 60,
-    "sentiment": "🟢 BULLISH"
-  },
-  {
-    "name": "Insurance",
-    "total": 17,
-    "avg_score": 60,
-    "sentiment": "🟢 BULLISH"
-  },
-  {
     "name": "Construction Materials",
     "total": 20,
-    "avg_score": 59,
-    "sentiment": "🟡 SLIGHT_BULL"
+    "avg_score": 60,
+    "sentiment": "🟢 BULLISH"
+  },
+  {
+    "name": "Paper & Printing Materials",
+    "total": 1,
+    "avg_score": 60,
+    "sentiment": "🟢 BULLISH"
   },
   {
     "name": "Information & Communication Technology",
     "total": 39,
-    "avg_score": 58,
+    "avg_score": 59,
     "sentiment": "🟡 SLIGHT_BULL"
   },
   {
     "name": "Technology",
     "total": 70,
-    "avg_score": 58,
+    "avg_score": 59,
     "sentiment": "🟡 SLIGHT_BULL"
   },
   {
     "name": "Commerce",
     "total": 34,
-    "avg_score": 57,
+    "avg_score": 59,
     "sentiment": "🟡 SLIGHT_BULL"
   },
   {
     "name": "Electronic Components",
     "total": 7,
-    "avg_score": 57,
+    "avg_score": 58,
     "sentiment": "🟡 SLIGHT_BULL"
   },
   {
     "name": "Property & Construction",
     "total": 181,
-    "avg_score": 55,
-    "sentiment": "🟡 SLIGHT_BULL"
-  },
-  {
-    "name": "Packaging",
-    "total": 21,
-    "avg_score": 54,
+    "avg_score": 57,
     "sentiment": "🟡 SLIGHT_BULL"
   },
   {
     "name": "Industrials",
     "total": 99,
-    "avg_score": 53,
+    "avg_score": 56,
+    "sentiment": "🟡 SLIGHT_BULL"
+  },
+  {
+    "name": "Packaging",
+    "total": 21,
+    "avg_score": 56,
+    "sentiment": "🟡 SLIGHT_BULL"
+  },
+  {
+    "name": "Automotive",
+    "total": 20,
+    "avg_score": 52,
     "sentiment": "🟡 SLIGHT_BULL"
   },
   {
@@ -144,33 +156,27 @@
     "sentiment": "🟡 SLIGHT_BULL"
   },
   {
-    "name": "Paper & Printing Materials",
-    "total": 1,
-    "avg_score": 50,
-    "sentiment": "🟠 SLIGHT_BEAR"
-  },
-  {
-    "name": "",
-    "total": 224,
-    "avg_score": 49,
-    "sentiment": "🟠 SLIGHT_BEAR"
-  },
-  {
     "name": "Services",
     "total": 194,
-    "avg_score": 49,
-    "sentiment": "🟠 SLIGHT_BEAR"
-  },
-  {
-    "name": "Automotive",
-    "total": 20,
-    "avg_score": 49,
-    "sentiment": "🟠 SLIGHT_BEAR"
+    "avg_score": 51,
+    "sentiment": "🟡 SLIGHT_BULL"
   },
   {
     "name": "Industrial",
     "total": 47,
-    "avg_score": 49,
+    "avg_score": 51,
+    "sentiment": "🟡 SLIGHT_BULL"
+  },
+  {
+    "name": "",
+    "total": 224,
+    "avg_score": 50,
+    "sentiment": "🟠 SLIGHT_BEAR"
+  },
+  {
+    "name": "Media & Publishing",
+    "total": 20,
+    "avg_score": 48,
     "sentiment": "🟠 SLIGHT_BEAR"
   },
   {
@@ -183,12 +189,6 @@
     "name": "Home & Office Products",
     "total": 11,
     "avg_score": 46,
-    "sentiment": "🟠 SLIGHT_BEAR"
-  },
-  {
-    "name": "Media & Publishing",
-    "total": 20,
-    "avg_score": 45,
     "sentiment": "🟠 SLIGHT_BEAR"
   },
   {
@@ -206,19 +206,19 @@
   {
     "name": "Health Care Services",
     "total": 28,
-    "avg_score": 43,
+    "avg_score": 42,
     "sentiment": "🟠 SLIGHT_BEAR"
+  },
+  {
+    "name": "Fashion",
+    "total": 20,
+    "avg_score": 39,
+    "sentiment": "🔴 BEARISH"
   },
   {
     "name": "Tourism & Leisure",
     "total": 17,
     "avg_score": 39,
-    "sentiment": "🔴 BEARISH"
-  },
-  {
-    "name": "Fashion",
-    "total": 20,
-    "avg_score": 38,
     "sentiment": "🔴 BEARISH"
   }
 ]
