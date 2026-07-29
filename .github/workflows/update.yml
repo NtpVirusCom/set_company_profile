@@ -2,53 +2,43 @@ name: Update SET Companies Data
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # 07:00 น. ไทย
-  workflow_dispatch:
+    # รันทุกวัน เวลา 00:00 UTC (07:00 น. ตามเวลาไทย)
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # อนุญาตให้กดรัน manual ได้จากหน้า GitHub
 
 jobs:
   update-data:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write  # อนุญาตให้ bot commit/push ได้
     
     steps:
+      # 1) ดึงโค้ดจาก repository นี้
       - name: 📥 Checkout repository
         uses: actions/checkout@v4
       
+      # 2) ติดตั้ง Python 3.11
       - name: 🐍 Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
       
+      # 3) ติดตั้ง dependencies
       - name: 📦 Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r scripts/requirements.txt
       
-      # ============ STEP 1: ดึงข้อมูลบริษัทจาก SET ============
-      - name: 🏛️ Fetch SET companies
+      # 4) รันสคริปต์ดึงข้อมูล
+      - name: 🏛️ Fetch SET data
         run: python scripts/fetch.py
       
-      # ============ STEP 2: วิเคราะห์ Technical ============
-      - name: 🔬 Run Technical Analysis
-        run: python scripts/technical_analysis.py
-      
-      # ============ STEP 3: 💰 วิเคราะห์หุ้นปันผล ============
-      - name: 💰 Run Dividend Screener
-        run: python scripts/dividend_screener.py
-      
-      # ============ STEP 4: Commit ข้อมูล ============
+      # 5) Commit & Push ถ้ามีการเปลี่ยนแปลง
       - name: 🚀 Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"
           git add data/
-          git diff --staged --quiet || git commit -m "🤖 Auto-update: $(date -u +%Y-%m-%d %H:%M) UTC"
+          # ถ้าไม่มีการเปลี่ยนแปลงจะไม่ commit (ใช้ || true ป้องกัน error)
+          git diff --staged --quiet || git commit -m "🤖 Auto-update SET data: $(date -u +%Y-%m-%d)"
           git push || true
-      
-      # ============ STEP 5: ส่งแจ้งเตือน Telegram ============
-      - name: 📨 Send Telegram Notifications
-        env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python scripts/telegram_notifier.py
