@@ -49,10 +49,12 @@ def fetch_single_symbol(symbol: str):
 
         return {
             "symbol": symbol,
-            "dividend_yield_pct": round(div_yield * 100, 2),
+            #"dividend_yield_pct": round(div_yield * 100, 2),
+            "dividend_yield_pct": round(div_yield, 2),
             "dividend_rate": div_rate,
             "last_price": price,
-            "payout_ratio": round(payout, 4) if payout else None,
+            #"payout_ratio": round(payout, 4) if payout else None,
+            "payout_ratio": round(payout * 100, 4) if payout else None,
             "ex_dividend_date": pd.to_datetime(ex_div, unit="s").isoformat() if ex_div else None,
             "fetched_at": datetime.now(timezone.utc).isoformat(),
         }
