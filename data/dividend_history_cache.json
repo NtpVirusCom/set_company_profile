@@ -10120,5 +10120,611 @@
     "latest_dividend_date": "2026-04-20",
     "oldest_dividend_date": "2016-03-02",
     "raw_dividend_count": 11
+  },
+  "CTARAF": {
+    "symbol": "CTARAF",
+    "years_with_dividend": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found": 5,
+    "latest_dividend_date": "2026-06-08",
+    "oldest_dividend_date": "2022-12-06",
+    "raw_dividend_count": 15
+  },
+  "CSP": {
+    "symbol": "CSP",
+    "years_with_dividend": [
+      2015,
+      2017,
+      2021,
+      2022
+    ],
+    "total_years_found": 4,
+    "latest_dividend_date": "2022-04-21",
+    "oldest_dividend_date": "2015-04-07",
+    "raw_dividend_count": 4
+  },
+  "CSS": {
+    "symbol": "CSS",
+    "years_with_dividend": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found": 13,
+    "latest_dividend_date": "2026-04-30",
+    "oldest_dividend_date": "2014-08-21",
+    "raw_dividend_count": 22
+  },
+  "CSR": {
+    "symbol": "CSR",
+    "years_with_dividend": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found": 12,
+    "latest_dividend_date": "2026-05-08",
+    "oldest_dividend_date": "2015-05-11",
+    "raw_dividend_count": 12
+  },
+  "CTW": {
+    "symbol": "CTW",
+    "years_with_dividend": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2025,
+      2026
+    ],
+    "total_years_found": 11,
+    "latest_dividend_date": "2026-03-12",
+    "oldest_dividend_date": "2015-04-03",
+    "raw_dividend_count": 11
+  },
+  "CV": {
+    "symbol": "CV",
+    "years_with_dividend": [
+      2022
+    ],
+    "total_years_found": 1,
+    "latest_dividend_date": "2022-03-10",
+    "oldest_dividend_date": "2022-03-10",
+    "raw_dividend_count": 1
+  },
+  "DDD": {
+    "symbol": "DDD",
+    "years_with_dividend": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found": 9,
+    "latest_dividend_date": "2026-04-30",
+    "oldest_dividend_date": "2018-03-09",
+    "raw_dividend_count": 12
+  },
+  "DCON": {
+    "symbol": "DCON",
+    "years_with_dividend": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found": 12,
+    "latest_dividend_date": "2026-03-11",
+    "oldest_dividend_date": "2015-03-24",
+    "raw_dividend_count": 12
+  },
+  "DCC": {
+    "symbol": "DCC",
+    "years_with_dividend": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found": 13,
+    "latest_dividend_date": "2026-05-18",
+    "oldest_dividend_date": "2014-08-05",
+    "raw_dividend_count": 46
+  },
+  "DEXON": {
+    "symbol": "DEXON",
+    "years_with_dividend": [
+      2024,
+      2025
+    ],
+    "total_years_found": 2,
+    "latest_dividend_date": "2025-03-05",
+    "oldest_dividend_date": "2024-05-07",
+    "raw_dividend_count": 2
+  },
+  "CWT": {
+    "symbol": "CWT",
+    "years_with_dividend": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2022,
+      2023
+    ],
+    "total_years_found": 6,
+    "latest_dividend_date": "2023-03-15",
+    "oldest_dividend_date": "2016-03-14",
+    "raw_dividend_count": 6
+  },
+  "DEMCO": {
+    "symbol": "DEMCO",
+    "years_with_dividend": [
+      2014,
+      2015,
+      2019,
+      2020,
+      2022
+    ],
+    "total_years_found": 5,
+    "latest_dividend_date": "2022-05-06",
+    "oldest_dividend_date": "2014-08-26",
+    "raw_dividend_count": 6
+  },
+  "DELTA": {
+    "symbol": "DELTA",
+    "years_with_dividend": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found": 12,
+    "latest_dividend_date": "2026-02-26",
+    "oldest_dividend_date": "2015-02-23",
+    "raw_dividend_count": 12
+  },
+  "DHOUSE": {
+    "symbol": "DHOUSE",
+    "years_with_dividend": [
+      2021
+    ],
+    "total_years_found": 1,
+    "latest_dividend_date": "2021-03-23",
+    "oldest_dividend_date": "2021-03-23",
+    "raw_dividend_count": 1
+  },
+  "DIF": {
+    "symbol": "DIF",
+    "years_with_dividend": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "total_years_found": 8,
+    "latest_dividend_date": "2021-08-10",
+    "oldest_dividend_date": "2014-08-06",
+    "raw_dividend_count": 29
+  },
+  "DMT": {
+    "symbol": "DMT",
+    "years_with_dividend": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found": 6,
+    "latest_dividend_date": "2026-05-22",
+    "oldest_dividend_date": "2021-08-24",
+    "raw_dividend_count": 19
+  },
+  "DITTO": {
+    "symbol": "DITTO",
+    "years_with_dividend": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found": 5,
+    "latest_dividend_date": "2026-05-06",
+    "oldest_dividend_date": "2022-03-15",
+    "raw_dividend_count": 6
+  },
+  "DOD": {
+    "symbol": "DOD",
+    "years_with_dividend": [
+      2019,
+      2020,
+      2026
+    ],
+    "total_years_found": 3,
+    "latest_dividend_date": "2026-03-13",
+    "oldest_dividend_date": "2019-01-02",
+    "raw_dividend_count": 3
+  },
+  "DPAINT": {
+    "symbol": "DPAINT",
+    "years_with_dividend": [
+      2023
+    ],
+    "total_years_found": 1,
+    "latest_dividend_date": "2023-03-14",
+    "oldest_dividend_date": "2023-03-14",
+    "raw_dividend_count": 1
+  },
+  "DOHOME": {
+    "symbol": "DOHOME",
+    "years_with_dividend": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found": 7,
+    "latest_dividend_date": "2026-03-05",
+    "oldest_dividend_date": "2020-03-11",
+    "raw_dividend_count": 7
+  },
+  "DREIT": {
+    "symbol": "DREIT",
+    "years_with_dividend": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found": 9,
+    "latest_dividend_date": "2026-03-10",
+    "oldest_dividend_date": "2018-08-14",
+    "raw_dividend_count": 16
+  },
+  "DTCENT": {
+    "symbol": "DTCENT",
+    "years_with_dividend": [
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found": 4,
+    "latest_dividend_date": "2026-03-11",
+    "oldest_dividend_date": "2023-04-28",
+    "raw_dividend_count": 4
+  },
+  "DRT": {
+    "symbol": "DRT",
+    "years_with_dividend": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found": 13,
+    "latest_dividend_date": "2026-03-02",
+    "oldest_dividend_date": "2014-09-18",
+    "raw_dividend_count": 24
+  },
+  "EA": {
+    "symbol": "EA",
+    "years_with_dividend": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "total_years_found": 10,
+    "latest_dividend_date": "2024-03-08",
+    "oldest_dividend_date": "2015-03-12",
+    "raw_dividend_count": 10
+  },
+  "DTCI": {
+    "symbol": "DTCI",
+    "years_with_dividend": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2026
+    ],
+    "total_years_found": 11,
+    "latest_dividend_date": "2026-04-29",
+    "oldest_dividend_date": "2015-04-01",
+    "raw_dividend_count": 11
+  },
+  "DUSIT": {
+    "symbol": "DUSIT",
+    "years_with_dividend": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "total_years_found": 6,
+    "latest_dividend_date": "2020-04-01",
+    "oldest_dividend_date": "2015-03-09",
+    "raw_dividend_count": 6
+  },
+  "EASON": {
+    "symbol": "EASON",
+    "years_with_dividend": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found": 10,
+    "latest_dividend_date": "2026-04-29",
+    "oldest_dividend_date": "2015-03-09",
+    "raw_dividend_count": 10
+  },
+  "EAST": {
+    "symbol": "EAST",
+    "years_with_dividend": [
+      2014,
+      2017,
+      2018,
+      2021,
+      2022,
+      2023,
+      2024,
+      2026
+    ],
+    "total_years_found": 8,
+    "latest_dividend_date": "2026-03-13",
+    "oldest_dividend_date": "2014-08-26",
+    "raw_dividend_count": 10
+  },
+  "EASTW": {
+    "symbol": "EASTW",
+    "years_with_dividend": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found": 13,
+    "latest_dividend_date": "2026-05-05",
+    "oldest_dividend_date": "2014-09-08",
+    "raw_dividend_count": 23
+  },
+  "EKH": {
+    "symbol": "EKH",
+    "years_with_dividend": [
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found": 10,
+    "latest_dividend_date": "2026-05-05",
+    "oldest_dividend_date": "2017-04-25",
+    "raw_dividend_count": 12
+  },
+  "EGATIF": {
+    "symbol": "EGATIF",
+    "years_with_dividend": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2025
+    ],
+    "total_years_found": 8,
+    "latest_dividend_date": "2025-08-28",
+    "oldest_dividend_date": "2015-11-25",
+    "raw_dividend_count": 24
+  },
+  "EFORL": {
+    "symbol": "EFORL",
+    "years_with_dividend": [
+      2015,
+      2016
+    ],
+    "total_years_found": 2,
+    "latest_dividend_date": "2016-05-04",
+    "oldest_dividend_date": "2015-04-27",
+    "raw_dividend_count": 2
+  },
+  "ECF": {
+    "symbol": "ECF",
+    "years_with_dividend": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "total_years_found": 9,
+    "latest_dividend_date": "2023-03-13",
+    "oldest_dividend_date": "2015-04-22",
+    "raw_dividend_count": 10
+  },
+  "EGCO": {
+    "symbol": "EGCO",
+    "years_with_dividend": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found": 13,
+    "latest_dividend_date": "2026-03-13",
+    "oldest_dividend_date": "2014-09-04",
+    "raw_dividend_count": 24
+  },
+  "EPG": {
+    "symbol": "EPG",
+    "years_with_dividend": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "total_years_found": 11,
+    "latest_dividend_date": "2025-11-27",
+    "oldest_dividend_date": "2015-08-06",
+    "raw_dividend_count": 22
+  },
+  "EP": {
+    "symbol": "EP",
+    "years_with_dividend": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022
+    ],
+    "total_years_found": 9,
+    "latest_dividend_date": "2022-04-27",
+    "oldest_dividend_date": "2014-08-22",
+    "raw_dividend_count": 13
   }
 }
