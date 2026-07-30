@@ -1,5 +1,194 @@
 [
   {
+    "symbol":"CPN",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-03-09",
+    "oldest_dividend_date":"2015-04-30",
+    "raw_dividend_count":12,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"CENTRAL PATTANA PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Property & Construction",
+    "sector":"Property Development",
+    "dividend_yield_pct":"3.54",
+    "dividend_rate":"2.4",
+    "last_price":"67.75",
+    "payout_ratio":"54.92"
+  },
+  {
+    "symbol":"CPR",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-03-11",
+    "oldest_dividend_date":"2015-04-29",
+    "raw_dividend_count":14,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"CPR GOMU INDUSTRIAL PUBLIC COMPANY LIMITED",
+    "market":"mai",
+    "industry":"Industrial",
+    "sector":null,
+    "dividend_yield_pct":"1.35",
+    "dividend_rate":"0.035",
+    "last_price":"2.6",
+    "payout_ratio":"141.25"
+  },
+  {
+    "symbol":"CPW",
+    "years_with_dividend":[
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":7,
+    "latest_dividend_date":"2026-03-09",
+    "oldest_dividend_date":"2020-01-06",
+    "raw_dividend_count":10,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"COPPERWIRED PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Services",
+    "sector":"Commerce",
+    "dividend_yield_pct":"7.54",
+    "dividend_rate":"0.19",
+    "last_price":"2.52",
+    "payout_ratio":"79.17"
+  },
+  {
+    "symbol":"CRC",
+    "years_with_dividend":[
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":6,
+    "latest_dividend_date":"2026-04-21",
+    "oldest_dividend_date":"2021-04-29",
+    "raw_dividend_count":7,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"CENTRAL RETAIL CORPORATION PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Services",
+    "sector":"Commerce",
+    "dividend_yield_pct":"2.2",
+    "dividend_rate":"0.53",
+    "last_price":"24.1",
+    "payout_ratio":"51.28"
+  },
+  {
+    "symbol":"CSC",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-03-13",
+    "oldest_dividend_date":"2015-03-09",
+    "raw_dividend_count":12,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"CROWN SEAL PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Industrials",
+    "sector":"Packaging",
+    "dividend_yield_pct":"5.03",
+    "dividend_rate":"2.25",
+    "last_price":"44.75",
+    "payout_ratio":"48.15"
+  },
+  {
     "symbol":"CSR",
     "years_with_dividend":[
       2015,
@@ -10539,10 +10728,10 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Paper & Printing Materials",
-    "dividend_yield_pct":null,
-    "dividend_rate":null,
-    "last_price":null,
-    "payout_ratio":null
+    "dividend_yield_pct":"7.27",
+    "dividend_rate":"0.6",
+    "last_price":"8.25",
+    "payout_ratio":"70.59"
   },
   {
     "symbol":"UVAN",
