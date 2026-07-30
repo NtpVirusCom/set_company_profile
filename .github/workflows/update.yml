@@ -32,7 +32,7 @@ jobs:
         run: python scripts/fetch_dividends.py
       
       # ✅ เพิ่มขั้นตอนนี้
-      - name: 📅 Check 10-year dividend consistency
+      - name: 📅 Check 5-year dividend consistency
         run: python scripts/fetch_dividend_consistency.py
       
       - name: 🚀 Commit and push changes
