@@ -99,7 +99,7 @@ def fetch_single_symbol(symbol: str):
         div_rate = info.get("trailingAnnualDividendRate")
         payout = info.get("payoutRatio")
         ex_div_ts = info.get("exDividendDate")
-        last_div_date_ts = info.get("lastDividendDate")
+        #last_div_date_ts = info.get("lastDividendDate")
         last_div_val = info.get("lastDividendValue")
         five_y_avg = info.get("fiveYearAvgDividendYield")
         price = info.get("currentPrice") or info.get("regularMarketPrice")
@@ -118,9 +118,9 @@ def fetch_single_symbol(symbol: str):
         if ex_div_ts:
             ex_div_date = pd.to_datetime(ex_div_ts, unit="s").strftime("%Y-%m-%d")
 
-        last_div_date = None
-        if last_div_date_ts:
-            last_div_date = pd.to_datetime(last_div_date_ts, unit="s").strftime("%Y-%m-%d")
+        #last_div_date = None
+        #if last_div_date_ts:
+        #    last_div_date = pd.to_datetime(last_div_date_ts, unit="s").strftime("%Y-%m-%d")
 
         # --- คำนวณเพิ่มเติม ---
         yield_vs_5y = None
@@ -158,7 +158,7 @@ def fetch_single_symbol(symbol: str):
             "payout_ratio": round(payout * 100, 2) if payout else None,
             "safety_score": safety_score,
             "ex_dividend_date": ex_div_date,
-            "last_dividend_date": last_div_date,
+            #"last_dividend_date": last_div_date,
             "last_dividend_value": last_div_val,
             "five_year_avg_yield_pct": five_y_avg,
             "yield_vs_5y_avg": yield_vs_5y,
