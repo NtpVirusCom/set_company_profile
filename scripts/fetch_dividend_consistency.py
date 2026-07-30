@@ -51,7 +51,8 @@ def get_required_year_range():
     return start_year, end_year
 
 
-def fetch__history(symbol: str):
+#def fetch__history(symbol: str):
+def fetch_dividend_history(symbol: str):
     """
     ดึงประวัติเงินปันผลทั้งหมดของหุ้นตัวหนึ่งจาก Yahoo Finance
     คืนค่า dict หรือ None ถ้าไม่มีข้อมูล
