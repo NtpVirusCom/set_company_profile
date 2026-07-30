@@ -36,8 +36,8 @@ jobs:
       #  timeout-minutes: 45  # เพิ่ม timeout จาก default 6 นาที
       
       # ✅ เพิ่มขั้นตอนนี้
-      #- name: 📅 Check 5-year dividend consistency
-      #  run: python scripts/fetch_dividend_consistency.py
+      - name: 📅 Check 5-year dividend consistency
+        run: python scripts/fetch_dividend_consistency.py
       
       - name: 🚀 Commit and push changes
         run: |
