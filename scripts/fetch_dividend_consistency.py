@@ -88,10 +88,10 @@ def fetch__history(symbol: str):
                 "symbol": symbol,
                 "years_with_dividend": sorted(years_with_div),
                 "total_years_found": len(years_with_div),
-                #"latest_dividend_date": str(recent_divs.index[-1].date()),
-                "ex_dividend_date": str(recent_divs.index[-1].date()),
-                #"oldest_dividend_date": str(recent_divs.index[0].date()),
-                "oldest_ex_dividend_date": str(recent_divs.index[0].date()),
+                "latest_dividend_date": str(recent_divs.index[-1].date()),
+                #"ex_dividend_date": str(recent_divs.index[-1].date()),
+                "oldest_dividend_date": str(recent_divs.index[0].date()),
+                #"oldest_ex_dividend_date": str(recent_divs.index[0].date()),
                 "raw_dividend_count": len(recent_divs),
             }
 
