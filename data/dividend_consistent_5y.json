@@ -34,9 +34,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Steel and Metal Products",
-    "dividend_yield_pct":"745.0",
+    "dividend_yield_pct":"7.45",
     "last_price":"3.2",
-    "payout_ratio":"0.5"
+    "payout_ratio":"50.0"
   },
   {
     "symbol":"ACG",
@@ -68,7 +68,7 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Automotive",
-    "dividend_yield_pct":"5.56",
+    "dividend_yield_pct":"0.06",
     "last_price":"0.72",
     "payout_ratio":null
   },
@@ -101,9 +101,9 @@
     "market":"mai",
     "industry":"Services",
     "sector":null,
-    "dividend_yield_pct":"714.0",
-    "last_price":"3.32",
-    "payout_ratio":"1.5217"
+    "dividend_yield_pct":"7.14",
+    "last_price":"3.34",
+    "payout_ratio":"152.17"
   },
   {
     "symbol":"ADVANC",
@@ -141,9 +141,9 @@
     "market":"SET",
     "industry":"Technology",
     "sector":"Information & Communication Technology",
-    "dividend_yield_pct":"451.0",
-    "last_price":"378.0",
-    "payout_ratio":"0.8958"
+    "dividend_yield_pct":"4.51",
+    "last_price":"376.0",
+    "payout_ratio":"89.58"
   },
   {
     "symbol":"AEONTS",
@@ -181,9 +181,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Finance & Securities",
-    "dividend_yield_pct":"562.0",
+    "dividend_yield_pct":"5.62",
     "last_price":"105.0",
-    "payout_ratio":"0.4382"
+    "payout_ratio":"43.82"
   },
   {
     "symbol":"AH",
@@ -220,9 +220,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Automotive",
-    "dividend_yield_pct":"619.0",
+    "dividend_yield_pct":"6.19",
     "last_price":"15.6",
-    "payout_ratio":"0.3575"
+    "payout_ratio":"35.75"
   },
   {
     "symbol":"AHC",
@@ -299,9 +299,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"1327.0",
+    "dividend_yield_pct":"13.27",
     "last_price":"2.92",
-    "payout_ratio":"3.2787"
+    "payout_ratio":"327.87"
   },
   {
     "symbol":"AIMCG",
@@ -334,7 +334,7 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Fund & REITs",
-    "dividend_yield_pct":"4.19",
+    "dividend_yield_pct":"0.04",
     "last_price":"1.67",
     "payout_ratio":null
   },
@@ -370,9 +370,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Fund & REITs",
-    "dividend_yield_pct":"651.0",
+    "dividend_yield_pct":"6.51",
     "last_price":"12.5",
-    "payout_ratio":"0.9351"
+    "payout_ratio":"93.51"
   },
   {
     "symbol":"AIT",
@@ -410,9 +410,9 @@
     "market":"SET",
     "industry":"Technology",
     "sector":"Information & Communication Technology",
-    "dividend_yield_pct":"738.0",
+    "dividend_yield_pct":"7.38",
     "last_price":"4.9",
-    "payout_ratio":"1.4456"
+    "payout_ratio":"144.56"
   },
   {
     "symbol":"AKR",
@@ -446,9 +446,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Industrial Materials & Machinery",
-    "dividend_yield_pct":"722.0",
-    "last_price":"0.9",
-    "payout_ratio":"1.3889"
+    "dividend_yield_pct":"7.22",
+    "last_price":"0.89",
+    "payout_ratio":"138.89"
   },
   {
     "symbol":"ALLA",
@@ -483,9 +483,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Industrial Materials & Machinery",
-    "dividend_yield_pct":"855.0",
+    "dividend_yield_pct":"8.55",
     "last_price":"1.16",
-    "payout_ratio":"1.0185"
+    "payout_ratio":"101.85"
   },
   {
     "symbol":"ALLY",
@@ -517,9 +517,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Fund & REITs",
-    "dividend_yield_pct":"852.0",
+    "dividend_yield_pct":"8.52",
     "last_price":"5.15",
-    "payout_ratio":"0.6117"
+    "payout_ratio":"61.17"
   },
   {
     "symbol":"ALUCON",
@@ -556,7 +556,7 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Packaging",
-    "dividend_yield_pct":"6.53",
+    "dividend_yield_pct":"0.07",
     "last_price":"245.0",
     "payout_ratio":null
   },
@@ -593,9 +593,9 @@
     "market":"mai",
     "industry":"Services",
     "sector":null,
-    "dividend_yield_pct":"781.0",
+    "dividend_yield_pct":"7.81",
     "last_price":"3.84",
-    "payout_ratio":"0.7692"
+    "payout_ratio":"76.92"
   },
   {
     "symbol":"AMATA",
@@ -633,9 +633,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Development",
-    "dividend_yield_pct":"407.0",
-    "last_price":"27.5",
-    "payout_ratio":"0.2795"
+    "dividend_yield_pct":"4.07",
+    "last_price":"27.25",
+    "payout_ratio":"27.95"
   },
   {
     "symbol":"AMATAR",
@@ -672,9 +672,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Fund & REITs",
-    "dividend_yield_pct":"848.0",
+    "dividend_yield_pct":"8.48",
     "last_price":"7.55",
-    "payout_ratio":"0.7291"
+    "payout_ratio":"72.91"
   },
   {
     "symbol":"AP",
@@ -712,9 +712,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Development",
-    "dividend_yield_pct":"646.0",
+    "dividend_yield_pct":"6.46",
     "last_price":"8.1",
-    "payout_ratio":"0.4317"
+    "payout_ratio":"43.17"
   },
   {
     "symbol":"APCO",
@@ -751,9 +751,9 @@
     "market":"SET",
     "industry":"Consumer Products",
     "sector":"Personal Products & Pharmaceuticals",
-    "dividend_yield_pct":"340.0",
+    "dividend_yield_pct":"3.4",
     "last_price":"2.62",
-    "payout_ratio":"0.92"
+    "payout_ratio":"92.0"
   },
   {
     "symbol":"APP",
@@ -785,9 +785,9 @@
     "market":"mai",
     "industry":"Technology",
     "sector":null,
-    "dividend_yield_pct":"891.0",
+    "dividend_yield_pct":"8.91",
     "last_price":"2.54",
-    "payout_ratio":"0.3939"
+    "payout_ratio":"39.39"
   },
   {
     "symbol":"ARROW",
@@ -825,7 +825,7 @@
     "market":"mai",
     "industry":"Property & Construction",
     "sector":null,
-    "dividend_yield_pct":"6.96",
+    "dividend_yield_pct":"0.07",
     "last_price":"5.75",
     "payout_ratio":null
   },
@@ -863,9 +863,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Industrial Materials & Machinery",
-    "dividend_yield_pct":"579.0",
+    "dividend_yield_pct":"5.79",
     "last_price":"5.8",
-    "payout_ratio":"0.25"
+    "payout_ratio":"25.0"
   },
   {
     "symbol":"ASIAN",
@@ -901,9 +901,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"664.0",
+    "dividend_yield_pct":"6.64",
     "last_price":"7.45",
-    "payout_ratio":"1.6565"
+    "payout_ratio":"165.65"
   },
   {
     "symbol":"ASIMAR",
@@ -940,9 +940,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Transportation & Logistics",
-    "dividend_yield_pct":"839.0",
-    "last_price":"1.43",
-    "payout_ratio":"0.8054"
+    "dividend_yield_pct":"8.39",
+    "last_price":"1.44",
+    "payout_ratio":"80.54"
   },
   {
     "symbol":"ASK",
@@ -979,9 +979,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Finance & Securities",
-    "dividend_yield_pct":"3.25",
-    "last_price":"12.3",
-    "payout_ratio":null
+    "dividend_yield_pct":"3.33",
+    "last_price":"12.2",
+    "payout_ratio":"47.58"
   },
   {
     "symbol":"ASP",
@@ -1019,9 +1019,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Finance & Securities",
-    "dividend_yield_pct":"369.0",
+    "dividend_yield_pct":"3.69",
     "last_price":"2.42",
-    "payout_ratio":"0.6716"
+    "payout_ratio":"67.16"
   },
   {
     "symbol":"ATP30",
@@ -1057,9 +1057,9 @@
     "market":"mai",
     "industry":"Services",
     "sector":null,
-    "dividend_yield_pct":"500.0",
+    "dividend_yield_pct":"5.0",
     "last_price":"0.8",
-    "payout_ratio":"0.875"
+    "payout_ratio":"87.5"
   },
   {
     "symbol":"AUCT",
@@ -1097,8 +1097,8 @@
     "market":"mai",
     "industry":"Services",
     "sector":null,
-    "dividend_yield_pct":"8.37",
-    "last_price":"4.36",
+    "dividend_yield_pct":"0.08",
+    "last_price":"4.38",
     "payout_ratio":null
   },
   {
@@ -1130,9 +1130,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Development",
-    "dividend_yield_pct":"267.0",
+    "dividend_yield_pct":"2.67",
     "last_price":"3.04",
-    "payout_ratio":"0.3754"
+    "payout_ratio":"37.54"
   },
   {
     "symbol":"AYUD",
@@ -1170,8 +1170,8 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Insurance",
-    "dividend_yield_pct":"5.43",
-    "last_price":"42.75",
+    "dividend_yield_pct":"0.05",
+    "last_price":"43.0",
     "payout_ratio":null
   },
   {
@@ -1204,9 +1204,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Finance & Securities",
-    "dividend_yield_pct":"714.0",
+    "dividend_yield_pct":"7.14",
     "last_price":"6.9",
-    "payout_ratio":"0.625"
+    "payout_ratio":"62.5"
   },
   {
     "symbol":"BAY",
@@ -1244,8 +1244,8 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Banking",
-    "dividend_yield_pct":"2.22",
-    "last_price":"40.5",
+    "dividend_yield_pct":"0.02",
+    "last_price":"40.0",
     "payout_ratio":null
   },
   {
@@ -1276,9 +1276,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"304.0",
+    "dividend_yield_pct":"3.04",
     "last_price":"4.9",
-    "payout_ratio":"0.5172"
+    "payout_ratio":"51.72"
   },
   {
     "symbol":"BBIK",
@@ -1308,9 +1308,9 @@
     "market":"SET",
     "industry":"Technology",
     "sector":"Information & Communication Technology",
-    "dividend_yield_pct":"217.0",
-    "last_price":"22.5",
-    "payout_ratio":"0.1264"
+    "dividend_yield_pct":"2.17",
+    "last_price":"22.4",
+    "payout_ratio":"12.64"
   },
   {
     "symbol":"BBL",
@@ -1348,9 +1348,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Banking",
-    "dividend_yield_pct":"851.0",
-    "last_price":"191.0",
-    "payout_ratio":"0.3656"
+    "dividend_yield_pct":"8.51",
+    "last_price":"190.0",
+    "payout_ratio":"36.56"
   },
   {
     "symbol":"BCH",
@@ -1388,7 +1388,7 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Health Care Services",
-    "dividend_yield_pct":"4.41",
+    "dividend_yield_pct":"0.04",
     "last_price":"10.2",
     "payout_ratio":null
   },
@@ -1466,9 +1466,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"476.0",
-    "last_price":"7.15",
-    "payout_ratio":"0.7292"
+    "dividend_yield_pct":"4.76",
+    "last_price":"7.1",
+    "payout_ratio":"72.92"
   },
   {
     "symbol":"BCT",
@@ -1505,9 +1505,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Petrochemicals & Chemicals",
-    "dividend_yield_pct":"201.0",
+    "dividend_yield_pct":"2.01",
     "last_price":"49.75",
-    "payout_ratio":"0.1629"
+    "payout_ratio":"16.29"
   },
   {
     "symbol":"BDMS",
@@ -1544,9 +1544,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Health Care Services",
-    "dividend_yield_pct":"421.0",
-    "last_price":"19.1",
-    "payout_ratio":"0.7576"
+    "dividend_yield_pct":"4.21",
+    "last_price":"19.0",
+    "payout_ratio":"75.76"
   },
   {
     "symbol":"BE8",
@@ -1576,9 +1576,9 @@
     "market":"mai",
     "industry":"Technology",
     "sector":null,
-    "dividend_yield_pct":"62.0",
+    "dividend_yield_pct":"0.62",
     "last_price":"6.55",
-    "payout_ratio":"1.1429"
+    "payout_ratio":"114.29"
   },
   {
     "symbol":"BEC",
@@ -1612,7 +1612,7 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Media & Publishing",
-    "dividend_yield_pct":"4.81",
+    "dividend_yield_pct":"0.05",
     "last_price":"2.08",
     "payout_ratio":null
   },
@@ -1650,9 +1650,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Transportation & Logistics",
-    "dividend_yield_pct":"224.0",
-    "last_price":"6.7",
-    "payout_ratio":"0.6"
+    "dividend_yield_pct":"2.24",
+    "last_price":"6.65",
+    "payout_ratio":"60.0"
   },
   {
     "symbol":"BGC",
@@ -1686,9 +1686,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Packaging",
-    "dividend_yield_pct":"275.0",
+    "dividend_yield_pct":"2.75",
     "last_price":"6.9",
-    "payout_ratio":"2.2778"
+    "payout_ratio":"227.78"
   },
   {
     "symbol":"BGRIM",
@@ -1722,9 +1722,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"212.0",
-    "last_price":"19.0",
-    "payout_ratio":"1.2875"
+    "dividend_yield_pct":"2.12",
+    "last_price":"18.9",
+    "payout_ratio":"128.75"
   },
   {
     "symbol":"BH",
@@ -1762,7 +1762,7 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Health Care Services",
-    "dividend_yield_pct":"2.68",
+    "dividend_yield_pct":"0.03",
     "last_price":"186.5",
     "payout_ratio":null
   },
@@ -1794,9 +1794,9 @@
     "market":"mai",
     "industry":"Services",
     "sector":null,
-    "dividend_yield_pct":"374.0",
+    "dividend_yield_pct":"3.74",
     "last_price":"2.06",
-    "payout_ratio":"1.4167"
+    "payout_ratio":"141.67"
   },
   {
     "symbol":"BIZ",
@@ -1831,9 +1831,9 @@
     "market":"SET",
     "industry":"Consumer Products",
     "sector":"Personal Products & Pharmaceuticals",
-    "dividend_yield_pct":"833.0",
-    "last_price":"6.0",
-    "payout_ratio":"0.7576"
+    "dividend_yield_pct":"8.33",
+    "last_price":"5.95",
+    "payout_ratio":"75.76"
   },
   {
     "symbol":"BJC",
@@ -1871,9 +1871,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Commerce",
-    "dividend_yield_pct":"315.0",
-    "last_price":"16.2",
-    "payout_ratio":"0.7172"
+    "dividend_yield_pct":"3.15",
+    "last_price":"16.1",
+    "payout_ratio":"71.72"
   },
   {
     "symbol":"BKD",
@@ -1908,7 +1908,7 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Construction Services",
-    "dividend_yield_pct":"4.35",
+    "dividend_yield_pct":"0.04",
     "last_price":"1.15",
     "payout_ratio":null
   },
@@ -1948,9 +1948,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Insurance",
-    "dividend_yield_pct":"337.0",
-    "last_price":"25.25",
-    "payout_ratio":"0.2005"
+    "dividend_yield_pct":"3.37",
+    "last_price":"24.9",
+    "payout_ratio":"20.05"
   },
   {
     "symbol":"BM",
@@ -1986,9 +1986,9 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"1913.0",
+    "dividend_yield_pct":"19.13",
     "last_price":"1.15",
-    "payout_ratio":"1.2791"
+    "payout_ratio":"127.91"
   },
   {
     "symbol":"BOL",
@@ -2025,9 +2025,9 @@
     "market":"mai",
     "industry":"Services",
     "sector":null,
-    "dividend_yield_pct":"637.0",
+    "dividend_yield_pct":"6.37",
     "last_price":"5.05",
-    "payout_ratio":"0.9028"
+    "payout_ratio":"90.28"
   },
   {
     "symbol":"BPP",
@@ -2100,9 +2100,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"458.0",
-    "last_price":"3.6",
-    "payout_ratio":"3.5286"
+    "dividend_yield_pct":"4.58",
+    "last_price":"3.58",
+    "payout_ratio":"352.86"
   },
   {
     "symbol":"BUI",
@@ -2137,9 +2137,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Insurance",
-    "dividend_yield_pct":"183.0",
+    "dividend_yield_pct":"1.83",
     "last_price":"10.8",
-    "payout_ratio":"1.8226"
+    "payout_ratio":"182.26"
   },
   {
     "symbol":"CBG",
@@ -2176,9 +2176,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"234.0",
+    "dividend_yield_pct":"2.34",
     "last_price":"51.0",
-    "payout_ratio":"0.5991"
+    "payout_ratio":"59.91"
   },
   {
     "symbol":"CCET",
@@ -2216,9 +2216,9 @@
     "market":"SET",
     "industry":"Technology",
     "sector":"Electronic Components",
-    "dividend_yield_pct":"211.0",
-    "last_price":"7.85",
-    "payout_ratio":"0.8421"
+    "dividend_yield_pct":"2.11",
+    "last_price":"7.75",
+    "payout_ratio":"84.21"
   },
   {
     "symbol":"CEYE",
@@ -2248,9 +2248,9 @@
     "market":"mai",
     "industry":"Services",
     "sector":null,
-    "dividend_yield_pct":"664.0",
+    "dividend_yield_pct":"6.64",
     "last_price":"1.12",
-    "payout_ratio":"7.5"
+    "payout_ratio":"750.0"
   },
   {
     "symbol":"CHG",
@@ -2288,9 +2288,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Health Care Services",
-    "dividend_yield_pct":"4.55",
-    "last_price":"1.54",
-    "payout_ratio":null
+    "dividend_yield_pct":"4.58",
+    "last_price":"1.55",
+    "payout_ratio":"80.92"
   },
   {
     "symbol":"CK",
@@ -2328,8 +2328,8 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Construction Services",
-    "dividend_yield_pct":"2.49",
-    "last_price":"18.1",
+    "dividend_yield_pct":"0.03",
+    "last_price":"18.0",
     "payout_ratio":null
   },
   {
@@ -2367,9 +2367,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"344.0",
+    "dividend_yield_pct":"3.44",
     "last_price":"2.52",
-    "payout_ratio":"0.2394"
+    "payout_ratio":"23.94"
   },
   {
     "symbol":"COLOR",
@@ -2404,9 +2404,9 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"306.0",
+    "dividend_yield_pct":"3.06",
     "last_price":"0.99",
-    "payout_ratio":"1.6835"
+    "payout_ratio":"168.35"
   },
   {
     "symbol":"COM7",
@@ -2442,9 +2442,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Commerce",
-    "dividend_yield_pct":"358.0",
-    "last_price":"30.25",
-    "payout_ratio":"0.6077"
+    "dividend_yield_pct":"3.58",
+    "last_price":"30.0",
+    "payout_ratio":"60.77"
   },
   {
     "symbol":"CPALL",
@@ -2481,8 +2481,8 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Commerce",
-    "dividend_yield_pct":"3.51",
-    "last_price":"47.0",
+    "dividend_yield_pct":"0.04",
+    "last_price":"46.75",
     "payout_ratio":null
   },
   {
@@ -2521,9 +2521,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"228.0",
+    "dividend_yield_pct":"2.28",
     "last_price":"22.0",
-    "payout_ratio":"0.5849"
+    "payout_ratio":"58.49"
   },
   {
     "symbol":"CPI",
@@ -2559,7 +2559,7 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"7.42",
+    "dividend_yield_pct":"0.07",
     "last_price":"3.64",
     "payout_ratio":null
   },
@@ -2598,7 +2598,7 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Development",
-    "dividend_yield_pct":"3.57",
+    "dividend_yield_pct":"0.04",
     "last_price":"67.25",
     "payout_ratio":null
   },
@@ -2637,8 +2637,8 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"1.36",
-    "last_price":"2.58",
+    "dividend_yield_pct":"0.01",
+    "last_price":"2.54",
     "payout_ratio":null
   },
   {
@@ -2671,9 +2671,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Commerce",
-    "dividend_yield_pct":"754.0",
-    "last_price":"2.48",
-    "payout_ratio":"0.7917"
+    "dividend_yield_pct":"7.54",
+    "last_price":"2.46",
+    "payout_ratio":"79.17"
   },
   {
     "symbol":"CRC",
@@ -2704,7 +2704,7 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Commerce",
-    "dividend_yield_pct":"2.14",
+    "dividend_yield_pct":"0.02",
     "last_price":"24.8",
     "payout_ratio":null
   },
@@ -2743,9 +2743,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Packaging",
-    "dividend_yield_pct":"503.0",
+    "dividend_yield_pct":"5.03",
     "last_price":"44.5",
-    "payout_ratio":"0.4815"
+    "payout_ratio":"48.15"
   },
   {
     "symbol":"CSR",
@@ -2782,9 +2782,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Tourism & Leisure",
-    "dividend_yield_pct":"285.0",
+    "dividend_yield_pct":"2.85",
     "last_price":"71.75",
-    "payout_ratio":"0.5395"
+    "payout_ratio":"53.95"
   },
   {
     "symbol":"CSS",
@@ -2822,8 +2822,8 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Commerce",
-    "dividend_yield_pct":"4.08",
-    "last_price":"0.98",
+    "dividend_yield_pct":"0.04",
+    "last_price":"0.97",
     "payout_ratio":null
   },
   {
@@ -2894,9 +2894,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Construction Materials",
-    "dividend_yield_pct":"544.0",
-    "last_price":"1.47",
-    "payout_ratio":"0.8377"
+    "dividend_yield_pct":"5.44",
+    "last_price":"1.46",
+    "payout_ratio":"83.77"
   },
   {
     "symbol":"DCON",
@@ -2933,9 +2933,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Construction Materials",
-    "dividend_yield_pct":"145.0",
+    "dividend_yield_pct":"1.45",
     "last_price":"0.19",
-    "payout_ratio":"0.7768"
+    "payout_ratio":"77.68"
   },
   {
     "symbol":"DDD",
@@ -2969,9 +2969,9 @@
     "market":"SET",
     "industry":"Consumer Products",
     "sector":"Personal Products & Pharmaceuticals",
-    "dividend_yield_pct":"350.0",
+    "dividend_yield_pct":"3.5",
     "last_price":"5.1",
-    "payout_ratio":"2.0"
+    "payout_ratio":"200.0"
   },
   {
     "symbol":"DELTA",
@@ -3008,9 +3008,9 @@
     "market":"SET",
     "industry":"Technology",
     "sector":"Electronic Components",
-    "dividend_yield_pct":"21.0",
-    "last_price":"263.0",
-    "payout_ratio":"0.25"
+    "dividend_yield_pct":"0.21",
+    "last_price":"261.0",
+    "payout_ratio":"25.0"
   },
   {
     "symbol":"DITTO",
@@ -3040,8 +3040,8 @@
     "market":"SET",
     "industry":"Technology",
     "sector":"Information & Communication Technology",
-    "dividend_yield_pct":"3.16",
-    "last_price":"15.8",
+    "dividend_yield_pct":"0.03",
+    "last_price":"15.7",
     "payout_ratio":null
   },
   {
@@ -3073,9 +3073,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Transportation & Logistics",
-    "dividend_yield_pct":"719.0",
-    "last_price":"12.4",
-    "payout_ratio":"0.9565"
+    "dividend_yield_pct":"7.19",
+    "last_price":"12.3",
+    "payout_ratio":"95.65"
   },
   {
     "symbol":"DOHOME",
@@ -3107,9 +3107,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Commerce",
-    "dividend_yield_pct":"12.0",
-    "last_price":"3.86",
-    "payout_ratio":"0.0257"
+    "dividend_yield_pct":"0.12",
+    "last_price":"3.9",
+    "payout_ratio":"2.57"
   },
   {
     "symbol":"DREIT",
@@ -3143,9 +3143,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Fund & REITs",
-    "dividend_yield_pct":"779.0",
+    "dividend_yield_pct":"7.79",
     "last_price":"4.88",
-    "payout_ratio":"0.8428"
+    "payout_ratio":"84.28"
   },
   {
     "symbol":"DRT",
@@ -3183,9 +3183,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Construction Materials",
-    "dividend_yield_pct":"6.1",
-    "last_price":"5.25",
-    "payout_ratio":null
+    "dividend_yield_pct":"6.04",
+    "last_price":"5.3",
+    "payout_ratio":"71.11"
   },
   {
     "symbol":"EASON",
@@ -3220,9 +3220,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Automotive",
-    "dividend_yield_pct":"672.0",
-    "last_price":"1.17",
-    "payout_ratio":"0.3611"
+    "dividend_yield_pct":"6.72",
+    "last_price":"1.15",
+    "payout_ratio":"36.11"
   },
   {
     "symbol":"EASTW",
@@ -3260,9 +3260,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"20.0",
-    "last_price":"4.88",
-    "payout_ratio":"0.2381"
+    "dividend_yield_pct":"0.2",
+    "last_price":"4.84",
+    "payout_ratio":"23.81"
   },
   {
     "symbol":"EGCO",
@@ -3300,9 +3300,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"483.0",
-    "last_price":"135.5",
-    "payout_ratio":"1.6883"
+    "dividend_yield_pct":"4.83",
+    "last_price":"134.5",
+    "payout_ratio":"168.83"
   },
   {
     "symbol":"EKH",
@@ -3337,9 +3337,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Health Care Services",
-    "dividend_yield_pct":"594.0",
+    "dividend_yield_pct":"5.94",
     "last_price":"5.0",
-    "payout_ratio":"0.844"
+    "payout_ratio":"84.4"
   },
   {
     "symbol":"FE",
@@ -3416,9 +3416,9 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"497.0",
+    "dividend_yield_pct":"4.97",
     "last_price":"1.56",
-    "payout_ratio":"0.4598"
+    "payout_ratio":"45.98"
   },
   {
     "symbol":"FSMART",
@@ -3455,9 +3455,9 @@
     "market":"mai",
     "industry":"Services",
     "sector":null,
-    "dividend_yield_pct":"506.0",
+    "dividend_yield_pct":"5.06",
     "last_price":"7.75",
-    "payout_ratio":"0.5"
+    "payout_ratio":"50.0"
   },
   {
     "symbol":"FTE",
@@ -3492,9 +3492,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Industrial Materials & Machinery",
-    "dividend_yield_pct":"667.0",
+    "dividend_yield_pct":"6.67",
     "last_price":"2.7",
-    "payout_ratio":"0.9524"
+    "payout_ratio":"95.24"
   },
   {
     "symbol":"FTREIT",
@@ -3531,7 +3531,7 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Fund & REITs",
-    "dividend_yield_pct":"0.51",
+    "dividend_yield_pct":"0.01",
     "last_price":"12.7",
     "payout_ratio":null
   },
@@ -3566,9 +3566,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Finance & Securities",
-    "dividend_yield_pct":"59.0",
-    "last_price":"0.68",
-    "payout_ratio":"1.0692"
+    "dividend_yield_pct":"0.59",
+    "last_price":"0.67",
+    "payout_ratio":"106.92"
   },
   {
     "symbol":"GC",
@@ -3606,9 +3606,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Petrochemicals & Chemicals",
-    "dividend_yield_pct":"854.0",
+    "dividend_yield_pct":"8.54",
     "last_price":"5.1",
-    "payout_ratio":"0.7647"
+    "payout_ratio":"76.47"
   },
   {
     "symbol":"GFPT",
@@ -3645,9 +3645,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Agribusiness",
-    "dividend_yield_pct":"209.0",
+    "dividend_yield_pct":"2.09",
     "last_price":"9.65",
-    "payout_ratio":"0.1081"
+    "payout_ratio":"10.81"
   },
   {
     "symbol":"GLOBAL",
@@ -3684,9 +3684,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Commerce",
-    "dividend_yield_pct":null,
-    "last_price":null,
-    "payout_ratio":null
+    "dividend_yield_pct":"2.54",
+    "last_price":"7.35",
+    "payout_ratio":"50.68"
   },
   {
     "symbol":"GPI",
@@ -3720,8 +3720,8 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Media & Publishing",
-    "dividend_yield_pct":"9.55",
-    "last_price":"1.78",
+    "dividend_yield_pct":"0.1",
+    "last_price":"1.77",
     "payout_ratio":null
   },
   {
@@ -3759,9 +3759,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"352.0",
-    "last_price":"52.5",
-    "payout_ratio":"0.5847"
+    "dividend_yield_pct":"3.52",
+    "last_price":"52.25",
+    "payout_ratio":"58.47"
   },
   {
     "symbol":"GUNKUL",
@@ -3798,8 +3798,8 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"2.77",
-    "last_price":"5.05",
+    "dividend_yield_pct":"0.03",
+    "last_price":"5.0",
     "payout_ratio":null
   },
   {
@@ -3836,9 +3836,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Fund & REITs",
-    "dividend_yield_pct":"955.0",
-    "last_price":"8.15",
-    "payout_ratio":"4.8023"
+    "dividend_yield_pct":"9.55",
+    "last_price":"8.1",
+    "payout_ratio":"480.23"
   },
   {
     "symbol":"HANA",
@@ -3876,8 +3876,8 @@
     "market":"SET",
     "industry":"Technology",
     "sector":"Electronic Components",
-    "dividend_yield_pct":"2.96",
-    "last_price":"33.75",
+    "dividend_yield_pct":"0.03",
+    "last_price":"33.25",
     "payout_ratio":null
   },
   {
@@ -3915,7 +3915,7 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"5.83",
+    "dividend_yield_pct":"0.06",
     "last_price":"2.06",
     "payout_ratio":null
   },
@@ -3947,9 +3947,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Finance & Securities",
-    "dividend_yield_pct":"273.0",
+    "dividend_yield_pct":"2.73",
     "last_price":"0.95",
-    "payout_ratio":"1.31"
+    "payout_ratio":"131.0"
   },
   {
     "symbol":"HL",
@@ -3979,9 +3979,9 @@
     "market":"mai",
     "industry":"Services",
     "sector":null,
-    "dividend_yield_pct":"389.0",
-    "last_price":"5.65",
-    "payout_ratio":"0.7857"
+    "dividend_yield_pct":"3.89",
+    "last_price":"5.75",
+    "payout_ratio":"78.57"
   },
   {
     "symbol":"HMPRO",
@@ -4019,9 +4019,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Commerce",
-    "dividend_yield_pct":"672.0",
-    "last_price":"6.4",
-    "payout_ratio":"0.8444"
+    "dividend_yield_pct":"6.72",
+    "last_price":"6.45",
+    "payout_ratio":"84.44"
   },
   {
     "symbol":"HTC",
@@ -4058,7 +4058,7 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"6.15",
+    "dividend_yield_pct":"0.06",
     "last_price":"16.1",
     "payout_ratio":null
   },
@@ -4098,9 +4098,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Industrial Materials & Machinery",
-    "dividend_yield_pct":"521.0",
-    "last_price":"3.96",
-    "payout_ratio":"1.6307"
+    "dividend_yield_pct":"5.21",
+    "last_price":"3.92",
+    "payout_ratio":"163.07"
   },
   {
     "symbol":"HUMAN",
@@ -4134,8 +4134,8 @@
     "market":"SET",
     "industry":"Technology",
     "sector":"Information & Communication Technology",
-    "dividend_yield_pct":"6.9",
-    "last_price":"4.64",
+    "dividend_yield_pct":"0.07",
+    "last_price":"4.68",
     "payout_ratio":null
   },
   {
@@ -4173,7 +4173,7 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Commerce",
-    "dividend_yield_pct":"2.92",
+    "dividend_yield_pct":"0.03",
     "last_price":"24.0",
     "payout_ratio":null
   },
@@ -4212,9 +4212,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"743.0",
+    "dividend_yield_pct":"7.43",
     "last_price":"14.7",
-    "payout_ratio":"1.0472"
+    "payout_ratio":"104.72"
   },
   {
     "symbol":"ICN",
@@ -4248,9 +4248,9 @@
     "market":"SET",
     "industry":"Technology",
     "sector":"Information & Communication Technology",
-    "dividend_yield_pct":"708.0",
+    "dividend_yield_pct":"7.08",
     "last_price":"2.1",
-    "payout_ratio":"0.75"
+    "payout_ratio":"75.0"
   },
   {
     "symbol":"IFS",
@@ -4287,9 +4287,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Finance & Securities",
-    "dividend_yield_pct":"531.0",
+    "dividend_yield_pct":"5.31",
     "last_price":"1.94",
-    "payout_ratio":"0.4107"
+    "payout_ratio":"41.07"
   },
   {
     "symbol":"III",
@@ -4323,9 +4323,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Transportation & Logistics",
-    "dividend_yield_pct":"673.0",
-    "last_price":"4.6",
-    "payout_ratio":"0.6088"
+    "dividend_yield_pct":"6.73",
+    "last_price":"4.54",
+    "payout_ratio":"60.88"
   },
   {
     "symbol":"ILINK",
@@ -4362,8 +4362,8 @@
     "market":"SET",
     "industry":"Technology",
     "sector":"Information & Communication Technology",
-    "dividend_yield_pct":"6.14",
-    "last_price":"5.05",
+    "dividend_yield_pct":"0.06",
+    "last_price":"5.1",
     "payout_ratio":null
   },
   {
@@ -4396,8 +4396,8 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Commerce",
-    "dividend_yield_pct":"7.69",
-    "last_price":"13.0",
+    "dividend_yield_pct":"0.08",
+    "last_price":"13.1",
     "payout_ratio":null
   },
   {
@@ -4435,9 +4435,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Fund & REITs",
-    "dividend_yield_pct":"543.0",
+    "dividend_yield_pct":"5.43",
     "last_price":"12.4",
-    "payout_ratio":"0.8434"
+    "payout_ratio":"84.34"
   },
   {
     "symbol":"INET",
@@ -4471,9 +4471,9 @@
     "market":"SET",
     "industry":"Technology",
     "sector":"Information & Communication Technology",
-    "dividend_yield_pct":"307.0",
-    "last_price":"4.1",
-    "payout_ratio":"0.2527"
+    "dividend_yield_pct":"3.07",
+    "last_price":"4.08",
+    "payout_ratio":"25.27"
   },
   {
     "symbol":"INSET",
@@ -4506,9 +4506,9 @@
     "market":"SET",
     "industry":"Technology",
     "sector":"Information & Communication Technology",
-    "dividend_yield_pct":"89.0",
+    "dividend_yield_pct":"0.89",
     "last_price":"4.48",
-    "payout_ratio":"0.5"
+    "payout_ratio":"50.0"
   },
   {
     "symbol":"IRC",
@@ -4545,7 +4545,7 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Automotive",
-    "dividend_yield_pct":"4.14",
+    "dividend_yield_pct":"0.04",
     "last_price":"11.9",
     "payout_ratio":null
   },
@@ -4584,9 +4584,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"46.0",
+    "dividend_yield_pct":"0.46",
     "last_price":"2.1",
-    "payout_ratio":"0.0357"
+    "payout_ratio":"3.57"
   },
   {
     "symbol":"IVL",
@@ -4624,9 +4624,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Petrochemicals & Chemicals",
-    "dividend_yield_pct":"290.0",
+    "dividend_yield_pct":"2.9",
     "last_price":"21.9",
-    "payout_ratio":"0.3909"
+    "payout_ratio":"39.09"
   },
   {
     "symbol":"JCT",
@@ -4663,7 +4663,7 @@
     "market":"SET",
     "industry":"Consumer Products",
     "sector":"Personal Products & Pharmaceuticals",
-    "dividend_yield_pct":"5.71",
+    "dividend_yield_pct":"0.06",
     "last_price":"84.0",
     "payout_ratio":null
   },
@@ -4703,9 +4703,9 @@
     "market":"SET",
     "industry":"Technology",
     "sector":"Information & Communication Technology",
-    "dividend_yield_pct":"241.0",
-    "last_price":"11.1",
-    "payout_ratio":"0.5227"
+    "dividend_yield_pct":"2.41",
+    "last_price":"11.0",
+    "payout_ratio":"52.27"
   },
   {
     "symbol":"JMT",
@@ -4743,8 +4743,8 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Finance & Securities",
-    "dividend_yield_pct":"5.58",
-    "last_price":"12.0",
+    "dividend_yield_pct":"0.06",
+    "last_price":"11.9",
     "payout_ratio":null
   },
   {
@@ -4776,9 +4776,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Construction Services",
-    "dividend_yield_pct":"313.0",
+    "dividend_yield_pct":"3.13",
     "last_price":"1.74",
-    "payout_ratio":"0.4375"
+    "payout_ratio":"43.75"
   },
   {
     "symbol":"JUBILE",
@@ -4816,9 +4816,9 @@
     "market":"mai",
     "industry":"Consumer Products",
     "sector":null,
-    "dividend_yield_pct":"3.27",
+    "dividend_yield_pct":"3.81",
     "last_price":"7.35",
-    "payout_ratio":null
+    "payout_ratio":"37.5"
   },
   {
     "symbol":"KAMART",
@@ -4856,8 +4856,8 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Commerce",
-    "dividend_yield_pct":"5.99",
-    "last_price":"7.35",
+    "dividend_yield_pct":"0.06",
+    "last_price":"7.3",
     "payout_ratio":null
   },
   {
@@ -4896,9 +4896,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Banking",
-    "dividend_yield_pct":"4.13",
-    "last_price":"242.0",
-    "payout_ratio":null
+    "dividend_yield_pct":"4.96",
+    "last_price":"241.0",
+    "payout_ratio":"47.17"
   },
   {
     "symbol":"KCAR",
@@ -4936,7 +4936,7 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Finance & Securities",
-    "dividend_yield_pct":"6.71",
+    "dividend_yield_pct":"0.07",
     "last_price":"4.92",
     "payout_ratio":null
   },
@@ -4968,9 +4968,9 @@
     "market":"mai",
     "industry":"Financials",
     "sector":null,
-    "dividend_yield_pct":"450.0",
-    "last_price":"2.82",
-    "payout_ratio":"0.1579"
+    "dividend_yield_pct":"4.5",
+    "last_price":"2.84",
+    "payout_ratio":"15.79"
   },
   {
     "symbol":"KCE",
@@ -5008,9 +5008,9 @@
     "market":"SET",
     "industry":"Technology",
     "sector":"Electronic Components",
-    "dividend_yield_pct":"289.0",
-    "last_price":"37.75",
-    "payout_ratio":"1.6901"
+    "dividend_yield_pct":"2.89",
+    "last_price":"37.5",
+    "payout_ratio":"169.01"
   },
   {
     "symbol":"KGI",
@@ -5047,7 +5047,7 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Finance & Securities",
-    "dividend_yield_pct":"5.96",
+    "dividend_yield_pct":"0.06",
     "last_price":"5.2",
     "payout_ratio":null
   },
@@ -5087,9 +5087,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Transportation & Logistics",
-    "dividend_yield_pct":"625.0",
+    "dividend_yield_pct":"6.25",
     "last_price":"0.33",
-    "payout_ratio":"2.1739"
+    "payout_ratio":"217.39"
   },
   {
     "symbol":"KISS",
@@ -5120,9 +5120,9 @@
     "market":"SET",
     "industry":"Consumer Products",
     "sector":"Personal Products & Pharmaceuticals",
-    "dividend_yield_pct":"691.0",
-    "last_price":"3.68",
-    "payout_ratio":"0.7333"
+    "dividend_yield_pct":"6.91",
+    "last_price":"3.56",
+    "payout_ratio":"73.33"
   },
   {
     "symbol":"KK",
@@ -5153,7 +5153,7 @@
     "market":"mai",
     "industry":"Services",
     "sector":null,
-    "dividend_yield_pct":"1.49",
+    "dividend_yield_pct":"0.01",
     "last_price":"1.01",
     "payout_ratio":null
   },
@@ -5193,8 +5193,8 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Banking",
-    "dividend_yield_pct":"3.72",
-    "last_price":"113.0",
+    "dividend_yield_pct":"0.04",
+    "last_price":"112.5",
     "payout_ratio":null
   },
   {
@@ -5231,9 +5231,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"248.0",
+    "dividend_yield_pct":"2.48",
     "last_price":"1.6",
-    "payout_ratio":"1.1628"
+    "payout_ratio":"116.28"
   },
   {
     "symbol":"KTB",
@@ -5270,9 +5270,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Banking",
-    "dividend_yield_pct":"831.0",
+    "dividend_yield_pct":"8.31",
     "last_price":"42.75",
-    "payout_ratio":"0.5643"
+    "payout_ratio":"56.43"
   },
   {
     "symbol":"KTC",
@@ -5309,9 +5309,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Finance & Securities",
-    "dividend_yield_pct":"460.0",
+    "dividend_yield_pct":"4.6",
     "last_price":"38.5",
-    "payout_ratio":"0.4204"
+    "payout_ratio":"42.04"
   },
   {
     "symbol":"KUMWEL",
@@ -5343,8 +5343,8 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"2.63",
-    "last_price":"2.28",
+    "dividend_yield_pct":"0.03",
+    "last_price":"2.3",
     "payout_ratio":null
   },
   {
@@ -5382,9 +5382,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Transportation & Logistics",
-    "dividend_yield_pct":"411.0",
+    "dividend_yield_pct":"4.11",
     "last_price":"280.0",
-    "payout_ratio":"0.7557"
+    "payout_ratio":"75.57"
   },
   {
     "symbol":"KWM",
@@ -5417,7 +5417,7 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"3.37",
+    "dividend_yield_pct":"0.03",
     "last_price":"0.92",
     "payout_ratio":null
   },
@@ -5457,9 +5457,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Development",
-    "dividend_yield_pct":"682.0",
+    "dividend_yield_pct":"6.82",
     "last_price":"4.4",
-    "payout_ratio":"0.625"
+    "payout_ratio":"62.5"
   },
   {
     "symbol":"LANNA",
@@ -5497,9 +5497,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"685.0",
+    "dividend_yield_pct":"6.85",
     "last_price":"14.6",
-    "payout_ratio":"0.8277"
+    "payout_ratio":"82.77"
   },
   {
     "symbol":"LEE",
@@ -5536,7 +5536,7 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Agribusiness",
-    "dividend_yield_pct":"7.94",
+    "dividend_yield_pct":"0.08",
     "last_price":"2.52",
     "payout_ratio":null
   },
@@ -5569,9 +5569,9 @@
     "market":"mai",
     "industry":"Services",
     "sector":null,
-    "dividend_yield_pct":"311.0",
-    "last_price":"1.92",
-    "payout_ratio":"2.5"
+    "dividend_yield_pct":"3.11",
+    "last_price":"1.91",
+    "payout_ratio":"250.0"
   },
   {
     "symbol":"LH",
@@ -5648,7 +5648,7 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Banking",
-    "dividend_yield_pct":"4.1",
+    "dividend_yield_pct":"0.04",
     "last_price":"1.22",
     "payout_ratio":null
   },
@@ -5688,7 +5688,7 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Steel and Metal Products",
-    "dividend_yield_pct":"7.34",
+    "dividend_yield_pct":"0.07",
     "last_price":"3.54",
     "payout_ratio":null
   },
@@ -5727,9 +5727,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Fund & REITs",
-    "dividend_yield_pct":"7.8",
+    "dividend_yield_pct":"9.1",
     "last_price":"15.4",
-    "payout_ratio":null
+    "payout_ratio":"74.38"
   },
   {
     "symbol":"LPH",
@@ -5765,9 +5765,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Health Care Services",
-    "dividend_yield_pct":"1111.0",
+    "dividend_yield_pct":"11.11",
     "last_price":"3.6",
-    "payout_ratio":"0.6667"
+    "payout_ratio":"66.67"
   },
   {
     "symbol":"LPN",
@@ -5805,9 +5805,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Development",
-    "dividend_yield_pct":"637.0",
-    "last_price":"1.61",
-    "payout_ratio":"5.0"
+    "dividend_yield_pct":"6.37",
+    "last_price":"1.6",
+    "payout_ratio":"500.0"
   },
   {
     "symbol":"LST",
@@ -5844,9 +5844,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"460.0",
+    "dividend_yield_pct":"4.6",
     "last_price":"4.76",
-    "payout_ratio":"0.3235"
+    "payout_ratio":"32.35"
   },
   {
     "symbol":"MAJOR",
@@ -5884,9 +5884,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Media & Publishing",
-    "dividend_yield_pct":"382.0",
-    "last_price":"6.6",
-    "payout_ratio":"0.2222"
+    "dividend_yield_pct":"3.82",
+    "last_price":"6.65",
+    "payout_ratio":"22.22"
   },
   {
     "symbol":"MATI",
@@ -5960,7 +5960,7 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Development",
-    "dividend_yield_pct":"5.02",
+    "dividend_yield_pct":"0.05",
     "last_price":"21.9",
     "payout_ratio":null
   },
@@ -6000,9 +6000,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Commerce",
-    "dividend_yield_pct":"881.0",
+    "dividend_yield_pct":"8.81",
     "last_price":"11.7",
-    "payout_ratio":"1.0091"
+    "payout_ratio":"100.91"
   },
   {
     "symbol":"MCS",
@@ -6039,9 +6039,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Steel and Metal Products",
-    "dividend_yield_pct":"1195.0",
+    "dividend_yield_pct":"11.95",
     "last_price":"8.0",
-    "payout_ratio":"0.4286"
+    "payout_ratio":"42.86"
   },
   {
     "symbol":"MEGA",
@@ -6079,9 +6079,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Commerce",
-    "dividend_yield_pct":"427.0",
-    "last_price":"37.5",
-    "payout_ratio":"0.678"
+    "dividend_yield_pct":"4.27",
+    "last_price":"37.75",
+    "payout_ratio":"67.8"
   },
   {
     "symbol":"MENA",
@@ -6111,9 +6111,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Transportation & Logistics",
-    "dividend_yield_pct":"205.0",
+    "dividend_yield_pct":"2.05",
     "last_price":"0.72",
-    "payout_ratio":"0.3333"
+    "payout_ratio":"33.33"
   },
   {
     "symbol":"METCO",
@@ -6150,7 +6150,7 @@
     "market":"SET",
     "industry":"Technology",
     "sector":"Electronic Components",
-    "dividend_yield_pct":"10.0",
+    "dividend_yield_pct":"0.1",
     "last_price":"300.0",
     "payout_ratio":null
   },
@@ -6189,9 +6189,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Finance & Securities",
-    "dividend_yield_pct":"616.0",
+    "dividend_yield_pct":"6.16",
     "last_price":"20.1",
-    "payout_ratio":"0.5198"
+    "payout_ratio":"51.98"
   },
   {
     "symbol":"MFEC",
@@ -6228,8 +6228,8 @@
     "market":"SET",
     "industry":"Technology",
     "sector":"Information & Communication Technology",
-    "dividend_yield_pct":"8.26",
-    "last_price":"6.05",
+    "dividend_yield_pct":"0.08",
+    "last_price":"6.0",
     "payout_ratio":null
   },
   {
@@ -6265,9 +6265,9 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"443.0",
-    "last_price":"1.89",
-    "payout_ratio":"0.3462"
+    "dividend_yield_pct":"4.43",
+    "last_price":"1.93",
+    "payout_ratio":"34.62"
   },
   {
     "symbol":"MII",
@@ -6345,9 +6345,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Fund & REITs",
-    "dividend_yield_pct":"840.0",
+    "dividend_yield_pct":"8.4",
     "last_price":"9.05",
-    "payout_ratio":"1.3527"
+    "payout_ratio":"135.27"
   },
   {
     "symbol":"MNIT",
@@ -6385,9 +6385,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Fund & REITs",
-    "dividend_yield_pct":"697.0",
+    "dividend_yield_pct":"6.97",
     "last_price":"1.95",
-    "payout_ratio":"0.8666"
+    "payout_ratio":"86.66"
   },
   {
     "symbol":"MNIT2",
@@ -6464,7 +6464,7 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Fund & REITs",
-    "dividend_yield_pct":"4.46",
+    "dividend_yield_pct":"0.04",
     "last_price":"2.02",
     "payout_ratio":null
   },
@@ -6504,9 +6504,9 @@
     "market":"SET",
     "industry":"Consumer Products",
     "sector":"Home & Office Products",
-    "dividend_yield_pct":"735.0",
+    "dividend_yield_pct":"7.35",
     "last_price":"2.04",
-    "payout_ratio":"1.6822"
+    "payout_ratio":"168.22"
   },
   {
     "symbol":"MOONG",
@@ -6543,9 +6543,9 @@
     "market":"mai",
     "industry":"Consumer Products",
     "sector":null,
-    "dividend_yield_pct":"966.0",
+    "dividend_yield_pct":"9.66",
     "last_price":"2.4",
-    "payout_ratio":"0.9805"
+    "payout_ratio":"98.05"
   },
   {
     "symbol":"MSC",
@@ -6582,7 +6582,7 @@
     "market":"SET",
     "industry":"Technology",
     "sector":"Information & Communication Technology",
-    "dividend_yield_pct":"5.88",
+    "dividend_yield_pct":"0.06",
     "last_price":"5.95",
     "payout_ratio":null
   },
@@ -6622,9 +6622,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Finance & Securities",
-    "dividend_yield_pct":"339.0",
+    "dividend_yield_pct":"3.39",
     "last_price":"8.35",
-    "payout_ratio":"0.617"
+    "payout_ratio":"61.7"
   },
   {
     "symbol":"MTC",
@@ -6661,9 +6661,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Finance & Securities",
-    "dividend_yield_pct":"85.0",
-    "last_price":"34.0",
-    "payout_ratio":"0.076"
+    "dividend_yield_pct":"0.85",
+    "last_price":"33.75",
+    "payout_ratio":"7.6"
   },
   {
     "symbol":"MTI",
@@ -6700,9 +6700,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Insurance",
-    "dividend_yield_pct":"453.0",
+    "dividend_yield_pct":"4.53",
     "last_price":"17.5",
-    "payout_ratio":"0.4602"
+    "payout_ratio":"46.02"
   },
   {
     "symbol":"NER",
@@ -6735,9 +6735,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Agribusiness",
-    "dividend_yield_pct":"692.0",
+    "dividend_yield_pct":"6.92",
     "last_price":"4.48",
-    "payout_ratio":"0.353"
+    "payout_ratio":"35.3"
   },
   {
     "symbol":"NETBAY",
@@ -6772,9 +6772,9 @@
     "market":"mai",
     "industry":"Technology",
     "sector":null,
-    "dividend_yield_pct":"902.0",
-    "last_price":"13.1",
-    "payout_ratio":"1.3733"
+    "dividend_yield_pct":"9.02",
+    "last_price":"13.0",
+    "payout_ratio":"137.33"
   },
   {
     "symbol":"NEW",
@@ -6810,9 +6810,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Health Care Services",
-    "dividend_yield_pct":"168.0",
+    "dividend_yield_pct":"1.68",
     "last_price":"95.0",
-    "payout_ratio":"0.4423"
+    "payout_ratio":"44.23"
   },
   {
     "symbol":"NNCL",
@@ -6847,9 +6847,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Development",
-    "dividend_yield_pct":"686.0",
-    "last_price":"1.78",
-    "payout_ratio":"0.7857"
+    "dividend_yield_pct":"6.86",
+    "last_price":"1.79",
+    "payout_ratio":"78.57"
   },
   {
     "symbol":"NSL",
@@ -6880,9 +6880,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"485.0",
-    "last_price":"22.6",
-    "payout_ratio":"0.5303"
+    "dividend_yield_pct":"4.85",
+    "last_price":"22.7",
+    "payout_ratio":"53.03"
   },
   {
     "symbol":"NTV",
@@ -6919,7 +6919,7 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Health Care Services",
-    "dividend_yield_pct":"5.45",
+    "dividend_yield_pct":"0.05",
     "last_price":"19.1",
     "payout_ratio":null
   },
@@ -6958,9 +6958,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Transportation & Logistics",
-    "dividend_yield_pct":"1238.0",
-    "last_price":"4.04",
-    "payout_ratio":"0.8077"
+    "dividend_yield_pct":"12.38",
+    "last_price":"4.06",
+    "payout_ratio":"80.77"
   },
   {
     "symbol":"OCC",
@@ -6997,7 +6997,7 @@
     "market":"SET",
     "industry":"Consumer Products",
     "sector":"Personal Products & Pharmaceuticals",
-    "dividend_yield_pct":"0.5",
+    "dividend_yield_pct":"0.01",
     "last_price":"10.0",
     "payout_ratio":null
   },
@@ -7029,9 +7029,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Media & Publishing",
-    "dividend_yield_pct":"566.0",
-    "last_price":"3.12",
-    "payout_ratio":"0.6278"
+    "dividend_yield_pct":"5.66",
+    "last_price":"3.1",
+    "payout_ratio":"62.78"
   },
   {
     "symbol":"OR",
@@ -7063,8 +7063,8 @@
     "industry":"Resources",
     "sector":"Energy & Utilities",
     "dividend_yield_pct":"4.69",
-    "last_price":"12.8",
-    "payout_ratio":null
+    "last_price":"12.7",
+    "payout_ratio":"76.92"
   },
   {
     "symbol":"ORI",
@@ -7100,7 +7100,7 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Development",
-    "dividend_yield_pct":"3.55",
+    "dividend_yield_pct":"0.04",
     "last_price":"1.97",
     "payout_ratio":null
   },
@@ -7135,9 +7135,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"460.0",
-    "last_price":"17.4",
-    "payout_ratio":"0.5882"
+    "dividend_yield_pct":"4.6",
+    "last_price":"17.5",
+    "payout_ratio":"58.82"
   },
   {
     "symbol":"PATO",
@@ -7174,8 +7174,8 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Petrochemicals & Chemicals",
-    "dividend_yield_pct":"7.44",
-    "last_price":"6.05",
+    "dividend_yield_pct":"0.07",
+    "last_price":"6.1",
     "payout_ratio":null
   },
   {
@@ -7214,9 +7214,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"313.0",
+    "dividend_yield_pct":"3.13",
     "last_price":"48.0",
-    "payout_ratio":"0.6394"
+    "payout_ratio":"63.94"
   },
   {
     "symbol":"PCSGH",
@@ -7254,9 +7254,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Automotive",
-    "dividend_yield_pct":"877.0",
+    "dividend_yield_pct":"8.77",
     "last_price":"3.06",
-    "payout_ratio":"0.8929"
+    "payout_ratio":"89.29"
   },
   {
     "symbol":"PDG",
@@ -7294,9 +7294,9 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"1063.0",
+    "dividend_yield_pct":"10.63",
     "last_price":"3.2",
-    "payout_ratio":"1.0792"
+    "payout_ratio":"107.92"
   },
   {
     "symbol":"PEACE",
@@ -7326,9 +7326,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Development",
-    "dividend_yield_pct":"397.0",
+    "dividend_yield_pct":"3.97",
     "last_price":"1.5",
-    "payout_ratio":"2.0"
+    "payout_ratio":"200.0"
   },
   {
     "symbol":"PG",
@@ -7363,7 +7363,7 @@
     "market":"SET",
     "industry":"Consumer Products",
     "sector":"Fashion",
-    "dividend_yield_pct":"7.75",
+    "dividend_yield_pct":"0.08",
     "last_price":"6.45",
     "payout_ratio":null
   },
@@ -7401,9 +7401,9 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"762.0",
-    "last_price":"3.26",
-    "payout_ratio":"0.7143"
+    "dividend_yield_pct":"7.62",
+    "last_price":"3.24",
+    "payout_ratio":"71.43"
   },
   {
     "symbol":"PIMO",
@@ -7439,9 +7439,9 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"415.0",
-    "last_price":"1.17",
-    "payout_ratio":"0.65"
+    "dividend_yield_pct":"4.15",
+    "last_price":"1.18",
+    "payout_ratio":"65.0"
   },
   {
     "symbol":"PIN",
@@ -7471,8 +7471,8 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Development",
-    "dividend_yield_pct":"4.7",
-    "last_price":"4.6",
+    "dividend_yield_pct":"0.05",
+    "last_price":"4.62",
     "payout_ratio":null
   },
   {
@@ -7546,9 +7546,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Media & Publishing",
-    "dividend_yield_pct":"346.0",
+    "dividend_yield_pct":"3.46",
     "last_price":"6.05",
-    "payout_ratio":"0.6438"
+    "payout_ratio":"64.38"
   },
   {
     "symbol":"PM",
@@ -7586,8 +7586,8 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"8.45",
-    "last_price":"11.0",
+    "dividend_yield_pct":"0.08",
+    "last_price":"11.1",
     "payout_ratio":null
   },
   {
@@ -7625,9 +7625,9 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"245.0",
+    "dividend_yield_pct":"2.45",
     "last_price":"2.0",
-    "payout_ratio":"0.1697"
+    "payout_ratio":"16.97"
   },
   {
     "symbol":"PR9",
@@ -7660,8 +7660,8 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Health Care Services",
-    "dividend_yield_pct":"2.81",
-    "last_price":"17.8",
+    "dividend_yield_pct":"0.03",
+    "last_price":"17.9",
     "payout_ratio":null
   },
   {
@@ -7732,9 +7732,9 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"506.0",
-    "last_price":"0.78",
-    "payout_ratio":"0.375"
+    "dividend_yield_pct":"5.06",
+    "last_price":"0.77",
+    "payout_ratio":"37.5"
   },
   {
     "symbol":"PREB",
@@ -7771,8 +7771,8 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Construction Services",
-    "dividend_yield_pct":"5.71",
-    "last_price":"3.5",
+    "dividend_yield_pct":"0.06",
+    "last_price":"3.48",
     "payout_ratio":null
   },
   {
@@ -7807,8 +7807,8 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Transportation & Logistics",
-    "dividend_yield_pct":"5.13",
-    "last_price":"9.75",
+    "dividend_yield_pct":"0.05",
+    "last_price":"9.9",
     "payout_ratio":null
   },
   {
@@ -7844,9 +7844,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Development",
-    "dividend_yield_pct":"459.0",
-    "last_price":"3.88",
-    "payout_ratio":"2.625"
+    "dividend_yield_pct":"4.59",
+    "last_price":"3.9",
+    "payout_ratio":"262.5"
   },
   {
     "symbol":"PSL",
@@ -7878,9 +7878,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Transportation & Logistics",
-    "dividend_yield_pct":"491.0",
-    "last_price":"8.05",
-    "payout_ratio":"0.6928"
+    "dividend_yield_pct":"4.91",
+    "last_price":"7.9",
+    "payout_ratio":"69.28"
   },
   {
     "symbol":"PT",
@@ -7918,9 +7918,9 @@
     "market":"SET",
     "industry":"Technology",
     "sector":"Information & Communication Technology",
-    "dividend_yield_pct":"870.0",
+    "dividend_yield_pct":"8.7",
     "last_price":"11.4",
-    "payout_ratio":"1.099"
+    "payout_ratio":"109.9"
   },
   {
     "symbol":"PTC",
@@ -7950,7 +7950,7 @@
     "market":"mai",
     "industry":"Resources",
     "sector":null,
-    "dividend_yield_pct":"1.75",
+    "dividend_yield_pct":"0.02",
     "last_price":"0.57",
     "payout_ratio":null
   },
@@ -7989,9 +7989,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"464.0",
-    "last_price":"7.5",
-    "payout_ratio":"0.9283"
+    "dividend_yield_pct":"4.64",
+    "last_price":"7.45",
+    "payout_ratio":"92.83"
   },
   {
     "symbol":"PTT",
@@ -8029,9 +8029,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"538.0",
-    "last_price":"38.5",
-    "payout_ratio":"0.6462"
+    "dividend_yield_pct":"5.38",
+    "last_price":"38.75",
+    "payout_ratio":"64.62"
   },
   {
     "symbol":"PTTEP",
@@ -8069,8 +8069,8 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"0.19",
-    "last_price":"148.5",
+    "dividend_yield_pct":null,
+    "last_price":null,
     "payout_ratio":null
   },
   {
@@ -8109,9 +8109,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Petrochemicals & Chemicals",
-    "dividend_yield_pct":"130.0",
+    "dividend_yield_pct":"1.3",
     "last_price":"36.75",
-    "payout_ratio":"0.4386"
+    "payout_ratio":"43.86"
   },
   {
     "symbol":"PYLON",
@@ -8148,9 +8148,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Construction Services",
-    "dividend_yield_pct":"659.0",
+    "dividend_yield_pct":"6.59",
     "last_price":"3.56",
-    "payout_ratio":"0.6668"
+    "payout_ratio":"66.68"
   },
   {
     "symbol":"QH",
@@ -8188,8 +8188,8 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Development",
-    "dividend_yield_pct":"6.34",
-    "last_price":"1.42",
+    "dividend_yield_pct":"0.06",
+    "last_price":"1.41",
     "payout_ratio":null
   },
   {
@@ -8225,9 +8225,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Industrial Materials & Machinery",
-    "dividend_yield_pct":"433.0",
+    "dividend_yield_pct":"4.33",
     "last_price":"4.58",
-    "payout_ratio":"5.98"
+    "payout_ratio":"598.0"
   },
   {
     "symbol":"RAM",
@@ -8265,9 +8265,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Health Care Services",
-    "dividend_yield_pct":"56.0",
+    "dividend_yield_pct":"0.56",
     "last_price":"17.8",
-    "payout_ratio":"0.0446"
+    "payout_ratio":"4.46"
   },
   {
     "symbol":"RATCH",
@@ -8305,9 +8305,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"413.0",
-    "last_price":"38.5",
-    "payout_ratio":"0.5594"
+    "dividend_yield_pct":"4.13",
+    "last_price":"38.25",
+    "payout_ratio":"55.94"
   },
   {
     "symbol":"RBF",
@@ -8339,9 +8339,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"423.0",
+    "dividend_yield_pct":"4.23",
     "last_price":"5.0",
-    "payout_ratio":"0.7292"
+    "payout_ratio":"72.92"
   },
   {
     "symbol":"RCL",
@@ -8375,9 +8375,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Transportation & Logistics",
-    "dividend_yield_pct":"1176.0",
-    "last_price":"34.5",
-    "payout_ratio":"0.2662"
+    "dividend_yield_pct":"11.76",
+    "last_price":"34.25",
+    "payout_ratio":"26.62"
   },
   {
     "symbol":"RJH",
@@ -8413,7 +8413,7 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Health Care Services",
-    "dividend_yield_pct":"4.03",
+    "dividend_yield_pct":"0.04",
     "last_price":"14.9",
     "payout_ratio":null
   },
@@ -8452,9 +8452,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Development",
-    "dividend_yield_pct":"826.0",
-    "last_price":"6.05",
-    "payout_ratio":"0.3852"
+    "dividend_yield_pct":"8.26",
+    "last_price":"6.0",
+    "payout_ratio":"38.52"
   },
   {
     "symbol":"RPH",
@@ -8489,7 +8489,7 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Health Care Services",
-    "dividend_yield_pct":"5.62",
+    "dividend_yield_pct":"0.06",
     "last_price":"4.98",
     "payout_ratio":null
   },
@@ -8529,7 +8529,7 @@
     "market":"SET",
     "industry":"Consumer Products",
     "sector":"Fashion",
-    "dividend_yield_pct":"7.52",
+    "dividend_yield_pct":"0.08",
     "last_price":"15.7",
     "payout_ratio":null
   },
@@ -8562,9 +8562,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Finance & Securities",
-    "dividend_yield_pct":"595.0",
-    "last_price":"3.34",
-    "payout_ratio":"0.4286"
+    "dividend_yield_pct":"5.95",
+    "last_price":"3.32",
+    "payout_ratio":"42.86"
   },
   {
     "symbol":"SALEE",
@@ -8599,7 +8599,7 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"2.03",
+    "dividend_yield_pct":"0.02",
     "last_price":"0.59",
     "payout_ratio":null
   },
@@ -8638,9 +8638,9 @@
     "market":"SET",
     "industry":"Technology",
     "sector":"Information & Communication Technology",
-    "dividend_yield_pct":"329.0",
-    "last_price":"3.02",
-    "payout_ratio":"1.0909"
+    "dividend_yield_pct":"3.29",
+    "last_price":"3.0",
+    "payout_ratio":"109.09"
   },
   {
     "symbol":"SANKO",
@@ -8672,8 +8672,8 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"313.0",
-    "last_price":"1.23",
+    "dividend_yield_pct":"3.13",
+    "last_price":"1.22",
     "payout_ratio":null
   },
   {
@@ -8711,9 +8711,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"511.0",
-    "last_price":"33.5",
-    "payout_ratio":"0.9414"
+    "dividend_yield_pct":"5.11",
+    "last_price":"33.75",
+    "payout_ratio":"94.14"
   },
   {
     "symbol":"SAT",
@@ -8751,9 +8751,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Automotive",
-    "dividend_yield_pct":"988.0",
+    "dividend_yield_pct":"9.88",
     "last_price":"16.1",
-    "payout_ratio":"0.9022"
+    "payout_ratio":"90.22"
   },
   {
     "symbol":"SAUCE",
@@ -8790,9 +8790,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"441.0",
+    "dividend_yield_pct":"4.41",
     "last_price":"41.0",
-    "payout_ratio":"0.8174"
+    "payout_ratio":"81.74"
   },
   {
     "symbol":"SAWAD",
@@ -8829,9 +8829,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Finance & Securities",
-    "dividend_yield_pct":"296.0",
-    "last_price":"24.8",
-    "payout_ratio":"0.123"
+    "dividend_yield_pct":"2.96",
+    "last_price":"24.7",
+    "payout_ratio":"12.3"
   },
   {
     "symbol":"SC",
@@ -8868,9 +8868,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Development",
-    "dividend_yield_pct":"754.0",
+    "dividend_yield_pct":"7.54",
     "last_price":"2.0",
-    "payout_ratio":"0.4442"
+    "payout_ratio":"44.42"
   },
   {
     "symbol":"SCAP",
@@ -8906,9 +8906,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Finance & Securities",
-    "dividend_yield_pct":"4.02",
+    "dividend_yield_pct":"4.12",
     "last_price":"1.74",
-    "payout_ratio":null
+    "payout_ratio":"1.44"
   },
   {
     "symbol":"SCB",
@@ -8938,9 +8938,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Banking",
-    "dividend_yield_pct":"730.0",
+    "dividend_yield_pct":"7.3",
     "last_price":"152.0",
-    "payout_ratio":"0.7779"
+    "payout_ratio":"77.79"
   },
   {
     "symbol":"SCC",
@@ -8978,9 +8978,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Construction Materials",
-    "dividend_yield_pct":"2.36",
+    "dividend_yield_pct":"2.76",
     "last_price":"254.0",
-    "payout_ratio":null
+    "payout_ratio":"31.25"
   },
   {
     "symbol":"SCCC",
@@ -9019,7 +9019,7 @@
     "sector":"Construction Materials",
     "dividend_yield_pct":"7.38",
     "last_price":"149.0",
-    "payout_ratio":null
+    "payout_ratio":"85.27"
   },
   {
     "symbol":"SCGP",
@@ -9050,7 +9050,7 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Packaging",
-    "dividend_yield_pct":"2.5",
+    "dividend_yield_pct":"0.03",
     "last_price":"30.0",
     "payout_ratio":null
   },
@@ -9090,9 +9090,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Construction Materials",
-    "dividend_yield_pct":"1105.0",
-    "last_price":"9.05",
-    "payout_ratio":"0.9091"
+    "dividend_yield_pct":"11.05",
+    "last_price":"9.0",
+    "payout_ratio":"90.91"
   },
   {
     "symbol":"SE",
@@ -9127,8 +9127,8 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Industrial Materials & Machinery",
-    "dividend_yield_pct":"5.2",
-    "last_price":"0.5",
+    "dividend_yield_pct":"0.05",
+    "last_price":"0.49",
     "payout_ratio":null
   },
   {
@@ -9164,9 +9164,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"552.0",
+    "dividend_yield_pct":"5.52",
     "last_price":"3.36",
-    "payout_ratio":"0.474"
+    "payout_ratio":"47.4"
   },
   {
     "symbol":"SECURE",
@@ -9196,9 +9196,9 @@
     "market":"mai",
     "industry":"Technology",
     "sector":null,
-    "dividend_yield_pct":"741.0",
+    "dividend_yield_pct":"7.41",
     "last_price":"13.5",
-    "payout_ratio":"0.8065"
+    "payout_ratio":"80.65"
   },
   {
     "symbol":"SELIC",
@@ -9233,9 +9233,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Industrial Materials & Machinery",
-    "dividend_yield_pct":"129.0",
+    "dividend_yield_pct":"1.29",
     "last_price":"2.74",
-    "payout_ratio":"0.1392"
+    "payout_ratio":"13.92"
   },
   {
     "symbol":"SENA",
@@ -9273,8 +9273,8 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Development",
-    "dividend_yield_pct":"7.67",
-    "last_price":"1.8",
+    "dividend_yield_pct":"0.08",
+    "last_price":"1.81",
     "payout_ratio":null
   },
   {
@@ -9307,8 +9307,8 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Packaging",
-    "dividend_yield_pct":"5.7",
-    "last_price":"2.98",
+    "dividend_yield_pct":"0.06",
+    "last_price":"2.96",
     "payout_ratio":null
   },
   {
@@ -9340,9 +9340,9 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"500.0",
+    "dividend_yield_pct":"5.0",
     "last_price":"1.4",
-    "payout_ratio":"0.5"
+    "payout_ratio":"50.0"
   },
   {
     "symbol":"SGP",
@@ -9380,9 +9380,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"244.0",
+    "dividend_yield_pct":"2.44",
     "last_price":"8.05",
-    "payout_ratio":"0.2632"
+    "payout_ratio":"26.32"
   },
   {
     "symbol":"SICT",
@@ -9413,8 +9413,8 @@
     "market":"mai",
     "industry":"Technology",
     "sector":null,
-    "dividend_yield_pct":"0.87",
-    "last_price":"2.88",
+    "dividend_yield_pct":"0.01",
+    "last_price":"2.86",
     "payout_ratio":null
   },
   {
@@ -9452,9 +9452,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Development",
-    "dividend_yield_pct":"1060.0",
+    "dividend_yield_pct":"10.6",
     "last_price":"1.51",
-    "payout_ratio":"0.5394"
+    "payout_ratio":"53.94"
   },
   {
     "symbol":"SIS",
@@ -9491,9 +9491,9 @@
     "market":"SET",
     "industry":"Technology",
     "sector":"Information & Communication Technology",
-    "dividend_yield_pct":"474.0",
-    "last_price":"26.0",
-    "payout_ratio":"0.4586"
+    "dividend_yield_pct":"4.74",
+    "last_price":"26.25",
+    "payout_ratio":"45.86"
   },
   {
     "symbol":"SISB",
@@ -9525,9 +9525,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Professional Services",
-    "dividend_yield_pct":"531.0",
+    "dividend_yield_pct":"5.31",
     "last_price":"9.6",
-    "payout_ratio":"0.51"
+    "payout_ratio":"51.0"
   },
   {
     "symbol":"SITHAI",
@@ -9562,9 +9562,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Packaging",
-    "dividend_yield_pct":"556.0",
+    "dividend_yield_pct":"5.56",
     "last_price":"1.1",
-    "payout_ratio":"0.6"
+    "payout_ratio":"60.0"
   },
   {
     "symbol":"SKR",
@@ -9601,9 +9601,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Health Care Services",
-    "dividend_yield_pct":"313.0",
+    "dividend_yield_pct":"3.13",
     "last_price":"7.95",
-    "payout_ratio":"0.6061"
+    "payout_ratio":"60.61"
   },
   {
     "symbol":"SMART",
@@ -9635,7 +9635,7 @@
     "market":"mai",
     "industry":"Property & Construction",
     "sector":null,
-    "dividend_yield_pct":"7.27",
+    "dividend_yield_pct":"0.07",
     "last_price":"0.55",
     "payout_ratio":null
   },
@@ -9667,8 +9667,8 @@
     "market":"mai",
     "industry":"Consumer Products",
     "sector":null,
-    "dividend_yield_pct":"534.0",
-    "last_price":"1.16",
+    "dividend_yield_pct":"5.34",
+    "last_price":"1.17",
     "payout_ratio":null
   },
   {
@@ -9707,7 +9707,7 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Steel and Metal Products",
-    "dividend_yield_pct":"6.63",
+    "dividend_yield_pct":"0.07",
     "last_price":"3.62",
     "payout_ratio":null
   },
@@ -9747,9 +9747,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Packaging",
-    "dividend_yield_pct":"729.0",
+    "dividend_yield_pct":"7.29",
     "last_price":"9.6",
-    "payout_ratio":"0.5932"
+    "payout_ratio":"59.32"
   },
   {
     "symbol":"SMT",
@@ -9779,9 +9779,9 @@
     "market":"SET",
     "industry":"Technology",
     "sector":"Electronic Components",
-    "dividend_yield_pct":"62.0",
-    "last_price":"4.42",
-    "payout_ratio":"1.4"
+    "dividend_yield_pct":"0.62",
+    "last_price":"4.38",
+    "payout_ratio":"140.0"
   },
   {
     "symbol":"SNNP",
@@ -9812,9 +9812,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"838.0",
+    "dividend_yield_pct":"8.38",
     "last_price":"7.0",
-    "payout_ratio":"1.3043"
+    "payout_ratio":"130.43"
   },
   {
     "symbol":"SNP",
@@ -9852,9 +9852,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"1023.0",
+    "dividend_yield_pct":"10.23",
     "last_price":"8.85",
-    "payout_ratio":"0.946"
+    "payout_ratio":"94.6"
   },
   {
     "symbol":"SO",
@@ -9886,7 +9886,7 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Professional Services",
-    "dividend_yield_pct":"8.15",
+    "dividend_yield_pct":"0.08",
     "last_price":"4.66",
     "payout_ratio":null
   },
@@ -9921,9 +9921,9 @@
     "market":"mai",
     "industry":"Services",
     "sector":null,
-    "dividend_yield_pct":"3.92",
+    "dividend_yield_pct":"3.9",
     "last_price":"1.53",
-    "payout_ratio":null
+    "payout_ratio":"37.97"
   },
   {
     "symbol":"SORKON",
@@ -9960,9 +9960,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"706.0",
-    "last_price":"3.52",
-    "payout_ratio":"1.0208"
+    "dividend_yield_pct":"7.06",
+    "last_price":"3.5",
+    "payout_ratio":"102.08"
   },
   {
     "symbol":"SPALI",
@@ -10000,9 +10000,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Development",
-    "dividend_yield_pct":"875.0",
-    "last_price":"16.0",
-    "payout_ratio":"0.6695"
+    "dividend_yield_pct":"8.75",
+    "last_price":"16.1",
+    "payout_ratio":"66.95"
   },
   {
     "symbol":"SPC",
@@ -10039,9 +10039,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Commerce",
-    "dividend_yield_pct":"430.0",
+    "dividend_yield_pct":"4.3",
     "last_price":"55.5",
-    "payout_ratio":"0.3069"
+    "payout_ratio":"30.69"
   },
   {
     "symbol":"SPCG",
@@ -10079,9 +10079,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"2348.0",
+    "dividend_yield_pct":"23.48",
     "last_price":"9.15",
-    "payout_ratio":"6.3529"
+    "payout_ratio":"635.29"
   },
   {
     "symbol":"SPG",
@@ -10118,9 +10118,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Automotive",
-    "dividend_yield_pct":"727.0",
+    "dividend_yield_pct":"7.27",
     "last_price":"11.0",
-    "payout_ratio":"0.8081"
+    "payout_ratio":"80.81"
   },
   {
     "symbol":"SPI",
@@ -10157,8 +10157,8 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Commerce",
-    "dividend_yield_pct":"1.78",
-    "last_price":"33.75",
+    "dividend_yield_pct":"0.02",
+    "last_price":"32.5",
     "payout_ratio":null
   },
   {
@@ -10194,9 +10194,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"561.0",
-    "last_price":"10.8",
-    "payout_ratio":"0.2113"
+    "dividend_yield_pct":"5.61",
+    "last_price":"10.7",
+    "payout_ratio":"21.13"
   },
   {
     "symbol":"SPRIME",
@@ -10229,9 +10229,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Fund & REITs",
-    "dividend_yield_pct":"922.0",
+    "dividend_yield_pct":"9.22",
     "last_price":"4.32",
-    "payout_ratio":"0.6619"
+    "payout_ratio":"66.19"
   },
   {
     "symbol":"SPVI",
@@ -10268,9 +10268,9 @@
     "market":"mai",
     "industry":"Technology",
     "sector":null,
-    "dividend_yield_pct":"424.0",
-    "last_price":"3.4",
-    "payout_ratio":"0.4265"
+    "dividend_yield_pct":"4.24",
+    "last_price":"3.42",
+    "payout_ratio":"42.65"
   },
   {
     "symbol":"SSF",
@@ -10307,9 +10307,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"719.0",
+    "dividend_yield_pct":"7.19",
     "last_price":"5.15",
-    "payout_ratio":"0.7248"
+    "payout_ratio":"72.48"
   },
   {
     "symbol":"SSP",
@@ -10343,7 +10343,7 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"7.22",
+    "dividend_yield_pct":"0.07",
     "last_price":"4.5",
     "payout_ratio":null
   },
@@ -10382,8 +10382,8 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Steel and Metal Products",
-    "dividend_yield_pct":"7.37",
-    "last_price":"2.24",
+    "dividend_yield_pct":"0.07",
+    "last_price":"2.26",
     "payout_ratio":null
   },
   {
@@ -10420,9 +10420,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Fund & REITs",
-    "dividend_yield_pct":"855.0",
+    "dividend_yield_pct":"8.55",
     "last_price":"4.66",
-    "payout_ratio":"0.7739"
+    "payout_ratio":"77.39"
   },
   {
     "symbol":"STA",
@@ -10459,9 +10459,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Agribusiness",
-    "dividend_yield_pct":"267.0",
-    "last_price":"18.4",
-    "payout_ratio":"1.1905"
+    "dividend_yield_pct":"2.67",
+    "last_price":"18.3",
+    "payout_ratio":"119.05"
   },
   {
     "symbol":"STANLY",
@@ -10498,9 +10498,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Automotive",
-    "dividend_yield_pct":"1055.0",
+    "dividend_yield_pct":"10.55",
     "last_price":"235.0",
-    "payout_ratio":"0.7962"
+    "payout_ratio":"79.62"
   },
   {
     "symbol":"STGT",
@@ -10532,9 +10532,9 @@
     "market":"SET",
     "industry":"Consumer Products",
     "sector":"Personal Products & Pharmaceuticals",
-    "dividend_yield_pct":"481.0",
-    "last_price":"10.3",
-    "payout_ratio":"1.4706"
+    "dividend_yield_pct":"4.81",
+    "last_price":"10.2",
+    "payout_ratio":"147.06"
   },
   {
     "symbol":"STI",
@@ -10567,7 +10567,7 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Construction Services",
-    "dividend_yield_pct":"1.52",
+    "dividend_yield_pct":"0.02",
     "last_price":"1.71",
     "payout_ratio":null
   },
@@ -10599,9 +10599,9 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"563.0",
+    "dividend_yield_pct":"5.63",
     "last_price":"11.8",
-    "payout_ratio":"0.3801"
+    "payout_ratio":"38.01"
   },
   {
     "symbol":"SUC",
@@ -10637,9 +10637,9 @@
     "market":"SET",
     "industry":"Consumer Products",
     "sector":"Fashion",
-    "dividend_yield_pct":"550.0",
+    "dividend_yield_pct":"5.5",
     "last_price":"27.25",
-    "payout_ratio":"0.2517"
+    "payout_ratio":"25.17"
   },
   {
     "symbol":"SUN",
@@ -10673,9 +10673,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"394.0",
+    "dividend_yield_pct":"3.94",
     "last_price":"2.48",
-    "payout_ratio":"1.1111"
+    "payout_ratio":"111.11"
   },
   {
     "symbol":"SUSCO",
@@ -10713,8 +10713,8 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"4.05",
-    "last_price":"2.22",
+    "dividend_yield_pct":"0.04",
+    "last_price":"2.24",
     "payout_ratio":null
   },
   {
@@ -10745,8 +10745,8 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Commerce",
-    "dividend_yield_pct":"3.73",
-    "last_price":"1.34",
+    "dividend_yield_pct":"0.04",
+    "last_price":"1.33",
     "payout_ratio":null
   },
   {
@@ -10785,9 +10785,9 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"700.0",
+    "dividend_yield_pct":"7.0",
     "last_price":"4.56",
-    "payout_ratio":"0.7813"
+    "payout_ratio":"78.13"
   },
   {
     "symbol":"SYMC",
@@ -10823,8 +10823,8 @@
     "market":"SET",
     "industry":"Technology",
     "sector":"Information & Communication Technology",
-    "dividend_yield_pct":"1.75",
-    "last_price":"5.55",
+    "dividend_yield_pct":"0.02",
+    "last_price":"5.6",
     "payout_ratio":null
   },
   {
@@ -10862,9 +10862,9 @@
     "market":"SET",
     "industry":"Technology",
     "sector":"Information & Communication Technology",
-    "dividend_yield_pct":"503.0",
-    "last_price":"9.6",
-    "payout_ratio":"0.4632"
+    "dividend_yield_pct":"5.03",
+    "last_price":"9.65",
+    "payout_ratio":"46.32"
   },
   {
     "symbol":"SYNTEC",
@@ -10940,9 +10940,9 @@
     "market":"mai",
     "industry":"Agro & Food Industry",
     "sector":null,
-    "dividend_yield_pct":"651.0",
-    "last_price":"6.4",
-    "payout_ratio":"0.7273"
+    "dividend_yield_pct":"6.51",
+    "last_price":"6.35",
+    "payout_ratio":"72.73"
   },
   {
     "symbol":"TASCO",
@@ -10980,8 +10980,8 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Construction Materials",
-    "dividend_yield_pct":"7.19",
-    "last_price":"13.9",
+    "dividend_yield_pct":"0.07",
+    "last_price":"14.0",
     "payout_ratio":null
   },
   {
@@ -11019,9 +11019,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"448.0",
-    "last_price":"6.65",
-    "payout_ratio":"0.4688"
+    "dividend_yield_pct":"4.48",
+    "last_price":"6.6",
+    "payout_ratio":"46.88"
   },
   {
     "symbol":"TCAP",
@@ -11059,9 +11059,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Banking",
-    "dividend_yield_pct":"475.0",
+    "dividend_yield_pct":"4.75",
     "last_price":"71.75",
-    "payout_ratio":"0.4311"
+    "payout_ratio":"43.11"
   },
   {
     "symbol":"TEAM",
@@ -11093,9 +11093,9 @@
     "market":"SET",
     "industry":"Technology",
     "sector":"Electronic Components",
-    "dividend_yield_pct":"427.0",
-    "last_price":"4.5",
-    "payout_ratio":"0.5988"
+    "dividend_yield_pct":"4.27",
+    "last_price":"4.46",
+    "payout_ratio":"59.88"
   },
   {
     "symbol":"TEKA",
@@ -11125,9 +11125,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Construction Services",
-    "dividend_yield_pct":"847.0",
+    "dividend_yield_pct":"8.47",
     "last_price":"1.77",
-    "payout_ratio":"0.4655"
+    "payout_ratio":"46.55"
   },
   {
     "symbol":"TFG",
@@ -11162,9 +11162,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"710.0",
+    "dividend_yield_pct":"7.1",
     "last_price":"9.85",
-    "payout_ratio":"0.56"
+    "payout_ratio":"56.0"
   },
   {
     "symbol":"TFM",
@@ -11194,9 +11194,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Agribusiness",
-    "dividend_yield_pct":"916.0",
-    "last_price":"6.55",
-    "payout_ratio":"0.7362"
+    "dividend_yield_pct":"9.16",
+    "last_price":"6.5",
+    "payout_ratio":"73.62"
   },
   {
     "symbol":"TFMAMA",
@@ -11234,9 +11234,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"245.0",
+    "dividend_yield_pct":"2.45",
     "last_price":"186.5",
-    "payout_ratio":"0.4617"
+    "payout_ratio":"46.17"
   },
   {
     "symbol":"THANI",
@@ -11273,7 +11273,7 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Finance & Securities",
-    "dividend_yield_pct":"5.0",
+    "dividend_yield_pct":"0.05",
     "last_price":"2.2",
     "payout_ratio":null
   },
@@ -11312,9 +11312,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Packaging",
-    "dividend_yield_pct":"762.0",
+    "dividend_yield_pct":"7.62",
     "last_price":"20.9",
-    "payout_ratio":"1.5864"
+    "payout_ratio":"158.64"
   },
   {
     "symbol":"TIF1",
@@ -11352,9 +11352,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Fund & REITs",
-    "dividend_yield_pct":"750.0",
+    "dividend_yield_pct":"7.5",
     "last_price":"8.0",
-    "payout_ratio":"0.6382"
+    "payout_ratio":"63.82"
   },
   {
     "symbol":"TIPCO",
@@ -11390,9 +11390,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"156.0",
+    "dividend_yield_pct":"1.56",
     "last_price":"6.3",
-    "payout_ratio":"0.3273"
+    "payout_ratio":"32.73"
   },
   {
     "symbol":"TIPH",
@@ -11422,9 +11422,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Insurance",
-    "dividend_yield_pct":"638.0",
+    "dividend_yield_pct":"6.38",
     "last_price":"23.2",
-    "payout_ratio":"0.8333"
+    "payout_ratio":"83.33"
   },
   {
     "symbol":"TISCO",
@@ -11461,7 +11461,7 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Banking",
-    "dividend_yield_pct":"4.51",
+    "dividend_yield_pct":"0.05",
     "last_price":"127.5",
     "payout_ratio":null
   },
@@ -11500,9 +11500,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Finance & Securities",
-    "dividend_yield_pct":"448.0",
+    "dividend_yield_pct":"4.48",
     "last_price":"4.46",
-    "payout_ratio":"1.6349"
+    "payout_ratio":"163.49"
   },
   {
     "symbol":"TKC",
@@ -11532,9 +11532,9 @@
     "market":"SET",
     "industry":"Technology",
     "sector":"Information & Communication Technology",
-    "dividend_yield_pct":"222.0",
+    "dividend_yield_pct":"2.22",
     "last_price":"8.9",
-    "payout_ratio":"0.4545"
+    "payout_ratio":"45.45"
   },
   {
     "symbol":"TKN",
@@ -11570,9 +11570,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"610.0",
-    "last_price":"4.08",
-    "payout_ratio":"0.8333"
+    "dividend_yield_pct":"6.1",
+    "last_price":"4.1",
+    "payout_ratio":"83.33"
   },
   {
     "symbol":"TKS",
@@ -11610,9 +11610,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Media & Publishing",
-    "dividend_yield_pct":"639.0",
+    "dividend_yield_pct":"6.39",
     "last_price":"7.2",
-    "payout_ratio":"0.5972"
+    "payout_ratio":"59.72"
   },
   {
     "symbol":"TMD",
@@ -11649,9 +11649,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Packaging",
-    "dividend_yield_pct":"636.0",
+    "dividend_yield_pct":"6.36",
     "last_price":"26.75",
-    "payout_ratio":"0.6996"
+    "payout_ratio":"69.96"
   },
   {
     "symbol":"TMILL",
@@ -11688,9 +11688,9 @@
     "market":"mai",
     "industry":"Agro & Food Industry",
     "sector":null,
-    "dividend_yield_pct":"515.0",
+    "dividend_yield_pct":"5.15",
     "last_price":"2.72",
-    "payout_ratio":"0.5625"
+    "payout_ratio":"56.25"
   },
   {
     "symbol":"TNL",
@@ -11727,7 +11727,7 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Finance & Securities",
-    "dividend_yield_pct":"3.19",
+    "dividend_yield_pct":"0.03",
     "last_price":"18.8",
     "payout_ratio":null
   },
@@ -11765,9 +11765,9 @@
     "market":"mai",
     "industry":"Services",
     "sector":null,
-    "dividend_yield_pct":"379.0",
+    "dividend_yield_pct":"3.79",
     "last_price":"2.88",
-    "payout_ratio":"0.3992"
+    "payout_ratio":"39.92"
   },
   {
     "symbol":"TNR",
@@ -11802,9 +11802,9 @@
     "market":"SET",
     "industry":"Consumer Products",
     "sector":"Personal Products & Pharmaceuticals",
-    "dividend_yield_pct":"727.0",
-    "last_price":"5.55",
-    "payout_ratio":"0.8"
+    "dividend_yield_pct":"7.27",
+    "last_price":"5.5",
+    "payout_ratio":"80.0"
   },
   {
     "symbol":"TOA",
@@ -11838,9 +11838,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Construction Materials",
-    "dividend_yield_pct":"4.81",
+    "dividend_yield_pct":"4.97",
     "last_price":"15.6",
-    "payout_ratio":null
+    "payout_ratio":"38.89"
   },
   {
     "symbol":"TOG",
@@ -11878,9 +11878,9 @@
     "market":"SET",
     "industry":"Consumer Products",
     "sector":"Personal Products & Pharmaceuticals",
-    "dividend_yield_pct":"784.0",
+    "dividend_yield_pct":"7.84",
     "last_price":"7.55",
-    "payout_ratio":"0.625"
+    "payout_ratio":"62.5"
   },
   {
     "symbol":"TOP",
@@ -11918,9 +11918,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"313.0",
-    "last_price":"64.0",
-    "payout_ratio":"0.1306"
+    "dividend_yield_pct":"3.13",
+    "last_price":"63.75",
+    "payout_ratio":"13.06"
   },
   {
     "symbol":"TOPP",
@@ -11957,9 +11957,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Packaging",
-    "dividend_yield_pct":"334.0",
+    "dividend_yield_pct":"3.34",
     "last_price":"132.5",
-    "payout_ratio":"0.2624"
+    "payout_ratio":"26.24"
   },
   {
     "symbol":"TPAC",
@@ -11994,8 +11994,8 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Packaging",
-    "dividend_yield_pct":"5.06",
-    "last_price":"8.65",
+    "dividend_yield_pct":"0.05",
+    "last_price":"8.6",
     "payout_ratio":null
   },
   {
@@ -12033,7 +12033,7 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Industrial Materials & Machinery",
-    "dividend_yield_pct":"7.07",
+    "dividend_yield_pct":"0.07",
     "last_price":"9.9",
     "payout_ratio":null
   },
@@ -12109,9 +12109,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"385.0",
+    "dividend_yield_pct":"3.85",
     "last_price":"1.79",
-    "payout_ratio":"0.3867"
+    "payout_ratio":"38.67"
   },
   {
     "symbol":"TPLAS",
@@ -12144,9 +12144,9 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"336.0",
+    "dividend_yield_pct":"3.36",
     "last_price":"1.18",
-    "payout_ratio":"0.7143"
+    "payout_ratio":"71.43"
   },
   {
     "symbol":"TPP",
@@ -12183,7 +12183,7 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Packaging",
-    "dividend_yield_pct":"8.0",
+    "dividend_yield_pct":"0.08",
     "last_price":"12.5",
     "payout_ratio":null
   },
@@ -12220,9 +12220,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Fund & REITs",
-    "dividend_yield_pct":"718.0",
+    "dividend_yield_pct":"7.18",
     "last_price":"7.65",
-    "payout_ratio":"0.7339"
+    "payout_ratio":"73.39"
   },
   {
     "symbol":"TPS",
@@ -12254,9 +12254,9 @@
     "market":"mai",
     "industry":"Technology",
     "sector":null,
-    "dividend_yield_pct":"1258.0",
+    "dividend_yield_pct":"12.58",
     "last_price":"3.18",
-    "payout_ratio":"0.8833"
+    "payout_ratio":"88.33"
   },
   {
     "symbol":"TQM",
@@ -12289,9 +12289,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Insurance",
-    "dividend_yield_pct":"643.0",
+    "dividend_yield_pct":"6.43",
     "last_price":"16.9",
-    "payout_ratio":"0.9483"
+    "payout_ratio":"94.83"
   },
   {
     "symbol":"TQR",
@@ -12322,9 +12322,9 @@
     "market":"mai",
     "industry":"Financials",
     "sector":null,
-    "dividend_yield_pct":"789.0",
+    "dividend_yield_pct":"7.89",
     "last_price":"5.75",
-    "payout_ratio":"0.8889"
+    "payout_ratio":"88.89"
   },
   {
     "symbol":"TR",
@@ -12361,8 +12361,8 @@
     "market":"SET",
     "industry":"Consumer Products",
     "sector":"Fashion",
-    "dividend_yield_pct":"0.19",
-    "last_price":"26.25",
+    "dividend_yield_pct":null,
+    "last_price":null,
     "payout_ratio":null
   },
   {
@@ -12400,9 +12400,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Automotive",
-    "dividend_yield_pct":"654.0",
+    "dividend_yield_pct":"6.54",
     "last_price":"3.8",
-    "payout_ratio":"0.8108"
+    "payout_ratio":"81.08"
   },
   {
     "symbol":"TSC",
@@ -12439,9 +12439,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Automotive",
-    "dividend_yield_pct":"789.0",
+    "dividend_yield_pct":"7.89",
     "last_price":"15.2",
-    "payout_ratio":"0.8759"
+    "payout_ratio":"87.59"
   },
   {
     "symbol":"TSTE",
@@ -12478,7 +12478,7 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Transportation & Logistics",
-    "dividend_yield_pct":"1.52",
+    "dividend_yield_pct":"0.02",
     "last_price":"10.5",
     "payout_ratio":null
   },
@@ -12556,7 +12556,7 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Banking",
-    "dividend_yield_pct":"2.25",
+    "dividend_yield_pct":"0.02",
     "last_price":"3.02",
     "payout_ratio":null
   },
@@ -12592,9 +12592,9 @@
     "market":"SET",
     "industry":"Consumer Products",
     "sector":"Fashion",
-    "dividend_yield_pct":"194.0",
+    "dividend_yield_pct":"1.94",
     "last_price":"25.75",
-    "payout_ratio":"0.9709"
+    "payout_ratio":"97.09"
   },
   {
     "symbol":"TTT",
@@ -12627,9 +12627,9 @@
     "market":"SET",
     "industry":"Consumer Products",
     "sector":"Fashion",
-    "dividend_yield_pct":"791.0",
+    "dividend_yield_pct":"7.91",
     "last_price":"42.75",
-    "payout_ratio":"2.5424"
+    "payout_ratio":"254.24"
   },
   {
     "symbol":"TTW",
@@ -12667,9 +12667,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"571.0",
+    "dividend_yield_pct":"5.71",
     "last_price":"10.4",
-    "payout_ratio":"0.7317"
+    "payout_ratio":"73.17"
   },
   {
     "symbol":"TU",
@@ -12707,9 +12707,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"574.0",
-    "last_price":"12.1",
-    "payout_ratio":"0.5785"
+    "dividend_yield_pct":"5.74",
+    "last_price":"12.2",
+    "payout_ratio":"57.85"
   },
   {
     "symbol":"TVO",
@@ -12747,9 +12747,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"859.0",
-    "last_price":"27.25",
-    "payout_ratio":"0.7406"
+    "dividend_yield_pct":"8.59",
+    "last_price":"27.5",
+    "payout_ratio":"74.06"
   },
   {
     "symbol":"TWPC",
@@ -12786,8 +12786,8 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"4.01",
-    "last_price":"2.84",
+    "dividend_yield_pct":"0.04",
+    "last_price":"2.86",
     "payout_ratio":null
   },
   {
@@ -12825,7 +12825,7 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Petrochemicals & Chemicals",
-    "dividend_yield_pct":"775.0",
+    "dividend_yield_pct":"7.75",
     "last_price":"2.56",
     "payout_ratio":null
   },
@@ -12857,9 +12857,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"255.0",
-    "last_price":"0.61",
-    "payout_ratio":"2.6222"
+    "dividend_yield_pct":"2.55",
+    "last_price":"0.6",
+    "payout_ratio":"262.22"
   },
   {
     "symbol":"UEC",
@@ -12896,9 +12896,9 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"789.0",
+    "dividend_yield_pct":"7.89",
     "last_price":"0.75",
-    "payout_ratio":"2.6667"
+    "payout_ratio":"266.67"
   },
   {
     "symbol":"UKEM",
@@ -12935,9 +12935,9 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"132.0",
-    "last_price":"1.16",
-    "payout_ratio":"0.0781"
+    "dividend_yield_pct":"1.32",
+    "last_price":"1.15",
+    "payout_ratio":"7.81"
   },
   {
     "symbol":"UPOIC",
@@ -12975,9 +12975,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Agribusiness",
-    "dividend_yield_pct":"493.0",
+    "dividend_yield_pct":"4.93",
     "last_price":"6.85",
-    "payout_ratio":"0.4183"
+    "payout_ratio":"41.83"
   },
   {
     "symbol":"UTP",
@@ -13015,8 +13015,8 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Paper & Printing Materials",
-    "dividend_yield_pct":"7.32",
-    "last_price":"8.2",
+    "dividend_yield_pct":"0.07",
+    "last_price":"8.25",
     "payout_ratio":null
   },
   {
@@ -13055,9 +13055,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Agribusiness",
-    "dividend_yield_pct":"801.0",
-    "last_price":"15.7",
-    "payout_ratio":"0.6378"
+    "dividend_yield_pct":"8.01",
+    "last_price":"15.6",
+    "payout_ratio":"63.78"
   },
   {
     "symbol":"VCOM",
@@ -13091,7 +13091,7 @@
     "market":"mai",
     "industry":"Technology",
     "sector":null,
-    "dividend_yield_pct":"9.25",
+    "dividend_yield_pct":"0.09",
     "last_price":"4.0",
     "payout_ratio":null
   },
@@ -13130,9 +13130,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Health Care Services",
-    "dividend_yield_pct":"444.0",
-    "last_price":"1.35",
-    "payout_ratio":"0.346"
+    "dividend_yield_pct":"4.44",
+    "last_price":"1.34",
+    "payout_ratio":"34.6"
   },
   {
     "symbol":"VIH",
@@ -13170,9 +13170,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Health Care Services",
-    "dividend_yield_pct":"468.0",
+    "dividend_yield_pct":"4.68",
     "last_price":"8.45",
-    "payout_ratio":"0.5592"
+    "payout_ratio":"55.92"
   },
   {
     "symbol":"WACOAL",
@@ -13209,9 +13209,9 @@
     "market":"SET",
     "industry":"Consumer Products",
     "sector":"Fashion",
-    "dividend_yield_pct":"350.0",
+    "dividend_yield_pct":"3.5",
     "last_price":"15.7",
-    "payout_ratio":"3.5"
+    "payout_ratio":"350.0"
   },
   {
     "symbol":"WHA",
@@ -13246,9 +13246,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Development",
-    "dividend_yield_pct":"430.0",
-    "last_price":"4.8",
-    "payout_ratio":"0.6237"
+    "dividend_yield_pct":"4.3",
+    "last_price":"4.78",
+    "payout_ratio":"62.37"
   },
   {
     "symbol":"WHABT",
@@ -13284,9 +13284,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Fund & REITs",
-    "dividend_yield_pct":"930.0",
+    "dividend_yield_pct":"9.3",
     "last_price":"6.45",
-    "payout_ratio":"1.4325"
+    "payout_ratio":"143.25"
   },
   {
     "symbol":"WHAIR",
@@ -13320,7 +13320,7 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Fund & REITs",
-    "dividend_yield_pct":"7.08",
+    "dividend_yield_pct":"0.07",
     "last_price":"8.25",
     "payout_ratio":null
   },
@@ -13359,9 +13359,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Fund & REITs",
-    "dividend_yield_pct":"672.0",
-    "last_price":"11.2",
-    "payout_ratio":"1.1375"
+    "dividend_yield_pct":"6.72",
+    "last_price":"11.3",
+    "payout_ratio":"113.75"
   },
   {
     "symbol":"WHAUP",
@@ -13395,9 +13395,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"326.0",
-    "last_price":"7.6",
-    "payout_ratio":"0.8707"
+    "dividend_yield_pct":"3.26",
+    "last_price":"7.5",
+    "payout_ratio":"87.07"
   },
   {
     "symbol":"WICE",
@@ -13433,8 +13433,8 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Transportation & Logistics",
-    "dividend_yield_pct":"3.91",
-    "last_price":"3.58",
+    "dividend_yield_pct":"0.04",
+    "last_price":"3.52",
     "payout_ratio":null
   },
   {
@@ -13471,9 +13471,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Construction Materials",
-    "dividend_yield_pct":"478.0",
-    "last_price":"1.11",
-    "payout_ratio":"0.9296"
+    "dividend_yield_pct":"4.78",
+    "last_price":"1.09",
+    "payout_ratio":"92.96"
   },
   {
     "symbol":"WINMED",
@@ -13503,9 +13503,9 @@
     "market":"mai",
     "industry":"Consumer Products",
     "sector":null,
-    "dividend_yield_pct":"144.0",
+    "dividend_yield_pct":"1.44",
     "last_price":"0.9",
-    "payout_ratio":"0.4032"
+    "payout_ratio":"40.32"
   },
   {
     "symbol":"WINNER",
@@ -13543,9 +13543,9 @@
     "market":"mai",
     "industry":"Agro & Food Industry",
     "sector":null,
-    "dividend_yield_pct":"8.18",
-    "last_price":"2.2",
-    "payout_ratio":null
+    "dividend_yield_pct":"8.26",
+    "last_price":"2.18",
+    "payout_ratio":"81.82"
   },
   {
     "symbol":"WP",
@@ -13577,9 +13577,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"811.0",
-    "last_price":"3.72",
-    "payout_ratio":"0.9677"
+    "dividend_yield_pct":"8.11",
+    "last_price":"3.74",
+    "payout_ratio":"96.77"
   },
   {
     "symbol":"WPH",
@@ -13613,7 +13613,7 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Health Care Services",
-    "dividend_yield_pct":"1.43",
+    "dividend_yield_pct":"0.01",
     "last_price":"5.65",
     "payout_ratio":null
   },
@@ -13651,8 +13651,8 @@
     "market":"mai",
     "industry":"Agro & Food Industry",
     "sector":null,
-    "dividend_yield_pct":"3.6",
-    "last_price":"19.1",
+    "dividend_yield_pct":"0.04",
+    "last_price":"19.2",
     "payout_ratio":null
   },
   {
@@ -13689,8 +13689,8 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"631.0",
-    "last_price":"14.6",
-    "payout_ratio":"0.2635"
+    "dividend_yield_pct":"6.31",
+    "last_price":"14.5",
+    "payout_ratio":"26.35"
   }
 ]
