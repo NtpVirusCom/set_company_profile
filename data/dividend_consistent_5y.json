@@ -1,5 +1,5097 @@
 [
   {
+    "symbol":"2S",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-03-12",
+    "oldest_dividend_date":"2015-03-11",
+    "raw_dividend_count":20,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"2S METAL PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Industrials",
+    "sector":"Steel and Metal Products",
+    "dividend_yield_pct":"745.0",
+    "last_price":"3.2",
+    "payout_ratio":"0.5"
+  },
+  {
+    "symbol":"ACG",
+    "years_with_dividend":[
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":7,
+    "latest_dividend_date":"2026-04-29",
+    "oldest_dividend_date":"2020-04-20",
+    "raw_dividend_count":7,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"AUTOCORP HOLDING PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Industrials",
+    "sector":"Automotive",
+    "dividend_yield_pct":"5.56",
+    "last_price":"0.72",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"ADD",
+    "years_with_dividend":[
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":6,
+    "latest_dividend_date":"2026-05-26",
+    "oldest_dividend_date":"2021-08-24",
+    "raw_dividend_count":18,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"ADDTECH HUB PUBLIC COMPANY LIMITED",
+    "market":"mai",
+    "industry":"Services",
+    "sector":null,
+    "dividend_yield_pct":"714.0",
+    "last_price":"3.32",
+    "payout_ratio":"1.5217"
+  },
+  {
+    "symbol":"ADVANC",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-02-27",
+    "oldest_dividend_date":"2014-08-13",
+    "raw_dividend_count":24,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"ADVANCED INFO SERVICE PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Technology",
+    "sector":"Information & Communication Technology",
+    "dividend_yield_pct":"451.0",
+    "last_price":"378.0",
+    "payout_ratio":"0.8958"
+  },
+  {
+    "symbol":"AEONTS",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-04-27",
+    "oldest_dividend_date":"2014-10-10",
+    "raw_dividend_count":24,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"AEON THANA SINSAP (THAILAND) PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Financials",
+    "sector":"Finance & Securities",
+    "dividend_yield_pct":"562.0",
+    "last_price":"105.0",
+    "payout_ratio":"0.4382"
+  },
+  {
+    "symbol":"AH",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-03-12",
+    "oldest_dividend_date":"2014-08-26",
+    "raw_dividend_count":22,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"AAPICO HITECH PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Industrials",
+    "sector":"Automotive",
+    "dividend_yield_pct":"619.0",
+    "last_price":"15.6",
+    "payout_ratio":"0.3575"
+  },
+  {
+    "symbol":"AHC",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-04-30",
+    "oldest_dividend_date":"2015-04-30",
+    "raw_dividend_count":12,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"AIKCHOL HOSPITAL PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Services",
+    "sector":"Health Care Services",
+    "dividend_yield_pct":null,
+    "last_price":null,
+    "payout_ratio":null
+  },
+  {
+    "symbol":"AI",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-03-04",
+    "oldest_dividend_date":"2014-09-01",
+    "raw_dividend_count":20,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"ASIAN INSULATORS PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Resources",
+    "sector":"Energy & Utilities",
+    "dividend_yield_pct":"1327.0",
+    "last_price":"2.92",
+    "payout_ratio":"3.2787"
+  },
+  {
+    "symbol":"AIMCG",
+    "years_with_dividend":[
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":8,
+    "latest_dividend_date":"2026-05-22",
+    "oldest_dividend_date":"2019-11-25",
+    "raw_dividend_count":23,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"AIM COMMERCIAL GROWTH FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST",
+    "market":"SET",
+    "industry":"Property & Construction",
+    "sector":"Property Fund & REITs",
+    "dividend_yield_pct":"4.19",
+    "last_price":"1.67",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"AIMIRT",
+    "years_with_dividend":[
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":9,
+    "latest_dividend_date":"2026-05-22",
+    "oldest_dividend_date":"2018-05-28",
+    "raw_dividend_count":33,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"AIM INDUSTRIAL GROWTH FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST",
+    "market":"SET",
+    "industry":"Property & Construction",
+    "sector":"Property Fund & REITs",
+    "dividend_yield_pct":"651.0",
+    "last_price":"12.5",
+    "payout_ratio":"0.9351"
+  },
+  {
+    "symbol":"AIT",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-04-22",
+    "oldest_dividend_date":"2014-08-19",
+    "raw_dividend_count":24,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"ADVANCED INFORMATION TECHNOLOGY PUBLIC CO.,LTD.",
+    "market":"SET",
+    "industry":"Technology",
+    "sector":"Information & Communication Technology",
+    "dividend_yield_pct":"738.0",
+    "last_price":"4.9",
+    "payout_ratio":"1.4456"
+  },
+  {
+    "symbol":"AKR",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":9,
+    "latest_dividend_date":"2026-05-08",
+    "oldest_dividend_date":"2015-05-06",
+    "raw_dividend_count":11,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"EKARAT ENGINEERING PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Industrials",
+    "sector":"Industrial Materials & Machinery",
+    "dividend_yield_pct":"722.0",
+    "last_price":"0.9",
+    "payout_ratio":"1.3889"
+  },
+  {
+    "symbol":"ALLA",
+    "years_with_dividend":[
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":10,
+    "latest_dividend_date":"2026-05-08",
+    "oldest_dividend_date":"2017-05-02",
+    "raw_dividend_count":10,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"ALLA PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Industrials",
+    "sector":"Industrial Materials & Machinery",
+    "dividend_yield_pct":"855.0",
+    "last_price":"1.16",
+    "payout_ratio":"1.0185"
+  },
+  {
+    "symbol":"ALLY",
+    "years_with_dividend":[
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":7,
+    "latest_dividend_date":"2026-05-25",
+    "oldest_dividend_date":"2020-03-10",
+    "raw_dividend_count":23,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"ALLY FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST",
+    "market":"SET",
+    "industry":"Property & Construction",
+    "sector":"Property Fund & REITs",
+    "dividend_yield_pct":"852.0",
+    "last_price":"5.15",
+    "payout_ratio":"0.6117"
+  },
+  {
+    "symbol":"ALUCON",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-05-06",
+    "oldest_dividend_date":"2015-04-30",
+    "raw_dividend_count":12,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"ALUCON PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Industrials",
+    "sector":"Packaging",
+    "dividend_yield_pct":"6.53",
+    "last_price":"245.0",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"AMA",
+    "years_with_dividend":[
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":10,
+    "latest_dividend_date":"2026-03-09",
+    "oldest_dividend_date":"2017-03-15",
+    "raw_dividend_count":13,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"AMA MARINE PUBLIC COMPANY LIMITED",
+    "market":"mai",
+    "industry":"Services",
+    "sector":null,
+    "dividend_yield_pct":"781.0",
+    "last_price":"3.84",
+    "payout_ratio":"0.7692"
+  },
+  {
+    "symbol":"AMATA",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-05-05",
+    "oldest_dividend_date":"2014-11-25",
+    "raw_dividend_count":24,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"AMATA CORPORATION PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Property & Construction",
+    "sector":"Property Development",
+    "dividend_yield_pct":"407.0",
+    "last_price":"27.5",
+    "payout_ratio":"0.2795"
+  },
+  {
+    "symbol":"AMATAR",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-05-26",
+    "oldest_dividend_date":"2015-11-23",
+    "raw_dividend_count":43,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"AMATA SUMMIT GROWTH FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST",
+    "market":"SET",
+    "industry":"Property & Construction",
+    "sector":"Property Fund & REITs",
+    "dividend_yield_pct":"848.0",
+    "last_price":"7.55",
+    "payout_ratio":"0.7291"
+  },
+  {
+    "symbol":"AP",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-05-06",
+    "oldest_dividend_date":"2014-10-20",
+    "raw_dividend_count":13,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"AP (THAILAND) PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Property & Construction",
+    "sector":"Property Development",
+    "dividend_yield_pct":"646.0",
+    "last_price":"8.1",
+    "payout_ratio":"0.4317"
+  },
+  {
+    "symbol":"APCO",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-04-28",
+    "oldest_dividend_date":"2015-04-02",
+    "raw_dividend_count":12,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"ASIAN PHYTOCEUTICALS PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Consumer Products",
+    "sector":"Personal Products & Pharmaceuticals",
+    "dividend_yield_pct":"340.0",
+    "last_price":"2.62",
+    "payout_ratio":"0.92"
+  },
+  {
+    "symbol":"APP",
+    "years_with_dividend":[
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":7,
+    "latest_dividend_date":"2026-05-07",
+    "oldest_dividend_date":"2020-04-16",
+    "raw_dividend_count":7,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"APPLICAD PUBLIC COMPANY LIMITED",
+    "market":"mai",
+    "industry":"Technology",
+    "sector":null,
+    "dividend_yield_pct":"891.0",
+    "last_price":"2.54",
+    "payout_ratio":"0.3939"
+  },
+  {
+    "symbol":"ARROW",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-05-06",
+    "oldest_dividend_date":"2014-08-18",
+    "raw_dividend_count":25,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"ARROW SYNDICATE PUBLIC COMPANY LIMITED",
+    "market":"mai",
+    "industry":"Property & Construction",
+    "sector":null,
+    "dividend_yield_pct":"6.96",
+    "last_price":"5.75",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"ASEFA",
+    "years_with_dividend":[
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":11,
+    "latest_dividend_date":"2026-05-07",
+    "oldest_dividend_date":"2016-05-03",
+    "raw_dividend_count":11,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"ASEFA PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Industrials",
+    "sector":"Industrial Materials & Machinery",
+    "dividend_yield_pct":"579.0",
+    "last_price":"5.8",
+    "payout_ratio":"0.25"
+  },
+  {
+    "symbol":"ASIAN",
+    "years_with_dividend":[
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":11,
+    "latest_dividend_date":"2026-03-05",
+    "oldest_dividend_date":"2016-05-03",
+    "raw_dividend_count":17,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"ASIAN SEA CORPORATION PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Agro & Food Industry",
+    "sector":"Food & Beverage",
+    "dividend_yield_pct":"664.0",
+    "last_price":"7.45",
+    "payout_ratio":"1.6565"
+  },
+  {
+    "symbol":"ASIMAR",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-03-13",
+    "oldest_dividend_date":"2015-03-13",
+    "raw_dividend_count":12,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"ASIAN MARINE SERVICES PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Services",
+    "sector":"Transportation & Logistics",
+    "dividend_yield_pct":"839.0",
+    "last_price":"1.43",
+    "payout_ratio":"0.8054"
+  },
+  {
+    "symbol":"ASK",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-02-27",
+    "oldest_dividend_date":"2015-03-09",
+    "raw_dividend_count":12,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"ASIA SERMKIJ LEASING PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Financials",
+    "sector":"Finance & Securities",
+    "dividend_yield_pct":"3.25",
+    "last_price":"12.3",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"ASP",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-03-11",
+    "oldest_dividend_date":"2014-08-26",
+    "raw_dividend_count":23,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"ASIA PLUS GROUP HOLDINGS PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Financials",
+    "sector":"Finance & Securities",
+    "dividend_yield_pct":"369.0",
+    "last_price":"2.42",
+    "payout_ratio":"0.6716"
+  },
+  {
+    "symbol":"ATP30",
+    "years_with_dividend":[
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":11,
+    "latest_dividend_date":"2026-04-07",
+    "oldest_dividend_date":"2016-04-12",
+    "raw_dividend_count":12,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"ATP30 PUBLIC COMPANY LIMITED",
+    "market":"mai",
+    "industry":"Services",
+    "sector":null,
+    "dividend_yield_pct":"500.0",
+    "last_price":"0.8",
+    "payout_ratio":"0.875"
+  },
+  {
+    "symbol":"AUCT",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-04-10",
+    "oldest_dividend_date":"2014-08-20",
+    "raw_dividend_count":24,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"UNION AUCTION PUBLIC COMPANY LIMITED",
+    "market":"mai",
+    "industry":"Services",
+    "sector":null,
+    "dividend_yield_pct":"8.37",
+    "last_price":"4.36",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"AWC",
+    "years_with_dividend":[
+      2020,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":6,
+    "latest_dividend_date":"2026-05-07",
+    "oldest_dividend_date":"2020-04-15",
+    "raw_dividend_count":6,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"ASSET WORLD CORP PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Property & Construction",
+    "sector":"Property Development",
+    "dividend_yield_pct":"267.0",
+    "last_price":"3.04",
+    "payout_ratio":"0.3754"
+  },
+  {
+    "symbol":"AYUD",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-05-07",
+    "oldest_dividend_date":"2014-08-19",
+    "raw_dividend_count":22,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"ALLIANZ AYUDHYA CAPITAL PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Financials",
+    "sector":"Insurance",
+    "dividend_yield_pct":"5.43",
+    "last_price":"42.75",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"BAM",
+    "years_with_dividend":[
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":7,
+    "latest_dividend_date":"2026-05-05",
+    "oldest_dividend_date":"2020-04-08",
+    "raw_dividend_count":7,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"BANGKOK COMMERCIAL ASSET MANAGEMENT PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Financials",
+    "sector":"Finance & Securities",
+    "dividend_yield_pct":"714.0",
+    "last_price":"6.9",
+    "payout_ratio":"0.625"
+  },
+  {
+    "symbol":"BAY",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-05-05",
+    "oldest_dividend_date":"2014-09-08",
+    "raw_dividend_count":22,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"BANK OF AYUDHYA PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Financials",
+    "sector":"Banking",
+    "dividend_yield_pct":"2.22",
+    "last_price":"40.5",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"BBGI",
+    "years_with_dividend":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":5,
+    "latest_dividend_date":"2026-03-04",
+    "oldest_dividend_date":"2022-05-24",
+    "raw_dividend_count":6,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"BBGI PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Resources",
+    "sector":"Energy & Utilities",
+    "dividend_yield_pct":"304.0",
+    "last_price":"4.9",
+    "payout_ratio":"0.5172"
+  },
+  {
+    "symbol":"BBIK",
+    "years_with_dividend":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":5,
+    "latest_dividend_date":"2026-04-29",
+    "oldest_dividend_date":"2022-05-06",
+    "raw_dividend_count":5,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"BLUEBIK GROUP PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Technology",
+    "sector":"Information & Communication Technology",
+    "dividend_yield_pct":"217.0",
+    "last_price":"22.5",
+    "payout_ratio":"0.1264"
+  },
+  {
+    "symbol":"BBL",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-04-22",
+    "oldest_dividend_date":"2014-09-09",
+    "raw_dividend_count":23,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"BANGKOK BANK PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Financials",
+    "sector":"Banking",
+    "dividend_yield_pct":"851.0",
+    "last_price":"191.0",
+    "payout_ratio":"0.3656"
+  },
+  {
+    "symbol":"BCH",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-04-29",
+    "oldest_dividend_date":"2014-08-26",
+    "raw_dividend_count":24,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"BANGKOK CHAIN HOSPITAL PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Services",
+    "sector":"Health Care Services",
+    "dividend_yield_pct":"4.41",
+    "last_price":"10.2",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"BCP",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-03-02",
+    "oldest_dividend_date":"2014-09-04",
+    "raw_dividend_count":22,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"BANGCHAK CORPORATION PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Resources",
+    "sector":"Energy & Utilities",
+    "dividend_yield_pct":null,
+    "last_price":null,
+    "payout_ratio":null
+  },
+  {
+    "symbol":"BCPG",
+    "years_with_dividend":[
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":11,
+    "latest_dividend_date":"2026-03-04",
+    "oldest_dividend_date":"2016-10-28",
+    "raw_dividend_count":27,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"BCPG PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Resources",
+    "sector":"Energy & Utilities",
+    "dividend_yield_pct":"476.0",
+    "last_price":"7.15",
+    "payout_ratio":"0.7292"
+  },
+  {
+    "symbol":"BCT",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-06-05",
+    "oldest_dividend_date":"2015-07-07",
+    "raw_dividend_count":12,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"BIRLA CARBON (THAILAND) PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Industrials",
+    "sector":"Petrochemicals & Chemicals",
+    "dividend_yield_pct":"201.0",
+    "last_price":"49.75",
+    "payout_ratio":"0.1629"
+  },
+  {
+    "symbol":"BDMS",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-03-10",
+    "oldest_dividend_date":"2015-03-24",
+    "raw_dividend_count":21,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"BANGKOK DUSIT MEDICAL SERVICES PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Services",
+    "sector":"Health Care Services",
+    "dividend_yield_pct":"421.0",
+    "last_price":"19.1",
+    "payout_ratio":"0.7576"
+  },
+  {
+    "symbol":"BE8",
+    "years_with_dividend":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":5,
+    "latest_dividend_date":"2026-05-05",
+    "oldest_dividend_date":"2022-03-25",
+    "raw_dividend_count":5,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"BERYL 8 PLUS PUBLIC COMPANY LIMITED",
+    "market":"mai",
+    "industry":"Technology",
+    "sector":null,
+    "dividend_yield_pct":"62.0",
+    "last_price":"6.55",
+    "payout_ratio":"1.1429"
+  },
+  {
+    "symbol":"BEC",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":9,
+    "latest_dividend_date":"2026-05-05",
+    "oldest_dividend_date":"2014-08-19",
+    "raw_dividend_count":14,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"BEC WORLD PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Services",
+    "sector":"Media & Publishing",
+    "dividend_yield_pct":"4.81",
+    "last_price":"2.08",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"BEM",
+    "years_with_dividend":[
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":11,
+    "latest_dividend_date":"2026-03-10",
+    "oldest_dividend_date":"2016-04-11",
+    "raw_dividend_count":15,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"BANGKOK EXPRESSWAY AND METRO PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Services",
+    "sector":"Transportation & Logistics",
+    "dividend_yield_pct":"224.0",
+    "last_price":"6.7",
+    "payout_ratio":"0.6"
+  },
+  {
+    "symbol":"BGC",
+    "years_with_dividend":[
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":9,
+    "latest_dividend_date":"2026-05-28",
+    "oldest_dividend_date":"2018-11-28",
+    "raw_dividend_count":29,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"BG CONTAINER GLASS PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Industrials",
+    "sector":"Packaging",
+    "dividend_yield_pct":"275.0",
+    "last_price":"6.9",
+    "payout_ratio":"2.2778"
+  },
+  {
+    "symbol":"BGRIM",
+    "years_with_dividend":[
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":9,
+    "latest_dividend_date":"2026-03-10",
+    "oldest_dividend_date":"2018-03-20",
+    "raw_dividend_count":17,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"B.GRIMM POWER PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Resources",
+    "sector":"Energy & Utilities",
+    "dividend_yield_pct":"212.0",
+    "last_price":"19.0",
+    "payout_ratio":"1.2875"
+  },
+  {
+    "symbol":"BH",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-03-17",
+    "oldest_dividend_date":"2014-08-26",
+    "raw_dividend_count":24,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"BUMRUNGRAD HOSPITAL PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Services",
+    "sector":"Health Care Services",
+    "dividend_yield_pct":"2.68",
+    "last_price":"186.5",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"BIS",
+    "years_with_dividend":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":5,
+    "latest_dividend_date":"2026-04-29",
+    "oldest_dividend_date":"2022-08-24",
+    "raw_dividend_count":8,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"Bioscience Animal Health Public Company Limited",
+    "market":"mai",
+    "industry":"Services",
+    "sector":null,
+    "dividend_yield_pct":"374.0",
+    "last_price":"2.06",
+    "payout_ratio":"1.4167"
+  },
+  {
+    "symbol":"BIZ",
+    "years_with_dividend":[
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":10,
+    "latest_dividend_date":"2026-03-09",
+    "oldest_dividend_date":"2017-04-24",
+    "raw_dividend_count":11,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"BUSINESS ALIGNMENT PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Consumer Products",
+    "sector":"Personal Products & Pharmaceuticals",
+    "dividend_yield_pct":"833.0",
+    "last_price":"6.0",
+    "payout_ratio":"0.7576"
+  },
+  {
+    "symbol":"BJC",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-04-29",
+    "oldest_dividend_date":"2014-08-29",
+    "raw_dividend_count":24,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"BERLI JUCKER PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Services",
+    "sector":"Commerce",
+    "dividend_yield_pct":"315.0",
+    "last_price":"16.2",
+    "payout_ratio":"0.7172"
+  },
+  {
+    "symbol":"BKD",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":10,
+    "latest_dividend_date":"2026-03-05",
+    "oldest_dividend_date":"2015-04-08",
+    "raw_dividend_count":11,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"BANGKOK DEC-CON PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Property & Construction",
+    "sector":"Construction Services",
+    "dividend_yield_pct":"4.35",
+    "last_price":"1.15",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"BLA",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-04-21",
+    "oldest_dividend_date":"2014-10-08",
+    "raw_dividend_count":22,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"BANGKOK LIFE ASSURANCE PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Financials",
+    "sector":"Insurance",
+    "dividend_yield_pct":"337.0",
+    "last_price":"25.25",
+    "payout_ratio":"0.2005"
+  },
+  {
+    "symbol":"BM",
+    "years_with_dividend":[
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":11,
+    "latest_dividend_date":"2026-03-10",
+    "oldest_dividend_date":"2016-11-23",
+    "raw_dividend_count":13,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"BANGKOK SHEET METAL PUBLIC COMPANY LIMITED",
+    "market":"mai",
+    "industry":"Industrial",
+    "sector":null,
+    "dividend_yield_pct":"1913.0",
+    "last_price":"1.15",
+    "payout_ratio":"1.2791"
+  },
+  {
+    "symbol":"BOL",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-02-23",
+    "oldest_dividend_date":"2015-03-06",
+    "raw_dividend_count":19,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"BUSINESS ONLINE PUBLIC COMPANY LIMITED",
+    "market":"mai",
+    "industry":"Services",
+    "sector":null,
+    "dividend_yield_pct":"637.0",
+    "last_price":"5.05",
+    "payout_ratio":"0.9028"
+  },
+  {
+    "symbol":"BPP",
+    "years_with_dividend":[
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":10,
+    "latest_dividend_date":"2026-04-16",
+    "oldest_dividend_date":"2017-04-07",
+    "raw_dividend_count":19,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"BANPU POWER PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Resources",
+    "sector":"Energy & Utilities",
+    "dividend_yield_pct":null,
+    "last_price":null,
+    "payout_ratio":null
+  },
+  {
+    "symbol":"BRR",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":11,
+    "latest_dividend_date":"2026-05-06",
+    "oldest_dividend_date":"2015-05-07",
+    "raw_dividend_count":12,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"BURIRAM SUGAR PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Agro & Food Industry",
+    "sector":"Food & Beverage",
+    "dividend_yield_pct":"458.0",
+    "last_price":"3.6",
+    "payout_ratio":"3.5286"
+  },
+  {
+    "symbol":"BUI",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2018,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":10,
+    "latest_dividend_date":"2026-03-13",
+    "oldest_dividend_date":"2015-03-24",
+    "raw_dividend_count":10,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"BANGKOK UNION INSURANCE PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Financials",
+    "sector":"Insurance",
+    "dividend_yield_pct":"183.0",
+    "last_price":"10.8",
+    "payout_ratio":"1.8226"
+  },
+  {
+    "symbol":"CBG",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-03-05",
+    "oldest_dividend_date":"2015-05-07",
+    "raw_dividend_count":23,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"CARABAO GROUP PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Agro & Food Industry",
+    "sector":"Food & Beverage",
+    "dividend_yield_pct":"234.0",
+    "last_price":"51.0",
+    "payout_ratio":"0.5991"
+  },
+  {
+    "symbol":"CCET",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-03-19",
+    "oldest_dividend_date":"2014-08-28",
+    "raw_dividend_count":24,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"CAL-COMP ELECTRONICS (THAILAND) PUBLIC CO., LTD.",
+    "market":"SET",
+    "industry":"Technology",
+    "sector":"Electronic Components",
+    "dividend_yield_pct":"211.0",
+    "last_price":"7.85",
+    "payout_ratio":"0.8421"
+  },
+  {
+    "symbol":"CEYE",
+    "years_with_dividend":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":5,
+    "latest_dividend_date":"2026-03-13",
+    "oldest_dividend_date":"2022-08-29",
+    "raw_dividend_count":5,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"Chamni's Eye Public Company Limited",
+    "market":"mai",
+    "industry":"Services",
+    "sector":null,
+    "dividend_yield_pct":"664.0",
+    "last_price":"1.12",
+    "payout_ratio":"7.5"
+  },
+  {
+    "symbol":"CHG",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-05-06",
+    "oldest_dividend_date":"2014-08-25",
+    "raw_dividend_count":28,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"CHULARAT HOSPITAL PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Services",
+    "sector":"Health Care Services",
+    "dividend_yield_pct":"4.55",
+    "last_price":"1.54",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"CK",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-03-11",
+    "oldest_dividend_date":"2014-09-04",
+    "raw_dividend_count":22,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"CH. KARNCHANG PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Property & Construction",
+    "sector":"Construction Services",
+    "dividend_yield_pct":"2.49",
+    "last_price":"18.1",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"CKP",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-05-07",
+    "oldest_dividend_date":"2015-03-11",
+    "raw_dividend_count":12,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"CK POWER PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Resources",
+    "sector":"Energy & Utilities",
+    "dividend_yield_pct":"344.0",
+    "last_price":"2.52",
+    "payout_ratio":"0.2394"
+  },
+  {
+    "symbol":"COLOR",
+    "years_with_dividend":[
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":10,
+    "latest_dividend_date":"2026-05-06",
+    "oldest_dividend_date":"2017-04-28",
+    "raw_dividend_count":10,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"SALEE COLOUR PUBLIC COMPANY LIMITED",
+    "market":"mai",
+    "industry":"Industrial",
+    "sector":null,
+    "dividend_yield_pct":"306.0",
+    "last_price":"0.99",
+    "payout_ratio":"1.6835"
+  },
+  {
+    "symbol":"COM7",
+    "years_with_dividend":[
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":11,
+    "latest_dividend_date":"2026-03-10",
+    "oldest_dividend_date":"2016-05-09",
+    "raw_dividend_count":11,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"COM7 PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Services",
+    "sector":"Commerce",
+    "dividend_yield_pct":"358.0",
+    "last_price":"30.25",
+    "payout_ratio":"0.6077"
+  },
+  {
+    "symbol":"CPALL",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-04-30",
+    "oldest_dividend_date":"2015-04-29",
+    "raw_dividend_count":12,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"CP ALL PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Services",
+    "sector":"Commerce",
+    "dividend_yield_pct":"3.51",
+    "last_price":"47.0",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"CPF",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-05-05",
+    "oldest_dividend_date":"2014-08-26",
+    "raw_dividend_count":22,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"CHAROEN POKPHAND FOODS PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Agro & Food Industry",
+    "sector":"Food & Beverage",
+    "dividend_yield_pct":"228.0",
+    "last_price":"22.0",
+    "payout_ratio":"0.5849"
+  },
+  {
+    "symbol":"CPI",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":11,
+    "latest_dividend_date":"2026-03-13",
+    "oldest_dividend_date":"2015-03-17",
+    "raw_dividend_count":11,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"CHUMPORN PALM OIL INDUSTRY PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Agro & Food Industry",
+    "sector":"Food & Beverage",
+    "dividend_yield_pct":"7.42",
+    "last_price":"3.64",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"CPN",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-03-09",
+    "oldest_dividend_date":"2015-04-30",
+    "raw_dividend_count":12,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"CENTRAL PATTANA PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Property & Construction",
+    "sector":"Property Development",
+    "dividend_yield_pct":"3.57",
+    "last_price":"67.25",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"CPR",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-03-11",
+    "oldest_dividend_date":"2015-04-29",
+    "raw_dividend_count":14,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"CPR GOMU INDUSTRIAL PUBLIC COMPANY LIMITED",
+    "market":"mai",
+    "industry":"Industrial",
+    "sector":null,
+    "dividend_yield_pct":"1.36",
+    "last_price":"2.58",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"CPW",
+    "years_with_dividend":[
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":7,
+    "latest_dividend_date":"2026-03-09",
+    "oldest_dividend_date":"2020-01-06",
+    "raw_dividend_count":10,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"COPPERWIRED PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Services",
+    "sector":"Commerce",
+    "dividend_yield_pct":"754.0",
+    "last_price":"2.48",
+    "payout_ratio":"0.7917"
+  },
+  {
+    "symbol":"CRC",
+    "years_with_dividend":[
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":6,
+    "latest_dividend_date":"2026-04-21",
+    "oldest_dividend_date":"2021-04-29",
+    "raw_dividend_count":7,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"CENTRAL RETAIL CORPORATION PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Services",
+    "sector":"Commerce",
+    "dividend_yield_pct":"2.14",
+    "last_price":"24.8",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"CSC",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-03-13",
+    "oldest_dividend_date":"2015-03-09",
+    "raw_dividend_count":12,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"CROWN SEAL PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Industrials",
+    "sector":"Packaging",
+    "dividend_yield_pct":"503.0",
+    "last_price":"44.5",
+    "payout_ratio":"0.4815"
+  },
+  {
+    "symbol":"CSR",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-05-08",
+    "oldest_dividend_date":"2015-05-11",
+    "raw_dividend_count":12,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"CITY SPORTS AND RECREATION PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Services",
+    "sector":"Tourism & Leisure",
+    "dividend_yield_pct":"285.0",
+    "last_price":"71.75",
+    "payout_ratio":"0.5395"
+  },
+  {
+    "symbol":"CSS",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-04-30",
+    "oldest_dividend_date":"2014-08-21",
+    "raw_dividend_count":22,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"COMMUNICATION AND SYSTEM SOLUTION PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Services",
+    "sector":"Commerce",
+    "dividend_yield_pct":"4.08",
+    "last_price":"0.98",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"CTARAF",
+    "years_with_dividend":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":5,
+    "latest_dividend_date":"2026-06-08",
+    "oldest_dividend_date":"2022-12-06",
+    "raw_dividend_count":15,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"CENTARA HOTELS & RESORTS LEASEHOLD PROPERTY FUND",
+    "market":"SET",
+    "industry":"Property & Construction",
+    "sector":"Property Fund & REITs",
+    "dividend_yield_pct":null,
+    "last_price":null,
+    "payout_ratio":null
+  },
+  {
+    "symbol":"DCC",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-05-18",
+    "oldest_dividend_date":"2014-08-05",
+    "raw_dividend_count":46,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"DYNASTY CERAMIC PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Property & Construction",
+    "sector":"Construction Materials",
+    "dividend_yield_pct":"544.0",
+    "last_price":"1.47",
+    "payout_ratio":"0.8377"
+  },
+  {
+    "symbol":"DCON",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-03-11",
+    "oldest_dividend_date":"2015-03-24",
+    "raw_dividend_count":12,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"DCON PRODUCTS PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Property & Construction",
+    "sector":"Construction Materials",
+    "dividend_yield_pct":"145.0",
+    "last_price":"0.19",
+    "payout_ratio":"0.7768"
+  },
+  {
+    "symbol":"DDD",
+    "years_with_dividend":[
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":9,
+    "latest_dividend_date":"2026-04-30",
+    "oldest_dividend_date":"2018-03-09",
+    "raw_dividend_count":12,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"DO DAY DREAM PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Consumer Products",
+    "sector":"Personal Products & Pharmaceuticals",
+    "dividend_yield_pct":"350.0",
+    "last_price":"5.1",
+    "payout_ratio":"2.0"
+  },
+  {
+    "symbol":"DELTA",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-02-26",
+    "oldest_dividend_date":"2015-02-23",
+    "raw_dividend_count":12,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"DELTA ELECTRONICS (THAILAND) PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Technology",
+    "sector":"Electronic Components",
+    "dividend_yield_pct":"21.0",
+    "last_price":"263.0",
+    "payout_ratio":"0.25"
+  },
+  {
+    "symbol":"DITTO",
+    "years_with_dividend":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":5,
+    "latest_dividend_date":"2026-05-06",
+    "oldest_dividend_date":"2022-03-15",
+    "raw_dividend_count":6,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"DITTO (THAILAND) PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Technology",
+    "sector":"Information & Communication Technology",
+    "dividend_yield_pct":"3.16",
+    "last_price":"15.8",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"DMT",
+    "years_with_dividend":[
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":6,
+    "latest_dividend_date":"2026-05-22",
+    "oldest_dividend_date":"2021-08-24",
+    "raw_dividend_count":19,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"DON MUANG TOLLWAY PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Services",
+    "sector":"Transportation & Logistics",
+    "dividend_yield_pct":"719.0",
+    "last_price":"12.4",
+    "payout_ratio":"0.9565"
+  },
+  {
+    "symbol":"DOHOME",
+    "years_with_dividend":[
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":7,
+    "latest_dividend_date":"2026-03-05",
+    "oldest_dividend_date":"2020-03-11",
+    "raw_dividend_count":7,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"DOHOME PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Services",
+    "sector":"Commerce",
+    "dividend_yield_pct":"12.0",
+    "last_price":"3.86",
+    "payout_ratio":"0.0257"
+  },
+  {
+    "symbol":"DREIT",
+    "years_with_dividend":[
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":9,
+    "latest_dividend_date":"2026-03-10",
+    "oldest_dividend_date":"2018-08-14",
+    "raw_dividend_count":16,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"DUSIT THANI FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST",
+    "market":"SET",
+    "industry":"Property & Construction",
+    "sector":"Property Fund & REITs",
+    "dividend_yield_pct":"779.0",
+    "last_price":"4.88",
+    "payout_ratio":"0.8428"
+  },
+  {
+    "symbol":"DRT",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-03-02",
+    "oldest_dividend_date":"2014-09-18",
+    "raw_dividend_count":24,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"DIAMOND BUILDING PRODUCTS PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Property & Construction",
+    "sector":"Construction Materials",
+    "dividend_yield_pct":"6.1",
+    "last_price":"5.25",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"EASON",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":10,
+    "latest_dividend_date":"2026-04-29",
+    "oldest_dividend_date":"2015-03-09",
+    "raw_dividend_count":10,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"EASON & CO PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Industrials",
+    "sector":"Automotive",
+    "dividend_yield_pct":"672.0",
+    "last_price":"1.17",
+    "payout_ratio":"0.3611"
+  },
+  {
+    "symbol":"EASTW",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-05-05",
+    "oldest_dividend_date":"2014-09-08",
+    "raw_dividend_count":23,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"EASTERN WATER RESOURCES DEVELOPMENT AND MANAGEMENT PCL.",
+    "market":"SET",
+    "industry":"Resources",
+    "sector":"Energy & Utilities",
+    "dividend_yield_pct":"20.0",
+    "last_price":"4.88",
+    "payout_ratio":"0.2381"
+  },
+  {
+    "symbol":"EGCO",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-03-13",
+    "oldest_dividend_date":"2014-09-04",
+    "raw_dividend_count":24,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"ELECTRICITY GENERATING PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Resources",
+    "sector":"Energy & Utilities",
+    "dividend_yield_pct":"483.0",
+    "last_price":"135.5",
+    "payout_ratio":"1.6883"
+  },
+  {
+    "symbol":"EKH",
+    "years_with_dividend":[
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":10,
+    "latest_dividend_date":"2026-05-05",
+    "oldest_dividend_date":"2017-04-25",
+    "raw_dividend_count":12,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"EKACHAI MEDICAL CARE PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Services",
+    "sector":"Health Care Services",
+    "dividend_yield_pct":"594.0",
+    "last_price":"5.0",
+    "payout_ratio":"0.844"
+  },
+  {
+    "symbol":"FE",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-05-08",
+    "oldest_dividend_date":"2015-05-08",
+    "raw_dividend_count":12,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"FAR EAST FAME LINE PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Services",
+    "sector":"Media & Publishing",
+    "dividend_yield_pct":null,
+    "last_price":null,
+    "payout_ratio":null
+  },
+  {
+    "symbol":"FPI",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-05-05",
+    "oldest_dividend_date":"2014-08-21",
+    "raw_dividend_count":23,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"FORTUNE PARTS INDUSTRY PUBLIC COMPANY LIMITED",
+    "market":"mai",
+    "industry":"Industrial",
+    "sector":null,
+    "dividend_yield_pct":"497.0",
+    "last_price":"1.56",
+    "payout_ratio":"0.4598"
+  },
+  {
+    "symbol":"FSMART",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-03-11",
+    "oldest_dividend_date":"2015-04-17",
+    "raw_dividend_count":22,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"FORTH SMART SERVICE PUBLIC COMPANY LIMITED",
+    "market":"mai",
+    "industry":"Services",
+    "sector":null,
+    "dividend_yield_pct":"506.0",
+    "last_price":"7.75",
+    "payout_ratio":"0.5"
+  },
+  {
+    "symbol":"FTE",
+    "years_with_dividend":[
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":10,
+    "latest_dividend_date":"2026-05-05",
+    "oldest_dividend_date":"2017-11-20",
+    "raw_dividend_count":17,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"FIRETRADE ENGINEERING PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Industrials",
+    "sector":"Industrial Materials & Machinery",
+    "dividend_yield_pct":"667.0",
+    "last_price":"2.7",
+    "payout_ratio":"0.9524"
+  },
+  {
+    "symbol":"FTREIT",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-05-28",
+    "oldest_dividend_date":"2015-05-27",
+    "raw_dividend_count":44,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"FRASERS PROPERTY THAILAND INDUSTRIAL FREEHOLD & LEASEHOLD REIT",
+    "market":"SET",
+    "industry":"Property & Construction",
+    "sector":"Property Fund & REITs",
+    "dividend_yield_pct":"0.51",
+    "last_price":"12.7",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"GBX",
+    "years_with_dividend":[
+      2016,
+      2017,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":8,
+    "latest_dividend_date":"2026-03-09",
+    "oldest_dividend_date":"2016-03-28",
+    "raw_dividend_count":8,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"GLOBLEX HOLDING MANAGEMENT PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Financials",
+    "sector":"Finance & Securities",
+    "dividend_yield_pct":"59.0",
+    "last_price":"0.68",
+    "payout_ratio":"1.0692"
+  },
+  {
+    "symbol":"GC",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-04-09",
+    "oldest_dividend_date":"2014-08-18",
+    "raw_dividend_count":24,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"GLOBAL CONNECTIONS PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Industrials",
+    "sector":"Petrochemicals & Chemicals",
+    "dividend_yield_pct":"854.0",
+    "last_price":"5.1",
+    "payout_ratio":"0.7647"
+  },
+  {
+    "symbol":"GFPT",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-03-04",
+    "oldest_dividend_date":"2015-03-06",
+    "raw_dividend_count":12,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"GFPT PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Agro & Food Industry",
+    "sector":"Agribusiness",
+    "dividend_yield_pct":"209.0",
+    "last_price":"9.65",
+    "payout_ratio":"0.1081"
+  },
+  {
+    "symbol":"GLOBAL",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-02-24",
+    "oldest_dividend_date":"2015-03-19",
+    "raw_dividend_count":12,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"SIAM GLOBAL HOUSE PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Services",
+    "sector":"Commerce",
+    "dividend_yield_pct":null,
+    "last_price":null,
+    "payout_ratio":null
+  },
+  {
+    "symbol":"GPI",
+    "years_with_dividend":[
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":9,
+    "latest_dividend_date":"2026-04-09",
+    "oldest_dividend_date":"2018-05-24",
+    "raw_dividend_count":16,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"GRAND PRIX INTERNATIONAL PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Services",
+    "sector":"Media & Publishing",
+    "dividend_yield_pct":"9.55",
+    "last_price":"1.78",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"GPSC",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-02-25",
+    "oldest_dividend_date":"2015-08-25",
+    "raw_dividend_count":22,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"GLOBAL POWER SYNERGY PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Resources",
+    "sector":"Energy & Utilities",
+    "dividend_yield_pct":"352.0",
+    "last_price":"52.5",
+    "payout_ratio":"0.5847"
+  },
+  {
+    "symbol":"GUNKUL",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-05-22",
+    "oldest_dividend_date":"2015-04-21",
+    "raw_dividend_count":16,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"GUNKUL ENGINEERING PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Resources",
+    "sector":"Energy & Utilities",
+    "dividend_yield_pct":"2.77",
+    "last_price":"5.05",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"GVREIT",
+    "years_with_dividend":[
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":11,
+    "latest_dividend_date":"2026-05-26",
+    "oldest_dividend_date":"2016-08-18",
+    "raw_dividend_count":40,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"GOLDEN VENTURES LEASEHOLD REAL ESTATE INVESTMENT TRUST",
+    "market":"SET",
+    "industry":"Property & Construction",
+    "sector":"Property Fund & REITs",
+    "dividend_yield_pct":"955.0",
+    "last_price":"8.15",
+    "payout_ratio":"4.8023"
+  },
+  {
+    "symbol":"HANA",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-03-16",
+    "oldest_dividend_date":"2014-11-25",
+    "raw_dividend_count":24,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"HANA MICROELECTRONICS PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Technology",
+    "sector":"Electronic Components",
+    "dividend_yield_pct":"2.96",
+    "last_price":"33.75",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"HARN",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-05-07",
+    "oldest_dividend_date":"2015-04-30",
+    "raw_dividend_count":12,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"HARN ENGINEERING SOLUTIONS PUBLIC COMPANY LIMITED",
+    "market":"mai",
+    "industry":"Industrial",
+    "sector":null,
+    "dividend_yield_pct":"5.83",
+    "last_price":"2.06",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"HENG",
+    "years_with_dividend":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":5,
+    "latest_dividend_date":"2026-03-02",
+    "oldest_dividend_date":"2022-03-04",
+    "raw_dividend_count":5,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"HENG LEASING AND CAPITAL PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Financials",
+    "sector":"Finance & Securities",
+    "dividend_yield_pct":"273.0",
+    "last_price":"0.95",
+    "payout_ratio":"1.31"
+  },
+  {
+    "symbol":"HL",
+    "years_with_dividend":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":5,
+    "latest_dividend_date":"2026-03-11",
+    "oldest_dividend_date":"2022-03-11",
+    "raw_dividend_count":5,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"HEALTHLEAD PUBLIC COMPANY LIMITED",
+    "market":"mai",
+    "industry":"Services",
+    "sector":null,
+    "dividend_yield_pct":"389.0",
+    "last_price":"5.65",
+    "payout_ratio":"0.7857"
+  },
+  {
+    "symbol":"HMPRO",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-04-22",
+    "oldest_dividend_date":"2014-10-21",
+    "raw_dividend_count":24,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"HOME PRODUCT CENTER PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Services",
+    "sector":"Commerce",
+    "dividend_yield_pct":"672.0",
+    "last_price":"6.4",
+    "payout_ratio":"0.8444"
+  },
+  {
+    "symbol":"HTC",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-04-30",
+    "oldest_dividend_date":"2015-03-25",
+    "raw_dividend_count":22,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"HAAD THIP PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Agro & Food Industry",
+    "sector":"Food & Beverage",
+    "dividend_yield_pct":"6.15",
+    "last_price":"16.1",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"HTECH",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-03-19",
+    "oldest_dividend_date":"2014-08-26",
+    "raw_dividend_count":24,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"HALCYON TECHNOLOGY PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Industrials",
+    "sector":"Industrial Materials & Machinery",
+    "dividend_yield_pct":"521.0",
+    "last_price":"3.96",
+    "payout_ratio":"1.6307"
+  },
+  {
+    "symbol":"HUMAN",
+    "years_with_dividend":[
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":9,
+    "latest_dividend_date":"2026-05-08",
+    "oldest_dividend_date":"2018-04-05",
+    "raw_dividend_count":17,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"HUMANICA PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Technology",
+    "sector":"Information & Communication Technology",
+    "dividend_yield_pct":"6.9",
+    "last_price":"4.64",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"ICC",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-05-07",
+    "oldest_dividend_date":"2015-05-06",
+    "raw_dividend_count":12,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"I.C.C. INTERNATIONAL PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Services",
+    "sector":"Commerce",
+    "dividend_yield_pct":"2.92",
+    "last_price":"24.0",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"ICHI",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-03-13",
+    "oldest_dividend_date":"2014-08-25",
+    "raw_dividend_count":17,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"ICHITAN GROUP PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Agro & Food Industry",
+    "sector":"Food & Beverage",
+    "dividend_yield_pct":"743.0",
+    "last_price":"14.7",
+    "payout_ratio":"1.0472"
+  },
+  {
+    "symbol":"ICN",
+    "years_with_dividend":[
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":9,
+    "latest_dividend_date":"2026-03-11",
+    "oldest_dividend_date":"2018-03-19",
+    "raw_dividend_count":17,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"INFORMATION AND COMMUNICATION NETWORKS PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Technology",
+    "sector":"Information & Communication Technology",
+    "dividend_yield_pct":"708.0",
+    "last_price":"2.1",
+    "payout_ratio":"0.75"
+  },
+  {
+    "symbol":"IFS",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-03-04",
+    "oldest_dividend_date":"2015-03-02",
+    "raw_dividend_count":12,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"IFS CAPITAL (THAILAND) PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Financials",
+    "sector":"Finance & Securities",
+    "dividend_yield_pct":"531.0",
+    "last_price":"1.94",
+    "payout_ratio":"0.4107"
+  },
+  {
+    "symbol":"III",
+    "years_with_dividend":[
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":9,
+    "latest_dividend_date":"2026-04-28",
+    "oldest_dividend_date":"2018-03-06",
+    "raw_dividend_count":14,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"TRIPLE I LOGISTICS PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Services",
+    "sector":"Transportation & Logistics",
+    "dividend_yield_pct":"673.0",
+    "last_price":"4.6",
+    "payout_ratio":"0.6088"
+  },
+  {
+    "symbol":"ILINK",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-05-06",
+    "oldest_dividend_date":"2015-05-06",
+    "raw_dividend_count":12,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"INTERLINK COMMUNICATION PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Technology",
+    "sector":"Information & Communication Technology",
+    "dividend_yield_pct":"6.14",
+    "last_price":"5.05",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"ILM",
+    "years_with_dividend":[
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":7,
+    "latest_dividend_date":"2026-05-11",
+    "oldest_dividend_date":"2020-05-28",
+    "raw_dividend_count":13,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"INDEX LIVING MALL PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Services",
+    "sector":"Commerce",
+    "dividend_yield_pct":"7.69",
+    "last_price":"13.0",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"IMPACT",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-06-04",
+    "oldest_dividend_date":"2015-02-24",
+    "raw_dividend_count":42,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"IMPACT GROWTH REAL ESTATE INVESTMENT TRUST",
+    "market":"SET",
+    "industry":"Property & Construction",
+    "sector":"Property Fund & REITs",
+    "dividend_yield_pct":"543.0",
+    "last_price":"12.4",
+    "payout_ratio":"0.8434"
+  },
+  {
+    "symbol":"INET",
+    "years_with_dividend":[
+      2016,
+      2017,
+      2018,
+      2019,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":9,
+    "latest_dividend_date":"2026-04-29",
+    "oldest_dividend_date":"2016-04-27",
+    "raw_dividend_count":9,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"INTERNET THAILAND PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Technology",
+    "sector":"Information & Communication Technology",
+    "dividend_yield_pct":"307.0",
+    "last_price":"4.1",
+    "payout_ratio":"0.2527"
+  },
+  {
+    "symbol":"INSET",
+    "years_with_dividend":[
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":8,
+    "latest_dividend_date":"2026-03-10",
+    "oldest_dividend_date":"2019-11-22",
+    "raw_dividend_count":11,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"INFRASET PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Technology",
+    "sector":"Information & Communication Technology",
+    "dividend_yield_pct":"89.0",
+    "last_price":"4.48",
+    "payout_ratio":"0.5"
+  },
+  {
+    "symbol":"IRC",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-02-10",
+    "oldest_dividend_date":"2014-12-08",
+    "raw_dividend_count":12,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"INOUE RUBBER (THAILAND) PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Industrials",
+    "sector":"Automotive",
+    "dividend_yield_pct":"4.14",
+    "last_price":"11.9",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"IRPC",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-03-02",
+    "oldest_dividend_date":"2015-02-23",
+    "raw_dividend_count":15,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"IRPC PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Resources",
+    "sector":"Energy & Utilities",
+    "dividend_yield_pct":"46.0",
+    "last_price":"2.1",
+    "payout_ratio":"0.0357"
+  },
+  {
+    "symbol":"IVL",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-05-28",
+    "oldest_dividend_date":"2014-08-20",
+    "raw_dividend_count":39,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"INDORAMA VENTURES PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Industrials",
+    "sector":"Petrochemicals & Chemicals",
+    "dividend_yield_pct":"290.0",
+    "last_price":"21.9",
+    "payout_ratio":"0.3909"
+  },
+  {
+    "symbol":"JCT",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-03-10",
+    "oldest_dividend_date":"2015-03-11",
+    "raw_dividend_count":12,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"JACK CHIA INDUSTRIES (THAILAND) PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Consumer Products",
+    "sector":"Personal Products & Pharmaceuticals",
+    "dividend_yield_pct":"5.71",
+    "last_price":"84.0",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"JMART",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-05-27",
+    "oldest_dividend_date":"2014-08-20",
+    "raw_dividend_count":20,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"JAYMART GROUP HOLDINGS PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Technology",
+    "sector":"Information & Communication Technology",
+    "dividend_yield_pct":"241.0",
+    "last_price":"11.1",
+    "payout_ratio":"0.5227"
+  },
+  {
+    "symbol":"JMT",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-03-02",
+    "oldest_dividend_date":"2014-08-20",
+    "raw_dividend_count":22,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"JMT NETWORK SERVICES PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Financials",
+    "sector":"Finance & Securities",
+    "dividend_yield_pct":"5.58",
+    "last_price":"12.0",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"JR",
+    "years_with_dividend":[
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":6,
+    "latest_dividend_date":"2026-03-10",
+    "oldest_dividend_date":"2021-03-04",
+    "raw_dividend_count":6,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"J.R.W. UTILITY PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Property & Construction",
+    "sector":"Construction Services",
+    "dividend_yield_pct":"313.0",
+    "last_price":"1.74",
+    "payout_ratio":"0.4375"
+  },
+  {
+    "symbol":"JUBILE",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-04-30",
+    "oldest_dividend_date":"2014-08-25",
+    "raw_dividend_count":24,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"JUBILEE ENTERPRISE PUBLIC COMPANY LIMITED",
+    "market":"mai",
+    "industry":"Consumer Products",
+    "sector":null,
+    "dividend_yield_pct":"3.27",
+    "last_price":"7.35",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"KAMART",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-05-27",
+    "oldest_dividend_date":"2014-08-26",
+    "raw_dividend_count":48,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"KARMARTS PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Services",
+    "sector":"Commerce",
+    "dividend_yield_pct":"5.99",
+    "last_price":"7.35",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"KBANK",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-04-21",
+    "oldest_dividend_date":"2014-09-09",
+    "raw_dividend_count":24,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"KASIKORNBANK PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Financials",
+    "sector":"Banking",
+    "dividend_yield_pct":"4.13",
+    "last_price":"242.0",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"KCAR",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-03-18",
+    "oldest_dividend_date":"2014-08-25",
+    "raw_dividend_count":24,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"KRUNGTHAI CAR RENT AND LEASE PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Financials",
+    "sector":"Finance & Securities",
+    "dividend_yield_pct":"6.71",
+    "last_price":"4.92",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"KCC",
+    "years_with_dividend":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":5,
+    "latest_dividend_date":"2026-03-10",
+    "oldest_dividend_date":"2022-08-24",
+    "raw_dividend_count":6,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"Knight Club Capital Holding Public Company Limited",
+    "market":"mai",
+    "industry":"Financials",
+    "sector":null,
+    "dividend_yield_pct":"450.0",
+    "last_price":"2.82",
+    "payout_ratio":"0.1579"
+  },
+  {
+    "symbol":"KCE",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-03-23",
+    "oldest_dividend_date":"2014-08-18",
+    "raw_dividend_count":24,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"KCE ELECTRONICS PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Technology",
+    "sector":"Electronic Components",
+    "dividend_yield_pct":"289.0",
+    "last_price":"37.75",
+    "payout_ratio":"1.6901"
+  },
+  {
+    "symbol":"KGI",
+    "years_with_dividend":[
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":12,
+    "latest_dividend_date":"2026-04-20",
+    "oldest_dividend_date":"2015-04-17",
+    "raw_dividend_count":12,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"KGI SECURITIES (THAILAND) PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Financials",
+    "sector":"Finance & Securities",
+    "dividend_yield_pct":"5.96",
+    "last_price":"5.2",
+    "payout_ratio":null
+  },
+  {
+    "symbol":"KIAT",
+    "years_with_dividend":[
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_years_found":13,
+    "latest_dividend_date":"2026-03-05",
+    "oldest_dividend_date":"2014-08-19",
+    "raw_dividend_count":25,
+    "required_years":[
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_years":[
+
+    ],
+    "is_consistent_5y":true,
+    "company_name_en":"KIATTANA TRANSPORT PUBLIC COMPANY LIMITED",
+    "market":"SET",
+    "industry":"Services",
+    "sector":"Transportation & Logistics",
+    "dividend_yield_pct":"625.0",
+    "last_price":"0.33",
+    "payout_ratio":"2.1739"
+  },
+  {
     "symbol":"KISS",
     "years_with_dividend":[
       2021,
@@ -28,10 +5120,9 @@
     "market":"SET",
     "industry":"Consumer Products",
     "sector":"Personal Products & Pharmaceuticals",
-    "dividend_yield_pct":"6.91",
-    "dividend_rate":"0.2",
-    "last_price":"3.66",
-    "payout_ratio":"73.33"
+    "dividend_yield_pct":"691.0",
+    "last_price":"3.68",
+    "payout_ratio":"0.7333"
   },
   {
     "symbol":"KK",
@@ -62,8 +5153,7 @@
     "market":"mai",
     "industry":"Services",
     "sector":null,
-    "dividend_yield_pct":"0.01",
-    "dividend_rate":"0.015",
+    "dividend_yield_pct":"1.49",
     "last_price":"1.01",
     "payout_ratio":null
   },
@@ -103,8 +5193,7 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Banking",
-    "dividend_yield_pct":"0.04",
-    "dividend_rate":"4.2",
+    "dividend_yield_pct":"3.72",
     "last_price":"113.0",
     "payout_ratio":null
   },
@@ -142,10 +5231,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"2.48",
-    "dividend_rate":"0.04",
-    "last_price":"1.59",
-    "payout_ratio":"116.28"
+    "dividend_yield_pct":"248.0",
+    "last_price":"1.6",
+    "payout_ratio":"1.1628"
   },
   {
     "symbol":"KTB",
@@ -182,10 +5270,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Banking",
-    "dividend_yield_pct":"8.31",
-    "dividend_rate":"1.64",
-    "last_price":"43.0",
-    "payout_ratio":"56.43"
+    "dividend_yield_pct":"831.0",
+    "last_price":"42.75",
+    "payout_ratio":"0.5643"
   },
   {
     "symbol":"KTC",
@@ -222,10 +5309,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Finance & Securities",
-    "dividend_yield_pct":"4.6",
-    "dividend_rate":"0.0",
-    "last_price":"38.75",
-    "payout_ratio":"42.04"
+    "dividend_yield_pct":"460.0",
+    "last_price":"38.5",
+    "payout_ratio":"0.4204"
   },
   {
     "symbol":"KUMWEL",
@@ -257,8 +5343,7 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"0.03",
-    "dividend_rate":"0.06",
+    "dividend_yield_pct":"2.63",
     "last_price":"2.28",
     "payout_ratio":null
   },
@@ -297,10 +5382,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Transportation & Logistics",
-    "dividend_yield_pct":"4.11",
-    "dividend_rate":"11.5",
+    "dividend_yield_pct":"411.0",
     "last_price":"280.0",
-    "payout_ratio":"75.57"
+    "payout_ratio":"0.7557"
   },
   {
     "symbol":"KWM",
@@ -333,8 +5417,7 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"0.03",
-    "dividend_rate":"0.031",
+    "dividend_yield_pct":"3.37",
     "last_price":"0.92",
     "payout_ratio":null
   },
@@ -374,10 +5457,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Development",
-    "dividend_yield_pct":"6.82",
-    "dividend_rate":"0.3",
+    "dividend_yield_pct":"682.0",
     "last_price":"4.4",
-    "payout_ratio":"62.5"
+    "payout_ratio":"0.625"
   },
   {
     "symbol":"LANNA",
@@ -415,10 +5497,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"6.85",
-    "dividend_rate":"1.0",
+    "dividend_yield_pct":"685.0",
     "last_price":"14.6",
-    "payout_ratio":"82.77"
+    "payout_ratio":"0.8277"
   },
   {
     "symbol":"LEE",
@@ -455,8 +5536,7 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Agribusiness",
-    "dividend_yield_pct":"0.08",
-    "dividend_rate":"0.2",
+    "dividend_yield_pct":"7.94",
     "last_price":"2.52",
     "payout_ratio":null
   },
@@ -489,10 +5569,9 @@
     "market":"mai",
     "industry":"Services",
     "sector":null,
-    "dividend_yield_pct":"3.11",
-    "dividend_rate":"0.06",
-    "last_price":"1.91",
-    "payout_ratio":"250.0"
+    "dividend_yield_pct":"311.0",
+    "last_price":"1.92",
+    "payout_ratio":"2.5"
   },
   {
     "symbol":"LH",
@@ -531,7 +5610,6 @@
     "industry":"Property & Construction",
     "sector":"Property Development",
     "dividend_yield_pct":null,
-    "dividend_rate":null,
     "last_price":null,
     "payout_ratio":null
   },
@@ -570,8 +5648,7 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Banking",
-    "dividend_yield_pct":"0.04",
-    "dividend_rate":"0.05",
+    "dividend_yield_pct":"4.1",
     "last_price":"1.22",
     "payout_ratio":null
   },
@@ -611,8 +5688,7 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Steel and Metal Products",
-    "dividend_yield_pct":"0.07",
-    "dividend_rate":"0.26",
+    "dividend_yield_pct":"7.34",
     "last_price":"3.54",
     "payout_ratio":null
   },
@@ -651,9 +5727,8 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Fund & REITs",
-    "dividend_yield_pct":"0.08",
-    "dividend_rate":"1.201",
-    "last_price":"15.5",
+    "dividend_yield_pct":"7.8",
+    "last_price":"15.4",
     "payout_ratio":null
   },
   {
@@ -690,10 +5765,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Health Care Services",
-    "dividend_yield_pct":"11.11",
-    "dividend_rate":"0.18",
+    "dividend_yield_pct":"1111.0",
     "last_price":"3.6",
-    "payout_ratio":"66.67"
+    "payout_ratio":"0.6667"
   },
   {
     "symbol":"LPN",
@@ -731,10 +5805,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Development",
-    "dividend_yield_pct":"6.37",
-    "dividend_rate":"0.0",
-    "last_price":"1.6",
-    "payout_ratio":"500.0"
+    "dividend_yield_pct":"637.0",
+    "last_price":"1.61",
+    "payout_ratio":"5.0"
   },
   {
     "symbol":"LST",
@@ -771,10 +5844,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"4.6",
-    "dividend_rate":"0.2",
+    "dividend_yield_pct":"460.0",
     "last_price":"4.76",
-    "payout_ratio":"32.35"
+    "payout_ratio":"0.3235"
   },
   {
     "symbol":"MAJOR",
@@ -812,10 +5884,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Media & Publishing",
-    "dividend_yield_pct":"3.82",
-    "dividend_rate":"0.25",
-    "last_price":"6.65",
-    "payout_ratio":"22.22"
+    "dividend_yield_pct":"382.0",
+    "last_price":"6.6",
+    "payout_ratio":"0.2222"
   },
   {
     "symbol":"MATI",
@@ -851,7 +5922,6 @@
     "industry":"Services",
     "sector":"Media & Publishing",
     "dividend_yield_pct":null,
-    "dividend_rate":null,
     "last_price":null,
     "payout_ratio":null
   },
@@ -890,8 +5960,7 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Development",
-    "dividend_yield_pct":"0.05",
-    "dividend_rate":"1.1",
+    "dividend_yield_pct":"5.02",
     "last_price":"21.9",
     "payout_ratio":null
   },
@@ -931,10 +6000,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Commerce",
-    "dividend_yield_pct":"8.81",
-    "dividend_rate":"0.3",
+    "dividend_yield_pct":"881.0",
     "last_price":"11.7",
-    "payout_ratio":"100.91"
+    "payout_ratio":"1.0091"
   },
   {
     "symbol":"MCS",
@@ -971,10 +6039,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Steel and Metal Products",
-    "dividend_yield_pct":"11.95",
-    "dividend_rate":"0.95",
-    "last_price":"7.95",
-    "payout_ratio":"42.86"
+    "dividend_yield_pct":"1195.0",
+    "last_price":"8.0",
+    "payout_ratio":"0.4286"
   },
   {
     "symbol":"MEGA",
@@ -1012,10 +6079,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Commerce",
-    "dividend_yield_pct":"4.27",
-    "dividend_rate":"1.6",
-    "last_price":"37.25",
-    "payout_ratio":"67.8"
+    "dividend_yield_pct":"427.0",
+    "last_price":"37.5",
+    "payout_ratio":"0.678"
   },
   {
     "symbol":"MENA",
@@ -1045,10 +6111,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Transportation & Logistics",
-    "dividend_yield_pct":"2.05",
-    "dividend_rate":"0.015",
+    "dividend_yield_pct":"205.0",
     "last_price":"0.72",
-    "payout_ratio":"33.33"
+    "payout_ratio":"0.3333"
   },
   {
     "symbol":"METCO",
@@ -1085,8 +6150,7 @@
     "market":"SET",
     "industry":"Technology",
     "sector":"Electronic Components",
-    "dividend_yield_pct":"0.1",
-    "dividend_rate":"30.0",
+    "dividend_yield_pct":"10.0",
     "last_price":"300.0",
     "payout_ratio":null
   },
@@ -1125,10 +6189,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Finance & Securities",
-    "dividend_yield_pct":"6.16",
-    "dividend_rate":"1.25",
+    "dividend_yield_pct":"616.0",
     "last_price":"20.1",
-    "payout_ratio":"51.98"
+    "payout_ratio":"0.5198"
   },
   {
     "symbol":"MFEC",
@@ -1165,9 +6228,8 @@
     "market":"SET",
     "industry":"Technology",
     "sector":"Information & Communication Technology",
-    "dividend_yield_pct":"0.08",
-    "dividend_rate":"0.5",
-    "last_price":"6.0",
+    "dividend_yield_pct":"8.26",
+    "last_price":"6.05",
     "payout_ratio":null
   },
   {
@@ -1203,10 +6265,9 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"4.43",
-    "dividend_rate":"0.085",
+    "dividend_yield_pct":"443.0",
     "last_price":"1.89",
-    "payout_ratio":"34.62"
+    "payout_ratio":"0.3462"
   },
   {
     "symbol":"MII",
@@ -1245,7 +6306,6 @@
     "industry":"Property & Construction",
     "sector":"Property Fund & REITs",
     "dividend_yield_pct":null,
-    "dividend_rate":null,
     "last_price":null,
     "payout_ratio":null
   },
@@ -1285,10 +6345,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Fund & REITs",
-    "dividend_yield_pct":"8.4",
-    "dividend_rate":"0.73",
+    "dividend_yield_pct":"840.0",
     "last_price":"9.05",
-    "payout_ratio":"135.27"
+    "payout_ratio":"1.3527"
   },
   {
     "symbol":"MNIT",
@@ -1326,10 +6385,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Fund & REITs",
-    "dividend_yield_pct":"6.97",
-    "dividend_rate":"0.0",
+    "dividend_yield_pct":"697.0",
     "last_price":"1.95",
-    "payout_ratio":"86.66"
+    "payout_ratio":"0.8666"
   },
   {
     "symbol":"MNIT2",
@@ -1368,7 +6426,6 @@
     "industry":"Property & Construction",
     "sector":"Property Fund & REITs",
     "dividend_yield_pct":null,
-    "dividend_rate":null,
     "last_price":null,
     "payout_ratio":null
   },
@@ -1407,8 +6464,7 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Fund & REITs",
-    "dividend_yield_pct":"0.04",
-    "dividend_rate":"0.09",
+    "dividend_yield_pct":"4.46",
     "last_price":"2.02",
     "payout_ratio":null
   },
@@ -1448,10 +6504,9 @@
     "market":"SET",
     "industry":"Consumer Products",
     "sector":"Home & Office Products",
-    "dividend_yield_pct":"7.35",
-    "dividend_rate":"0.15",
+    "dividend_yield_pct":"735.0",
     "last_price":"2.04",
-    "payout_ratio":"168.22"
+    "payout_ratio":"1.6822"
   },
   {
     "symbol":"MOONG",
@@ -1488,10 +6543,9 @@
     "market":"mai",
     "industry":"Consumer Products",
     "sector":null,
-    "dividend_yield_pct":"9.66",
-    "dividend_rate":"0.23",
+    "dividend_yield_pct":"966.0",
     "last_price":"2.4",
-    "payout_ratio":"98.05"
+    "payout_ratio":"0.9805"
   },
   {
     "symbol":"MSC",
@@ -1528,8 +6582,7 @@
     "market":"SET",
     "industry":"Technology",
     "sector":"Information & Communication Technology",
-    "dividend_yield_pct":"0.06",
-    "dividend_rate":"0.35",
+    "dividend_yield_pct":"5.88",
     "last_price":"5.95",
     "payout_ratio":null
   },
@@ -1569,10 +6622,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Finance & Securities",
-    "dividend_yield_pct":"3.39",
-    "dividend_rate":"0.17",
+    "dividend_yield_pct":"339.0",
     "last_price":"8.35",
-    "payout_ratio":"61.7"
+    "payout_ratio":"0.617"
   },
   {
     "symbol":"MTC",
@@ -1609,10 +6661,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Finance & Securities",
-    "dividend_yield_pct":"0.85",
-    "dividend_rate":"0.29",
-    "last_price":"33.75",
-    "payout_ratio":"7.6"
+    "dividend_yield_pct":"85.0",
+    "last_price":"34.0",
+    "payout_ratio":"0.076"
   },
   {
     "symbol":"MTI",
@@ -1649,10 +6700,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Insurance",
-    "dividend_yield_pct":"4.53",
-    "dividend_rate":"0.81",
+    "dividend_yield_pct":"453.0",
     "last_price":"17.5",
-    "payout_ratio":"46.02"
+    "payout_ratio":"0.4602"
   },
   {
     "symbol":"NER",
@@ -1685,10 +6735,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Agribusiness",
-    "dividend_yield_pct":"6.92",
-    "dividend_rate":"0.31",
-    "last_price":"4.46",
-    "payout_ratio":"35.3"
+    "dividend_yield_pct":"692.0",
+    "last_price":"4.48",
+    "payout_ratio":"0.353"
   },
   {
     "symbol":"NETBAY",
@@ -1723,10 +6772,9 @@
     "market":"mai",
     "industry":"Technology",
     "sector":null,
-    "dividend_yield_pct":"9.02",
-    "dividend_rate":"1.2",
-    "last_price":"13.0",
-    "payout_ratio":"137.33"
+    "dividend_yield_pct":"902.0",
+    "last_price":"13.1",
+    "payout_ratio":"1.3733"
   },
   {
     "symbol":"NEW",
@@ -1762,10 +6810,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Health Care Services",
-    "dividend_yield_pct":"1.68",
-    "dividend_rate":"1.6",
+    "dividend_yield_pct":"168.0",
     "last_price":"95.0",
-    "payout_ratio":"44.23"
+    "payout_ratio":"0.4423"
   },
   {
     "symbol":"NNCL",
@@ -1800,10 +6847,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Development",
-    "dividend_yield_pct":"6.86",
-    "dividend_rate":"0.0",
+    "dividend_yield_pct":"686.0",
     "last_price":"1.78",
-    "payout_ratio":"78.57"
+    "payout_ratio":"0.7857"
   },
   {
     "symbol":"NSL",
@@ -1834,10 +6880,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"4.85",
-    "dividend_rate":"1.05",
+    "dividend_yield_pct":"485.0",
     "last_price":"22.6",
-    "payout_ratio":"53.03"
+    "payout_ratio":"0.5303"
   },
   {
     "symbol":"NTV",
@@ -1874,8 +6919,7 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Health Care Services",
-    "dividend_yield_pct":"0.05",
-    "dividend_rate":"1.04",
+    "dividend_yield_pct":"5.45",
     "last_price":"19.1",
     "payout_ratio":null
   },
@@ -1914,10 +6958,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Transportation & Logistics",
-    "dividend_yield_pct":"12.38",
-    "dividend_rate":"0.5",
-    "last_price":"4.06",
-    "payout_ratio":"80.77"
+    "dividend_yield_pct":"1238.0",
+    "last_price":"4.04",
+    "payout_ratio":"0.8077"
   },
   {
     "symbol":"OCC",
@@ -1954,8 +6997,7 @@
     "market":"SET",
     "industry":"Consumer Products",
     "sector":"Personal Products & Pharmaceuticals",
-    "dividend_yield_pct":"0.01",
-    "dividend_rate":"0.05",
+    "dividend_yield_pct":"0.5",
     "last_price":"10.0",
     "payout_ratio":null
   },
@@ -1987,10 +7029,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Media & Publishing",
-    "dividend_yield_pct":"5.66",
-    "dividend_rate":"0.18",
+    "dividend_yield_pct":"566.0",
     "last_price":"3.12",
-    "payout_ratio":"62.78"
+    "payout_ratio":"0.6278"
   },
   {
     "symbol":"OR",
@@ -2021,9 +7062,8 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"0.05",
-    "dividend_rate":"0.6",
-    "last_price":"12.7",
+    "dividend_yield_pct":"4.69",
+    "last_price":"12.8",
     "payout_ratio":null
   },
   {
@@ -2060,9 +7100,8 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Development",
-    "dividend_yield_pct":"0.04",
-    "dividend_rate":"0.07",
-    "last_price":"1.98",
+    "dividend_yield_pct":"3.55",
+    "last_price":"1.97",
     "payout_ratio":null
   },
   {
@@ -2096,10 +7135,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"4.6",
-    "dividend_rate":"0.8",
+    "dividend_yield_pct":"460.0",
     "last_price":"17.4",
-    "payout_ratio":"58.82"
+    "payout_ratio":"0.5882"
   },
   {
     "symbol":"PATO",
@@ -2136,8 +7174,7 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Petrochemicals & Chemicals",
-    "dividend_yield_pct":"0.07",
-    "dividend_rate":"0.45",
+    "dividend_yield_pct":"7.44",
     "last_price":"6.05",
     "payout_ratio":null
   },
@@ -2177,10 +7214,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"3.13",
-    "dividend_rate":"1.5",
+    "dividend_yield_pct":"313.0",
     "last_price":"48.0",
-    "payout_ratio":"63.94"
+    "payout_ratio":"0.6394"
   },
   {
     "symbol":"PCSGH",
@@ -2218,10 +7254,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Automotive",
-    "dividend_yield_pct":"8.77",
-    "dividend_rate":"0.27",
+    "dividend_yield_pct":"877.0",
     "last_price":"3.06",
-    "payout_ratio":"89.29"
+    "payout_ratio":"0.8929"
   },
   {
     "symbol":"PDG",
@@ -2259,10 +7294,9 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"10.63",
-    "dividend_rate":"0.28",
+    "dividend_yield_pct":"1063.0",
     "last_price":"3.2",
-    "payout_ratio":"107.92"
+    "payout_ratio":"1.0792"
   },
   {
     "symbol":"PEACE",
@@ -2292,10 +7326,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Development",
-    "dividend_yield_pct":"3.97",
-    "dividend_rate":"0.06",
+    "dividend_yield_pct":"397.0",
     "last_price":"1.5",
-    "payout_ratio":"200.0"
+    "payout_ratio":"2.0"
   },
   {
     "symbol":"PG",
@@ -2330,8 +7363,7 @@
     "market":"SET",
     "industry":"Consumer Products",
     "sector":"Fashion",
-    "dividend_yield_pct":"0.08",
-    "dividend_rate":"0.5",
+    "dividend_yield_pct":"7.75",
     "last_price":"6.45",
     "payout_ratio":null
   },
@@ -2369,10 +7401,9 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"7.62",
-    "dividend_rate":"0.25",
+    "dividend_yield_pct":"762.0",
     "last_price":"3.26",
-    "payout_ratio":"71.43"
+    "payout_ratio":"0.7143"
   },
   {
     "symbol":"PIMO",
@@ -2408,10 +7439,9 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"4.15",
-    "dividend_rate":"0.049",
-    "last_price":"1.16",
-    "payout_ratio":"65.0"
+    "dividend_yield_pct":"415.0",
+    "last_price":"1.17",
+    "payout_ratio":"0.65"
   },
   {
     "symbol":"PIN",
@@ -2441,9 +7471,8 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Development",
-    "dividend_yield_pct":"0.05",
-    "dividend_rate":"0.216",
-    "last_price":"4.58",
+    "dividend_yield_pct":"4.7",
+    "last_price":"4.6",
     "payout_ratio":null
   },
   {
@@ -2481,7 +7510,6 @@
     "industry":"Industrials",
     "sector":"Packaging",
     "dividend_yield_pct":null,
-    "dividend_rate":null,
     "last_price":null,
     "payout_ratio":null
   },
@@ -2518,10 +7546,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Media & Publishing",
-    "dividend_yield_pct":"3.46",
-    "dividend_rate":"0.211",
-    "last_price":"6.0",
-    "payout_ratio":"64.38"
+    "dividend_yield_pct":"346.0",
+    "last_price":"6.05",
+    "payout_ratio":"0.6438"
   },
   {
     "symbol":"PM",
@@ -2559,9 +7586,8 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"0.08",
-    "dividend_rate":"0.93",
-    "last_price":"11.1",
+    "dividend_yield_pct":"8.45",
+    "last_price":"11.0",
     "payout_ratio":null
   },
   {
@@ -2599,10 +7625,9 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"2.45",
-    "dividend_rate":"0.05",
+    "dividend_yield_pct":"245.0",
     "last_price":"2.0",
-    "payout_ratio":"16.97"
+    "payout_ratio":"0.1697"
   },
   {
     "symbol":"PR9",
@@ -2635,8 +7660,7 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Health Care Services",
-    "dividend_yield_pct":"0.03",
-    "dividend_rate":"0.5",
+    "dividend_yield_pct":"2.81",
     "last_price":"17.8",
     "payout_ratio":null
   },
@@ -2676,7 +7700,6 @@
     "industry":"Services",
     "sector":"Media & Publishing",
     "dividend_yield_pct":null,
-    "dividend_rate":null,
     "last_price":null,
     "payout_ratio":null
   },
@@ -2709,10 +7732,9 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"5.06",
-    "dividend_rate":"0.04",
+    "dividend_yield_pct":"506.0",
     "last_price":"0.78",
-    "payout_ratio":"37.5"
+    "payout_ratio":"0.375"
   },
   {
     "symbol":"PREB",
@@ -2749,8 +7771,7 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Construction Services",
-    "dividend_yield_pct":"0.06",
-    "dividend_rate":"0.2",
+    "dividend_yield_pct":"5.71",
     "last_price":"3.5",
     "payout_ratio":null
   },
@@ -2786,9 +7807,8 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Transportation & Logistics",
-    "dividend_yield_pct":"0.05",
-    "dividend_rate":"0.5",
-    "last_price":"9.8",
+    "dividend_yield_pct":"5.13",
+    "last_price":"9.75",
     "payout_ratio":null
   },
   {
@@ -2824,10 +7844,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Development",
-    "dividend_yield_pct":"4.59",
-    "dividend_rate":"0.11",
+    "dividend_yield_pct":"459.0",
     "last_price":"3.88",
-    "payout_ratio":"262.5"
+    "payout_ratio":"2.625"
   },
   {
     "symbol":"PSL",
@@ -2859,10 +7878,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Transportation & Logistics",
-    "dividend_yield_pct":"4.91",
-    "dividend_rate":"0.3",
+    "dividend_yield_pct":"491.0",
     "last_price":"8.05",
-    "payout_ratio":"69.28"
+    "payout_ratio":"0.6928"
   },
   {
     "symbol":"PT",
@@ -2900,10 +7918,9 @@
     "market":"SET",
     "industry":"Technology",
     "sector":"Information & Communication Technology",
-    "dividend_yield_pct":"8.7",
-    "dividend_rate":"1.0",
+    "dividend_yield_pct":"870.0",
     "last_price":"11.4",
-    "payout_ratio":"109.9"
+    "payout_ratio":"1.099"
   },
   {
     "symbol":"PTC",
@@ -2933,8 +7950,7 @@
     "market":"mai",
     "industry":"Resources",
     "sector":null,
-    "dividend_yield_pct":"0.02",
-    "dividend_rate":"0.01",
+    "dividend_yield_pct":"1.75",
     "last_price":"0.57",
     "payout_ratio":null
   },
@@ -2973,10 +7989,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"4.64",
-    "dividend_rate":"0.35",
+    "dividend_yield_pct":"464.0",
     "last_price":"7.5",
-    "payout_ratio":"92.83"
+    "payout_ratio":"0.9283"
   },
   {
     "symbol":"PTT",
@@ -3014,10 +8029,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"5.38",
-    "dividend_rate":"2.1",
-    "last_price":"38.75",
-    "payout_ratio":"64.62"
+    "dividend_yield_pct":"538.0",
+    "last_price":"38.5",
+    "payout_ratio":"0.6462"
   },
   {
     "symbol":"PTTEP",
@@ -3055,9 +8069,8 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":null,
-    "dividend_rate":null,
-    "last_price":null,
+    "dividend_yield_pct":"0.19",
+    "last_price":"148.5",
     "payout_ratio":null
   },
   {
@@ -3096,10 +8109,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Petrochemicals & Chemicals",
-    "dividend_yield_pct":"1.3",
-    "dividend_rate":"0.5",
+    "dividend_yield_pct":"130.0",
     "last_price":"36.75",
-    "payout_ratio":"43.86"
+    "payout_ratio":"0.4386"
   },
   {
     "symbol":"PYLON",
@@ -3136,10 +8148,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Construction Services",
-    "dividend_yield_pct":"6.59",
-    "dividend_rate":"0.24",
+    "dividend_yield_pct":"659.0",
     "last_price":"3.56",
-    "payout_ratio":"66.68"
+    "payout_ratio":"0.6668"
   },
   {
     "symbol":"QH",
@@ -3177,9 +8188,8 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Development",
-    "dividend_yield_pct":"0.06",
-    "dividend_rate":"0.09",
-    "last_price":"1.41",
+    "dividend_yield_pct":"6.34",
+    "last_price":"1.42",
     "payout_ratio":null
   },
   {
@@ -3215,10 +8225,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Industrial Materials & Machinery",
-    "dividend_yield_pct":"4.33",
-    "dividend_rate":"0.2",
+    "dividend_yield_pct":"433.0",
     "last_price":"4.58",
-    "payout_ratio":"598.0"
+    "payout_ratio":"5.98"
   },
   {
     "symbol":"RAM",
@@ -3256,10 +8265,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Health Care Services",
-    "dividend_yield_pct":"0.56",
-    "dividend_rate":"0.1",
+    "dividend_yield_pct":"56.0",
     "last_price":"17.8",
-    "payout_ratio":"4.46"
+    "payout_ratio":"0.0446"
   },
   {
     "symbol":"RATCH",
@@ -3297,10 +8305,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"4.13",
-    "dividend_rate":"1.6",
+    "dividend_yield_pct":"413.0",
     "last_price":"38.5",
-    "payout_ratio":"55.94"
+    "payout_ratio":"0.5594"
   },
   {
     "symbol":"RBF",
@@ -3332,10 +8339,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"4.23",
-    "dividend_rate":"0.21",
-    "last_price":"4.94",
-    "payout_ratio":"72.92"
+    "dividend_yield_pct":"423.0",
+    "last_price":"5.0",
+    "payout_ratio":"0.7292"
   },
   {
     "symbol":"RCL",
@@ -3369,10 +8375,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Transportation & Logistics",
-    "dividend_yield_pct":"11.76",
-    "dividend_rate":"2.5",
+    "dividend_yield_pct":"1176.0",
     "last_price":"34.5",
-    "payout_ratio":"26.62"
+    "payout_ratio":"0.2662"
   },
   {
     "symbol":"RJH",
@@ -3408,8 +8413,7 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Health Care Services",
-    "dividend_yield_pct":"0.04",
-    "dividend_rate":"0.6",
+    "dividend_yield_pct":"4.03",
     "last_price":"14.9",
     "payout_ratio":null
   },
@@ -3448,10 +8452,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Development",
-    "dividend_yield_pct":"8.26",
-    "dividend_rate":"0.5",
+    "dividend_yield_pct":"826.0",
     "last_price":"6.05",
-    "payout_ratio":"38.52"
+    "payout_ratio":"0.3852"
   },
   {
     "symbol":"RPH",
@@ -3486,8 +8489,7 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Health Care Services",
-    "dividend_yield_pct":"0.06",
-    "dividend_rate":"0.28",
+    "dividend_yield_pct":"5.62",
     "last_price":"4.98",
     "payout_ratio":null
   },
@@ -3527,8 +8529,7 @@
     "market":"SET",
     "industry":"Consumer Products",
     "sector":"Fashion",
-    "dividend_yield_pct":"0.08",
-    "dividend_rate":"1.18",
+    "dividend_yield_pct":"7.52",
     "last_price":"15.7",
     "payout_ratio":null
   },
@@ -3561,10 +8562,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Finance & Securities",
-    "dividend_yield_pct":"5.95",
-    "dividend_rate":"0.2",
-    "last_price":"3.32",
-    "payout_ratio":"42.86"
+    "dividend_yield_pct":"595.0",
+    "last_price":"3.34",
+    "payout_ratio":"0.4286"
   },
   {
     "symbol":"SALEE",
@@ -3599,8 +8599,7 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"0.02",
-    "dividend_rate":"0.012",
+    "dividend_yield_pct":"2.03",
     "last_price":"0.59",
     "payout_ratio":null
   },
@@ -3639,10 +8638,9 @@
     "market":"SET",
     "industry":"Technology",
     "sector":"Information & Communication Technology",
-    "dividend_yield_pct":"3.29",
-    "dividend_rate":"0.12",
-    "last_price":"3.0",
-    "payout_ratio":"109.09"
+    "dividend_yield_pct":"329.0",
+    "last_price":"3.02",
+    "payout_ratio":"1.0909"
   },
   {
     "symbol":"SANKO",
@@ -3674,8 +8672,7 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"3.13",
-    "dividend_rate":"0.04",
+    "dividend_yield_pct":"313.0",
     "last_price":"1.23",
     "payout_ratio":null
   },
@@ -3714,10 +8711,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"5.11",
-    "dividend_rate":"1.75",
+    "dividend_yield_pct":"511.0",
     "last_price":"33.5",
-    "payout_ratio":"94.14"
+    "payout_ratio":"0.9414"
   },
   {
     "symbol":"SAT",
@@ -3755,10 +8751,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Automotive",
-    "dividend_yield_pct":"9.88",
-    "dividend_rate":"1.6",
+    "dividend_yield_pct":"988.0",
     "last_price":"16.1",
-    "payout_ratio":"90.22"
+    "payout_ratio":"0.9022"
   },
   {
     "symbol":"SAUCE",
@@ -3795,10 +8790,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"4.41",
-    "dividend_rate":"1.81",
+    "dividend_yield_pct":"441.0",
     "last_price":"41.0",
-    "payout_ratio":"81.74"
+    "payout_ratio":"0.8174"
   },
   {
     "symbol":"SAWAD",
@@ -3835,10 +8829,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Finance & Securities",
-    "dividend_yield_pct":"2.96",
-    "dividend_rate":"0.7",
-    "last_price":"24.6",
-    "payout_ratio":"12.3"
+    "dividend_yield_pct":"296.0",
+    "last_price":"24.8",
+    "payout_ratio":"0.123"
   },
   {
     "symbol":"SC",
@@ -3875,10 +8868,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Development",
-    "dividend_yield_pct":"7.54",
-    "dividend_rate":"0.15",
+    "dividend_yield_pct":"754.0",
     "last_price":"2.0",
-    "payout_ratio":"44.42"
+    "payout_ratio":"0.4442"
   },
   {
     "symbol":"SCAP",
@@ -3914,9 +8906,8 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Finance & Securities",
-    "dividend_yield_pct":"0.04",
-    "dividend_rate":"0.07",
-    "last_price":"1.73",
+    "dividend_yield_pct":"4.02",
+    "last_price":"1.74",
     "payout_ratio":null
   },
   {
@@ -3947,10 +8938,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Banking",
-    "dividend_yield_pct":"7.3",
-    "dividend_rate":"9.28",
-    "last_price":"152.5",
-    "payout_ratio":"77.79"
+    "dividend_yield_pct":"730.0",
+    "last_price":"152.0",
+    "payout_ratio":"0.7779"
   },
   {
     "symbol":"SCC",
@@ -3988,8 +8978,7 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Construction Materials",
-    "dividend_yield_pct":"0.02",
-    "dividend_rate":"6.0",
+    "dividend_yield_pct":"2.36",
     "last_price":"254.0",
     "payout_ratio":null
   },
@@ -4028,8 +9017,7 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Construction Materials",
-    "dividend_yield_pct":"0.07",
-    "dividend_rate":"11.0",
+    "dividend_yield_pct":"7.38",
     "last_price":"149.0",
     "payout_ratio":null
   },
@@ -4062,9 +9050,8 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Packaging",
-    "dividend_yield_pct":"0.03",
-    "dividend_rate":"0.75",
-    "last_price":"29.75",
+    "dividend_yield_pct":"2.5",
+    "last_price":"30.0",
     "payout_ratio":null
   },
   {
@@ -4103,10 +9090,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Construction Materials",
-    "dividend_yield_pct":"11.05",
-    "dividend_rate":"1.0",
+    "dividend_yield_pct":"1105.0",
     "last_price":"9.05",
-    "payout_ratio":"90.91"
+    "payout_ratio":"0.9091"
   },
   {
     "symbol":"SE",
@@ -4141,8 +9127,7 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Industrial Materials & Machinery",
-    "dividend_yield_pct":"0.05",
-    "dividend_rate":"0.026",
+    "dividend_yield_pct":"5.2",
     "last_price":"0.5",
     "payout_ratio":null
   },
@@ -4179,10 +9164,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"5.52",
-    "dividend_rate":"0.18",
-    "last_price":"3.38",
-    "payout_ratio":"47.4"
+    "dividend_yield_pct":"552.0",
+    "last_price":"3.36",
+    "payout_ratio":"0.474"
   },
   {
     "symbol":"SECURE",
@@ -4212,10 +9196,9 @@
     "market":"mai",
     "industry":"Technology",
     "sector":null,
-    "dividend_yield_pct":"7.41",
-    "dividend_rate":"1.0",
+    "dividend_yield_pct":"741.0",
     "last_price":"13.5",
-    "payout_ratio":"80.65"
+    "payout_ratio":"0.8065"
   },
   {
     "symbol":"SELIC",
@@ -4250,10 +9233,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Industrial Materials & Machinery",
-    "dividend_yield_pct":"1.29",
-    "dividend_rate":"0.034",
+    "dividend_yield_pct":"129.0",
     "last_price":"2.74",
-    "payout_ratio":"13.92"
+    "payout_ratio":"0.1392"
   },
   {
     "symbol":"SENA",
@@ -4291,8 +9273,7 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Development",
-    "dividend_yield_pct":"0.08",
-    "dividend_rate":"0.138",
+    "dividend_yield_pct":"7.67",
     "last_price":"1.8",
     "payout_ratio":null
   },
@@ -4326,9 +9307,8 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Packaging",
-    "dividend_yield_pct":"0.06",
-    "dividend_rate":"0.17",
-    "last_price":"2.96",
+    "dividend_yield_pct":"5.7",
+    "last_price":"2.98",
     "payout_ratio":null
   },
   {
@@ -4360,10 +9340,9 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"5.0",
-    "dividend_rate":"0.07",
-    "last_price":"1.39",
-    "payout_ratio":"50.0"
+    "dividend_yield_pct":"500.0",
+    "last_price":"1.4",
+    "payout_ratio":"0.5"
   },
   {
     "symbol":"SGP",
@@ -4401,10 +9380,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"2.44",
-    "dividend_rate":"0.2",
+    "dividend_yield_pct":"244.0",
     "last_price":"8.05",
-    "payout_ratio":"26.32"
+    "payout_ratio":"0.2632"
   },
   {
     "symbol":"SICT",
@@ -4435,8 +9413,7 @@
     "market":"mai",
     "industry":"Technology",
     "sector":null,
-    "dividend_yield_pct":"0.01",
-    "dividend_rate":"0.025",
+    "dividend_yield_pct":"0.87",
     "last_price":"2.88",
     "payout_ratio":null
   },
@@ -4475,10 +9452,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Development",
-    "dividend_yield_pct":"10.6",
-    "dividend_rate":"0.13",
+    "dividend_yield_pct":"1060.0",
     "last_price":"1.51",
-    "payout_ratio":"53.94"
+    "payout_ratio":"0.5394"
   },
   {
     "symbol":"SIS",
@@ -4515,10 +9491,9 @@
     "market":"SET",
     "industry":"Technology",
     "sector":"Information & Communication Technology",
-    "dividend_yield_pct":"4.74",
-    "dividend_rate":"1.22",
-    "last_price":"25.5",
-    "payout_ratio":"45.86"
+    "dividend_yield_pct":"474.0",
+    "last_price":"26.0",
+    "payout_ratio":"0.4586"
   },
   {
     "symbol":"SISB",
@@ -4550,10 +9525,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Professional Services",
-    "dividend_yield_pct":"5.31",
-    "dividend_rate":"0.51",
+    "dividend_yield_pct":"531.0",
     "last_price":"9.6",
-    "payout_ratio":"51.0"
+    "payout_ratio":"0.51"
   },
   {
     "symbol":"SITHAI",
@@ -4588,10 +9562,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Packaging",
-    "dividend_yield_pct":"5.56",
-    "dividend_rate":"0.06",
+    "dividend_yield_pct":"556.0",
     "last_price":"1.1",
-    "payout_ratio":"60.0"
+    "payout_ratio":"0.6"
   },
   {
     "symbol":"SKR",
@@ -4628,10 +9601,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Health Care Services",
-    "dividend_yield_pct":"3.13",
-    "dividend_rate":"0.25",
+    "dividend_yield_pct":"313.0",
     "last_price":"7.95",
-    "payout_ratio":"60.61"
+    "payout_ratio":"0.6061"
   },
   {
     "symbol":"SMART",
@@ -4663,8 +9635,7 @@
     "market":"mai",
     "industry":"Property & Construction",
     "sector":null,
-    "dividend_yield_pct":"0.07",
-    "dividend_rate":"0.04",
+    "dividend_yield_pct":"7.27",
     "last_price":"0.55",
     "payout_ratio":null
   },
@@ -4696,8 +9667,7 @@
     "market":"mai",
     "industry":"Consumer Products",
     "sector":null,
-    "dividend_yield_pct":"5.34",
-    "dividend_rate":"0.06",
+    "dividend_yield_pct":"534.0",
     "last_price":"1.16",
     "payout_ratio":null
   },
@@ -4737,9 +9707,8 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Steel and Metal Products",
-    "dividend_yield_pct":"0.07",
-    "dividend_rate":"0.24",
-    "last_price":"3.6",
+    "dividend_yield_pct":"6.63",
+    "last_price":"3.62",
     "payout_ratio":null
   },
   {
@@ -4778,10 +9747,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Packaging",
-    "dividend_yield_pct":"7.29",
-    "dividend_rate":"0.7",
+    "dividend_yield_pct":"729.0",
     "last_price":"9.6",
-    "payout_ratio":"59.32"
+    "payout_ratio":"0.5932"
   },
   {
     "symbol":"SMT",
@@ -4811,10 +9779,9 @@
     "market":"SET",
     "industry":"Technology",
     "sector":"Electronic Components",
-    "dividend_yield_pct":"0.62",
-    "dividend_rate":"0.03",
-    "last_price":"4.36",
-    "payout_ratio":"140.0"
+    "dividend_yield_pct":"62.0",
+    "last_price":"4.42",
+    "payout_ratio":"1.4"
   },
   {
     "symbol":"SNNP",
@@ -4845,10 +9812,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"8.38",
-    "dividend_rate":"0.595",
-    "last_price":"6.95",
-    "payout_ratio":"130.43"
+    "dividend_yield_pct":"838.0",
+    "last_price":"7.0",
+    "payout_ratio":"1.3043"
   },
   {
     "symbol":"SNP",
@@ -4886,10 +9852,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"10.23",
-    "dividend_rate":"0.5",
+    "dividend_yield_pct":"1023.0",
     "last_price":"8.85",
-    "payout_ratio":"94.6"
+    "payout_ratio":"0.946"
   },
   {
     "symbol":"SO",
@@ -4921,8 +9886,7 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Professional Services",
-    "dividend_yield_pct":"0.08",
-    "dividend_rate":"0.38",
+    "dividend_yield_pct":"8.15",
     "last_price":"4.66",
     "payout_ratio":null
   },
@@ -4957,8 +9921,7 @@
     "market":"mai",
     "industry":"Services",
     "sector":null,
-    "dividend_yield_pct":"0.04",
-    "dividend_rate":"0.06",
+    "dividend_yield_pct":"3.92",
     "last_price":"1.53",
     "payout_ratio":null
   },
@@ -4997,10 +9960,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"7.06",
-    "dividend_rate":"0.25",
+    "dividend_yield_pct":"706.0",
     "last_price":"3.52",
-    "payout_ratio":"102.08"
+    "payout_ratio":"1.0208"
   },
   {
     "symbol":"SPALI",
@@ -5038,10 +10000,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Development",
-    "dividend_yield_pct":"8.75",
-    "dividend_rate":"1.25",
+    "dividend_yield_pct":"875.0",
     "last_price":"16.0",
-    "payout_ratio":"66.95"
+    "payout_ratio":"0.6695"
   },
   {
     "symbol":"SPC",
@@ -5078,10 +10039,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Commerce",
-    "dividend_yield_pct":"4.3",
-    "dividend_rate":"2.4",
-    "last_price":"55.25",
-    "payout_ratio":"30.69"
+    "dividend_yield_pct":"430.0",
+    "last_price":"55.5",
+    "payout_ratio":"0.3069"
   },
   {
     "symbol":"SPCG",
@@ -5119,10 +10079,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"23.48",
-    "dividend_rate":"0.66",
+    "dividend_yield_pct":"2348.0",
     "last_price":"9.15",
-    "payout_ratio":"635.29"
+    "payout_ratio":"6.3529"
   },
   {
     "symbol":"SPG",
@@ -5159,10 +10118,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Automotive",
-    "dividend_yield_pct":"7.27",
-    "dividend_rate":"0.8",
+    "dividend_yield_pct":"727.0",
     "last_price":"11.0",
-    "payout_ratio":"80.81"
+    "payout_ratio":"0.8081"
   },
   {
     "symbol":"SPI",
@@ -5199,8 +10157,7 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Commerce",
-    "dividend_yield_pct":"0.02",
-    "dividend_rate":"0.6",
+    "dividend_yield_pct":"1.78",
     "last_price":"33.75",
     "payout_ratio":null
   },
@@ -5237,10 +10194,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"5.61",
-    "dividend_rate":"0.45",
+    "dividend_yield_pct":"561.0",
     "last_price":"10.8",
-    "payout_ratio":"21.13"
+    "payout_ratio":"0.2113"
   },
   {
     "symbol":"SPRIME",
@@ -5273,10 +10229,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Fund & REITs",
-    "dividend_yield_pct":"9.22",
-    "dividend_rate":"0.4",
-    "last_price":"4.34",
-    "payout_ratio":"66.19"
+    "dividend_yield_pct":"922.0",
+    "last_price":"4.32",
+    "payout_ratio":"0.6619"
   },
   {
     "symbol":"SPVI",
@@ -5313,10 +10268,9 @@
     "market":"mai",
     "industry":"Technology",
     "sector":null,
-    "dividend_yield_pct":"4.24",
-    "dividend_rate":"0.145",
+    "dividend_yield_pct":"424.0",
     "last_price":"3.4",
-    "payout_ratio":"42.65"
+    "payout_ratio":"0.4265"
   },
   {
     "symbol":"SSF",
@@ -5353,10 +10307,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"7.19",
-    "dividend_rate":"0.37",
+    "dividend_yield_pct":"719.0",
     "last_price":"5.15",
-    "payout_ratio":"72.48"
+    "payout_ratio":"0.7248"
   },
   {
     "symbol":"SSP",
@@ -5390,8 +10343,7 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"0.07",
-    "dividend_rate":"0.325",
+    "dividend_yield_pct":"7.22",
     "last_price":"4.5",
     "payout_ratio":null
   },
@@ -5430,8 +10382,7 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Steel and Metal Products",
-    "dividend_yield_pct":"0.07",
-    "dividend_rate":"0.165",
+    "dividend_yield_pct":"7.37",
     "last_price":"2.24",
     "payout_ratio":null
   },
@@ -5469,10 +10420,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Fund & REITs",
-    "dividend_yield_pct":"8.55",
-    "dividend_rate":"0.4",
+    "dividend_yield_pct":"855.0",
     "last_price":"4.66",
-    "payout_ratio":"77.39"
+    "payout_ratio":"0.7739"
   },
   {
     "symbol":"STA",
@@ -5509,10 +10459,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Agribusiness",
-    "dividend_yield_pct":"2.67",
-    "dividend_rate":"0.5",
-    "last_price":"18.3",
-    "payout_ratio":"119.05"
+    "dividend_yield_pct":"267.0",
+    "last_price":"18.4",
+    "payout_ratio":"1.1905"
   },
   {
     "symbol":"STANLY",
@@ -5549,10 +10498,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Automotive",
-    "dividend_yield_pct":"10.55",
-    "dividend_rate":"25.0",
-    "last_price":"236.0",
-    "payout_ratio":"79.62"
+    "dividend_yield_pct":"1055.0",
+    "last_price":"235.0",
+    "payout_ratio":"0.7962"
   },
   {
     "symbol":"STGT",
@@ -5584,10 +10532,9 @@
     "market":"SET",
     "industry":"Consumer Products",
     "sector":"Personal Products & Pharmaceuticals",
-    "dividend_yield_pct":"4.81",
-    "dividend_rate":"0.5",
+    "dividend_yield_pct":"481.0",
     "last_price":"10.3",
-    "payout_ratio":"147.06"
+    "payout_ratio":"1.4706"
   },
   {
     "symbol":"STI",
@@ -5620,8 +10567,7 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Construction Services",
-    "dividend_yield_pct":"0.02",
-    "dividend_rate":"0.026",
+    "dividend_yield_pct":"1.52",
     "last_price":"1.71",
     "payout_ratio":null
   },
@@ -5653,10 +10599,9 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"5.63",
-    "dividend_rate":"0.67",
-    "last_price":"11.9",
-    "payout_ratio":"38.01"
+    "dividend_yield_pct":"563.0",
+    "last_price":"11.8",
+    "payout_ratio":"0.3801"
   },
   {
     "symbol":"SUC",
@@ -5692,10 +10637,9 @@
     "market":"SET",
     "industry":"Consumer Products",
     "sector":"Fashion",
-    "dividend_yield_pct":"5.5",
-    "dividend_rate":"1.5",
+    "dividend_yield_pct":"550.0",
     "last_price":"27.25",
-    "payout_ratio":"25.17"
+    "payout_ratio":"0.2517"
   },
   {
     "symbol":"SUN",
@@ -5729,10 +10673,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"3.94",
-    "dividend_rate":"0.15",
+    "dividend_yield_pct":"394.0",
     "last_price":"2.48",
-    "payout_ratio":"111.11"
+    "payout_ratio":"1.1111"
   },
   {
     "symbol":"SUSCO",
@@ -5770,8 +10713,7 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"0.04",
-    "dividend_rate":"0.09",
+    "dividend_yield_pct":"4.05",
     "last_price":"2.22",
     "payout_ratio":null
   },
@@ -5803,8 +10745,7 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Commerce",
-    "dividend_yield_pct":"0.04",
-    "dividend_rate":"0.05",
+    "dividend_yield_pct":"3.73",
     "last_price":"1.34",
     "payout_ratio":null
   },
@@ -5844,10 +10785,9 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"7.0",
-    "dividend_rate":"0.325",
+    "dividend_yield_pct":"700.0",
     "last_price":"4.56",
-    "payout_ratio":"78.13"
+    "payout_ratio":"0.7813"
   },
   {
     "symbol":"SYMC",
@@ -5883,8 +10823,7 @@
     "market":"SET",
     "industry":"Technology",
     "sector":"Information & Communication Technology",
-    "dividend_yield_pct":"0.02",
-    "dividend_rate":"0.097",
+    "dividend_yield_pct":"1.75",
     "last_price":"5.55",
     "payout_ratio":null
   },
@@ -5923,10 +10862,9 @@
     "market":"SET",
     "industry":"Technology",
     "sector":"Information & Communication Technology",
-    "dividend_yield_pct":"5.03",
-    "dividend_rate":"0.48",
-    "last_price":"9.65",
-    "payout_ratio":"46.32"
+    "dividend_yield_pct":"503.0",
+    "last_price":"9.6",
+    "payout_ratio":"0.4632"
   },
   {
     "symbol":"SYNTEC",
@@ -5965,7 +10903,6 @@
     "industry":"Property & Construction",
     "sector":"Construction Services",
     "dividend_yield_pct":null,
-    "dividend_rate":null,
     "last_price":null,
     "payout_ratio":null
   },
@@ -6003,10 +10940,9 @@
     "market":"mai",
     "industry":"Agro & Food Industry",
     "sector":null,
-    "dividend_yield_pct":"6.51",
-    "dividend_rate":"0.42",
+    "dividend_yield_pct":"651.0",
     "last_price":"6.4",
-    "payout_ratio":"72.73"
+    "payout_ratio":"0.7273"
   },
   {
     "symbol":"TASCO",
@@ -6044,9 +10980,8 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Construction Materials",
-    "dividend_yield_pct":"0.07",
-    "dividend_rate":"1.0",
-    "last_price":"14.0",
+    "dividend_yield_pct":"7.19",
+    "last_price":"13.9",
     "payout_ratio":null
   },
   {
@@ -6084,10 +11019,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"4.48",
-    "dividend_rate":"0.3",
+    "dividend_yield_pct":"448.0",
     "last_price":"6.65",
-    "payout_ratio":"46.88"
+    "payout_ratio":"0.4688"
   },
   {
     "symbol":"TCAP",
@@ -6125,10 +11059,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Banking",
-    "dividend_yield_pct":"4.75",
-    "dividend_rate":"3.5",
+    "dividend_yield_pct":"475.0",
     "last_price":"71.75",
-    "payout_ratio":"43.11"
+    "payout_ratio":"0.4311"
   },
   {
     "symbol":"TEAM",
@@ -6160,10 +11093,9 @@
     "market":"SET",
     "industry":"Technology",
     "sector":"Electronic Components",
-    "dividend_yield_pct":"4.27",
-    "dividend_rate":"0.2",
-    "last_price":"4.46",
-    "payout_ratio":"59.88"
+    "dividend_yield_pct":"427.0",
+    "last_price":"4.5",
+    "payout_ratio":"0.5988"
   },
   {
     "symbol":"TEKA",
@@ -6193,10 +11125,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Construction Services",
-    "dividend_yield_pct":"8.47",
-    "dividend_rate":"0.15",
+    "dividend_yield_pct":"847.0",
     "last_price":"1.77",
-    "payout_ratio":"46.55"
+    "payout_ratio":"0.4655"
   },
   {
     "symbol":"TFG",
@@ -6231,10 +11162,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"7.1",
-    "dividend_rate":"0.71",
+    "dividend_yield_pct":"710.0",
     "last_price":"9.85",
-    "payout_ratio":"56.0"
+    "payout_ratio":"0.56"
   },
   {
     "symbol":"TFM",
@@ -6264,10 +11194,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Agribusiness",
-    "dividend_yield_pct":"9.16",
-    "dividend_rate":"0.6",
+    "dividend_yield_pct":"916.0",
     "last_price":"6.55",
-    "payout_ratio":"73.62"
+    "payout_ratio":"0.7362"
   },
   {
     "symbol":"TFMAMA",
@@ -6305,10 +11234,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"2.45",
-    "dividend_rate":"4.56",
+    "dividend_yield_pct":"245.0",
     "last_price":"186.5",
-    "payout_ratio":"46.17"
+    "payout_ratio":"0.4617"
   },
   {
     "symbol":"THANI",
@@ -6345,8 +11273,7 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Finance & Securities",
-    "dividend_yield_pct":"0.05",
-    "dividend_rate":"0.11",
+    "dividend_yield_pct":"5.0",
     "last_price":"2.2",
     "payout_ratio":null
   },
@@ -6385,10 +11312,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Packaging",
-    "dividend_yield_pct":"7.62",
-    "dividend_rate":"1.6",
+    "dividend_yield_pct":"762.0",
     "last_price":"20.9",
-    "payout_ratio":"158.64"
+    "payout_ratio":"1.5864"
   },
   {
     "symbol":"TIF1",
@@ -6426,10 +11352,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Fund & REITs",
-    "dividend_yield_pct":"7.5",
-    "dividend_rate":"0.445",
+    "dividend_yield_pct":"750.0",
     "last_price":"8.0",
-    "payout_ratio":"63.82"
+    "payout_ratio":"0.6382"
   },
   {
     "symbol":"TIPCO",
@@ -6465,10 +11390,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"1.56",
-    "dividend_rate":"0.1",
+    "dividend_yield_pct":"156.0",
     "last_price":"6.3",
-    "payout_ratio":"32.73"
+    "payout_ratio":"0.3273"
   },
   {
     "symbol":"TIPH",
@@ -6498,10 +11422,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Insurance",
-    "dividend_yield_pct":"6.38",
-    "dividend_rate":"1.5",
+    "dividend_yield_pct":"638.0",
     "last_price":"23.2",
-    "payout_ratio":"83.33"
+    "payout_ratio":"0.8333"
   },
   {
     "symbol":"TISCO",
@@ -6538,9 +11461,8 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Banking",
-    "dividend_yield_pct":"0.04",
-    "dividend_rate":"5.75",
-    "last_price":"128.0",
+    "dividend_yield_pct":"4.51",
+    "last_price":"127.5",
     "payout_ratio":null
   },
   {
@@ -6578,10 +11500,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Finance & Securities",
-    "dividend_yield_pct":"4.48",
-    "dividend_rate":"0.2",
+    "dividend_yield_pct":"448.0",
     "last_price":"4.46",
-    "payout_ratio":"163.49"
+    "payout_ratio":"1.6349"
   },
   {
     "symbol":"TKC",
@@ -6611,10 +11532,9 @@
     "market":"SET",
     "industry":"Technology",
     "sector":"Information & Communication Technology",
-    "dividend_yield_pct":"2.22",
-    "dividend_rate":"0.2",
+    "dividend_yield_pct":"222.0",
     "last_price":"8.9",
-    "payout_ratio":"45.45"
+    "payout_ratio":"0.4545"
   },
   {
     "symbol":"TKN",
@@ -6650,10 +11570,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"6.1",
-    "dividend_rate":"0.25",
+    "dividend_yield_pct":"610.0",
     "last_price":"4.08",
-    "payout_ratio":"83.33"
+    "payout_ratio":"0.8333"
   },
   {
     "symbol":"TKS",
@@ -6691,10 +11610,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Media & Publishing",
-    "dividend_yield_pct":"6.39",
-    "dividend_rate":"0.46",
+    "dividend_yield_pct":"639.0",
     "last_price":"7.2",
-    "payout_ratio":"59.72"
+    "payout_ratio":"0.5972"
   },
   {
     "symbol":"TMD",
@@ -6731,10 +11649,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Packaging",
-    "dividend_yield_pct":"6.36",
-    "dividend_rate":"0.0",
+    "dividend_yield_pct":"636.0",
     "last_price":"26.75",
-    "payout_ratio":"69.96"
+    "payout_ratio":"0.6996"
   },
   {
     "symbol":"TMILL",
@@ -6771,10 +11688,9 @@
     "market":"mai",
     "industry":"Agro & Food Industry",
     "sector":null,
-    "dividend_yield_pct":"5.15",
-    "dividend_rate":"0.09",
-    "last_price":"2.68",
-    "payout_ratio":"56.25"
+    "dividend_yield_pct":"515.0",
+    "last_price":"2.72",
+    "payout_ratio":"0.5625"
   },
   {
     "symbol":"TNL",
@@ -6811,8 +11727,7 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Finance & Securities",
-    "dividend_yield_pct":"0.03",
-    "dividend_rate":"0.6",
+    "dividend_yield_pct":"3.19",
     "last_price":"18.8",
     "payout_ratio":null
   },
@@ -6850,10 +11765,9 @@
     "market":"mai",
     "industry":"Services",
     "sector":null,
-    "dividend_yield_pct":"3.79",
-    "dividend_rate":"0.105",
+    "dividend_yield_pct":"379.0",
     "last_price":"2.88",
-    "payout_ratio":"39.92"
+    "payout_ratio":"0.3992"
   },
   {
     "symbol":"TNR",
@@ -6888,10 +11802,9 @@
     "market":"SET",
     "industry":"Consumer Products",
     "sector":"Personal Products & Pharmaceuticals",
-    "dividend_yield_pct":"7.27",
-    "dividend_rate":"0.4",
-    "last_price":"5.6",
-    "payout_ratio":"80.0"
+    "dividend_yield_pct":"727.0",
+    "last_price":"5.55",
+    "payout_ratio":"0.8"
   },
   {
     "symbol":"TOA",
@@ -6925,9 +11838,8 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Construction Materials",
-    "dividend_yield_pct":"0.05",
-    "dividend_rate":"0.75",
-    "last_price":"15.4",
+    "dividend_yield_pct":"4.81",
+    "last_price":"15.6",
     "payout_ratio":null
   },
   {
@@ -6966,10 +11878,9 @@
     "market":"SET",
     "industry":"Consumer Products",
     "sector":"Personal Products & Pharmaceuticals",
-    "dividend_yield_pct":"7.84",
-    "dividend_rate":"0.5",
-    "last_price":"7.6",
-    "payout_ratio":"62.5"
+    "dividend_yield_pct":"784.0",
+    "last_price":"7.55",
+    "payout_ratio":"0.625"
   },
   {
     "symbol":"TOP",
@@ -7007,10 +11918,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"3.13",
-    "dividend_rate":"1.8",
-    "last_price":"64.5",
-    "payout_ratio":"13.06"
+    "dividend_yield_pct":"313.0",
+    "last_price":"64.0",
+    "payout_ratio":"0.1306"
   },
   {
     "symbol":"TOPP",
@@ -7047,10 +11957,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Packaging",
-    "dividend_yield_pct":"3.34",
-    "dividend_rate":"0.0",
+    "dividend_yield_pct":"334.0",
     "last_price":"132.5",
-    "payout_ratio":"26.24"
+    "payout_ratio":"0.2624"
   },
   {
     "symbol":"TPAC",
@@ -7085,8 +11994,7 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Packaging",
-    "dividend_yield_pct":"0.05",
-    "dividend_rate":"0.438",
+    "dividend_yield_pct":"5.06",
     "last_price":"8.65",
     "payout_ratio":null
   },
@@ -7125,8 +12033,7 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Industrial Materials & Machinery",
-    "dividend_yield_pct":"0.07",
-    "dividend_rate":"0.7",
+    "dividend_yield_pct":"7.07",
     "last_price":"9.9",
     "payout_ratio":null
   },
@@ -7166,7 +12073,6 @@
     "industry":"Property & Construction",
     "sector":"Construction Materials",
     "dividend_yield_pct":null,
-    "dividend_rate":null,
     "last_price":null,
     "payout_ratio":null
   },
@@ -7203,10 +12109,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"3.85",
-    "dividend_rate":"0.07",
+    "dividend_yield_pct":"385.0",
     "last_price":"1.79",
-    "payout_ratio":"38.67"
+    "payout_ratio":"0.3867"
   },
   {
     "symbol":"TPLAS",
@@ -7239,10 +12144,9 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"3.36",
-    "dividend_rate":"0.04",
+    "dividend_yield_pct":"336.0",
     "last_price":"1.18",
-    "payout_ratio":"71.43"
+    "payout_ratio":"0.7143"
   },
   {
     "symbol":"TPP",
@@ -7279,8 +12183,7 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Packaging",
-    "dividend_yield_pct":"0.08",
-    "dividend_rate":"1.0",
+    "dividend_yield_pct":"8.0",
     "last_price":"12.5",
     "payout_ratio":null
   },
@@ -7317,10 +12220,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Fund & REITs",
-    "dividend_yield_pct":"7.18",
-    "dividend_rate":"0.414",
+    "dividend_yield_pct":"718.0",
     "last_price":"7.65",
-    "payout_ratio":"73.39"
+    "payout_ratio":"0.7339"
   },
   {
     "symbol":"TPS",
@@ -7352,10 +12254,9 @@
     "market":"mai",
     "industry":"Technology",
     "sector":null,
-    "dividend_yield_pct":"12.58",
-    "dividend_rate":"0.2",
+    "dividend_yield_pct":"1258.0",
     "last_price":"3.18",
-    "payout_ratio":"88.33"
+    "payout_ratio":"0.8833"
   },
   {
     "symbol":"TQM",
@@ -7388,10 +12289,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Insurance",
-    "dividend_yield_pct":"6.43",
-    "dividend_rate":"1.1",
-    "last_price":"17.0",
-    "payout_ratio":"94.83"
+    "dividend_yield_pct":"643.0",
+    "last_price":"16.9",
+    "payout_ratio":"0.9483"
   },
   {
     "symbol":"TQR",
@@ -7422,10 +12322,9 @@
     "market":"mai",
     "industry":"Financials",
     "sector":null,
-    "dividend_yield_pct":"7.89",
-    "dividend_rate":"0.4",
+    "dividend_yield_pct":"789.0",
     "last_price":"5.75",
-    "payout_ratio":"88.89"
+    "payout_ratio":"0.8889"
   },
   {
     "symbol":"TR",
@@ -7462,9 +12361,8 @@
     "market":"SET",
     "industry":"Consumer Products",
     "sector":"Fashion",
-    "dividend_yield_pct":null,
-    "dividend_rate":null,
-    "last_price":null,
+    "dividend_yield_pct":"0.19",
+    "last_price":"26.25",
     "payout_ratio":null
   },
   {
@@ -7502,10 +12400,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Automotive",
-    "dividend_yield_pct":"6.54",
-    "dividend_rate":"0.0",
+    "dividend_yield_pct":"654.0",
     "last_price":"3.8",
-    "payout_ratio":"81.08"
+    "payout_ratio":"0.8108"
   },
   {
     "symbol":"TSC",
@@ -7542,10 +12439,9 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Automotive",
-    "dividend_yield_pct":"7.89",
-    "dividend_rate":"1.2",
+    "dividend_yield_pct":"789.0",
     "last_price":"15.2",
-    "payout_ratio":"87.59"
+    "payout_ratio":"0.8759"
   },
   {
     "symbol":"TSTE",
@@ -7582,8 +12478,7 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Transportation & Logistics",
-    "dividend_yield_pct":"0.02",
-    "dividend_rate":"0.16",
+    "dividend_yield_pct":"1.52",
     "last_price":"10.5",
     "payout_ratio":null
   },
@@ -7623,7 +12518,6 @@
     "industry":"Services",
     "sector":"Transportation & Logistics",
     "dividend_yield_pct":null,
-    "dividend_rate":null,
     "last_price":null,
     "payout_ratio":null
   },
@@ -7662,9 +12556,8 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Banking",
-    "dividend_yield_pct":"0.02",
-    "dividend_rate":"0.068",
-    "last_price":"3.04",
+    "dividend_yield_pct":"2.25",
+    "last_price":"3.02",
     "payout_ratio":null
   },
   {
@@ -7699,10 +12592,9 @@
     "market":"SET",
     "industry":"Consumer Products",
     "sector":"Fashion",
-    "dividend_yield_pct":"1.94",
-    "dividend_rate":"0.5",
+    "dividend_yield_pct":"194.0",
     "last_price":"25.75",
-    "payout_ratio":"97.09"
+    "payout_ratio":"0.9709"
   },
   {
     "symbol":"TTT",
@@ -7735,10 +12627,9 @@
     "market":"SET",
     "industry":"Consumer Products",
     "sector":"Fashion",
-    "dividend_yield_pct":"7.91",
-    "dividend_rate":"0.0",
+    "dividend_yield_pct":"791.0",
     "last_price":"42.75",
-    "payout_ratio":"254.24"
+    "payout_ratio":"2.5424"
   },
   {
     "symbol":"TTW",
@@ -7776,10 +12667,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"5.71",
-    "dividend_rate":"0.6",
+    "dividend_yield_pct":"571.0",
     "last_price":"10.4",
-    "payout_ratio":"73.17"
+    "payout_ratio":"0.7317"
   },
   {
     "symbol":"TU",
@@ -7817,10 +12707,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"5.74",
-    "dividend_rate":"0.7",
+    "dividend_yield_pct":"574.0",
     "last_price":"12.1",
-    "payout_ratio":"57.85"
+    "payout_ratio":"0.5785"
   },
   {
     "symbol":"TVO",
@@ -7858,10 +12747,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"8.59",
-    "dividend_rate":"1.97",
+    "dividend_yield_pct":"859.0",
     "last_price":"27.25",
-    "payout_ratio":"74.06"
+    "payout_ratio":"0.7406"
   },
   {
     "symbol":"TWPC",
@@ -7898,8 +12786,7 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Food & Beverage",
-    "dividend_yield_pct":"0.04",
-    "dividend_rate":"0.114",
+    "dividend_yield_pct":"4.01",
     "last_price":"2.84",
     "payout_ratio":null
   },
@@ -7938,8 +12825,7 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Petrochemicals & Chemicals",
-    "dividend_yield_pct":"7.75",
-    "dividend_rate":"0.2",
+    "dividend_yield_pct":"775.0",
     "last_price":"2.56",
     "payout_ratio":null
   },
@@ -7971,10 +12857,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"2.55",
-    "dividend_rate":"0.015",
-    "last_price":"0.6",
-    "payout_ratio":"262.22"
+    "dividend_yield_pct":"255.0",
+    "last_price":"0.61",
+    "payout_ratio":"2.6222"
   },
   {
     "symbol":"UEC",
@@ -8011,10 +12896,9 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"7.89",
-    "dividend_rate":"0.06",
-    "last_price":"0.77",
-    "payout_ratio":"266.67"
+    "dividend_yield_pct":"789.0",
+    "last_price":"0.75",
+    "payout_ratio":"2.6667"
   },
   {
     "symbol":"UKEM",
@@ -8051,10 +12935,9 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":"1.32",
-    "dividend_rate":"0.015",
-    "last_price":"1.15",
-    "payout_ratio":"7.81"
+    "dividend_yield_pct":"132.0",
+    "last_price":"1.16",
+    "payout_ratio":"0.0781"
   },
   {
     "symbol":"UPOIC",
@@ -8092,10 +12975,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Agribusiness",
-    "dividend_yield_pct":"4.93",
-    "dividend_rate":"0.34",
+    "dividend_yield_pct":"493.0",
     "last_price":"6.85",
-    "payout_ratio":"41.83"
+    "payout_ratio":"0.4183"
   },
   {
     "symbol":"UTP",
@@ -8133,9 +13015,8 @@
     "market":"SET",
     "industry":"Industrials",
     "sector":"Paper & Printing Materials",
-    "dividend_yield_pct":null,
-    "dividend_rate":null,
-    "last_price":null,
+    "dividend_yield_pct":"7.32",
+    "last_price":"8.2",
     "payout_ratio":null
   },
   {
@@ -8174,10 +13055,9 @@
     "market":"SET",
     "industry":"Agro & Food Industry",
     "sector":"Agribusiness",
-    "dividend_yield_pct":null,
-    "dividend_rate":null,
-    "last_price":null,
-    "payout_ratio":null
+    "dividend_yield_pct":"801.0",
+    "last_price":"15.7",
+    "payout_ratio":"0.6378"
   },
   {
     "symbol":"VCOM",
@@ -8211,9 +13091,8 @@
     "market":"mai",
     "industry":"Technology",
     "sector":null,
-    "dividend_yield_pct":null,
-    "dividend_rate":null,
-    "last_price":null,
+    "dividend_yield_pct":"9.25",
+    "last_price":"4.0",
     "payout_ratio":null
   },
   {
@@ -8251,10 +13130,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Health Care Services",
-    "dividend_yield_pct":null,
-    "dividend_rate":null,
-    "last_price":null,
-    "payout_ratio":null
+    "dividend_yield_pct":"444.0",
+    "last_price":"1.35",
+    "payout_ratio":"0.346"
   },
   {
     "symbol":"VIH",
@@ -8292,10 +13170,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Health Care Services",
-    "dividend_yield_pct":null,
-    "dividend_rate":null,
-    "last_price":null,
-    "payout_ratio":null
+    "dividend_yield_pct":"468.0",
+    "last_price":"8.45",
+    "payout_ratio":"0.5592"
   },
   {
     "symbol":"WACOAL",
@@ -8332,10 +13209,9 @@
     "market":"SET",
     "industry":"Consumer Products",
     "sector":"Fashion",
-    "dividend_yield_pct":null,
-    "dividend_rate":null,
-    "last_price":null,
-    "payout_ratio":null
+    "dividend_yield_pct":"350.0",
+    "last_price":"15.7",
+    "payout_ratio":"3.5"
   },
   {
     "symbol":"WHA",
@@ -8370,10 +13246,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Development",
-    "dividend_yield_pct":null,
-    "dividend_rate":null,
-    "last_price":null,
-    "payout_ratio":null
+    "dividend_yield_pct":"430.0",
+    "last_price":"4.8",
+    "payout_ratio":"0.6237"
   },
   {
     "symbol":"WHABT",
@@ -8409,10 +13284,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Fund & REITs",
-    "dividend_yield_pct":null,
-    "dividend_rate":null,
-    "last_price":null,
-    "payout_ratio":null
+    "dividend_yield_pct":"930.0",
+    "last_price":"6.45",
+    "payout_ratio":"1.4325"
   },
   {
     "symbol":"WHAIR",
@@ -8446,9 +13320,8 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Fund & REITs",
-    "dividend_yield_pct":null,
-    "dividend_rate":null,
-    "last_price":null,
+    "dividend_yield_pct":"7.08",
+    "last_price":"8.25",
     "payout_ratio":null
   },
   {
@@ -8486,10 +13359,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Fund & REITs",
-    "dividend_yield_pct":null,
-    "dividend_rate":null,
-    "last_price":null,
-    "payout_ratio":null
+    "dividend_yield_pct":"672.0",
+    "last_price":"11.2",
+    "payout_ratio":"1.1375"
   },
   {
     "symbol":"WHAUP",
@@ -8523,10 +13395,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":null,
-    "dividend_rate":null,
-    "last_price":null,
-    "payout_ratio":null
+    "dividend_yield_pct":"326.0",
+    "last_price":"7.6",
+    "payout_ratio":"0.8707"
   },
   {
     "symbol":"WICE",
@@ -8562,9 +13433,8 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Transportation & Logistics",
-    "dividend_yield_pct":null,
-    "dividend_rate":null,
-    "last_price":null,
+    "dividend_yield_pct":"3.91",
+    "last_price":"3.58",
     "payout_ratio":null
   },
   {
@@ -8601,10 +13471,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Construction Materials",
-    "dividend_yield_pct":null,
-    "dividend_rate":null,
-    "last_price":null,
-    "payout_ratio":null
+    "dividend_yield_pct":"478.0",
+    "last_price":"1.11",
+    "payout_ratio":"0.9296"
   },
   {
     "symbol":"WINMED",
@@ -8634,10 +13503,9 @@
     "market":"mai",
     "industry":"Consumer Products",
     "sector":null,
-    "dividend_yield_pct":null,
-    "dividend_rate":null,
-    "last_price":null,
-    "payout_ratio":null
+    "dividend_yield_pct":"144.0",
+    "last_price":"0.9",
+    "payout_ratio":"0.4032"
   },
   {
     "symbol":"WINNER",
@@ -8675,9 +13543,8 @@
     "market":"mai",
     "industry":"Agro & Food Industry",
     "sector":null,
-    "dividend_yield_pct":null,
-    "dividend_rate":null,
-    "last_price":null,
+    "dividend_yield_pct":"8.18",
+    "last_price":"2.2",
     "payout_ratio":null
   },
   {
@@ -8710,10 +13577,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":null,
-    "dividend_rate":null,
-    "last_price":null,
-    "payout_ratio":null
+    "dividend_yield_pct":"811.0",
+    "last_price":"3.72",
+    "payout_ratio":"0.9677"
   },
   {
     "symbol":"WPH",
@@ -8747,9 +13613,8 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Health Care Services",
-    "dividend_yield_pct":null,
-    "dividend_rate":null,
-    "last_price":null,
+    "dividend_yield_pct":"1.43",
+    "last_price":"5.65",
     "payout_ratio":null
   },
   {
@@ -8786,9 +13651,8 @@
     "market":"mai",
     "industry":"Agro & Food Industry",
     "sector":null,
-    "dividend_yield_pct":null,
-    "dividend_rate":null,
-    "last_price":null,
+    "dividend_yield_pct":"3.6",
+    "last_price":"19.1",
     "payout_ratio":null
   },
   {
@@ -8825,9 +13689,8 @@
     "market":"mai",
     "industry":"Industrial",
     "sector":null,
-    "dividend_yield_pct":null,
-    "dividend_rate":null,
-    "last_price":null,
-    "payout_ratio":null
+    "dividend_yield_pct":"631.0",
+    "last_price":"14.6",
+    "payout_ratio":"0.2635"
   }
 ]
