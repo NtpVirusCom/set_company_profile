@@ -58,11 +58,11 @@ def analyze_dividend_history(ticker_obj, symbol: str):
                     )
 
         # --- 3. จำนวนครั้งจ่ายต่อปี (ล่าสุด) ---
-        latest_year = annual.index[-1]
-        freq = len(df_div[df_div["year"] == latest_year])
+        #latest_year = annual.index[-1]
+        #freq = len(df_div[df_div["year"] == latest_year])
         # ถ้าปีปัจจุบันยังไม่จบ อาจน้อยกว่าปกติ ให้ดูปีก่อนแทน
-        if freq == 0 and len(annual) >= 2:
-            freq = len(df_div[df_div["year"] == annual.index[-2]])
+        #if freq == 0 and len(annual) >= 2:
+        #    freq = len(df_div[df_div["year"] == annual.index[-2]])
 
         # --- 4. ปีที่จ่ายต่อเนื่องล่าสุด (Consecutive Years) ---
         years = sorted(annual.index.tolist())
@@ -77,7 +77,7 @@ def analyze_dividend_history(ticker_obj, symbol: str):
         total_10y = annual.tail(10).sum() if len(annual) >= 10 else annual.sum()
 
         return {
-            "dividend_frequency_per_year": freq,
+            #"dividend_frequency_per_year": freq,
             "consecutive_dividend_years": consecutive,
             "annual_dividend_latest": round(annual.iloc[-1], 4),
             "annual_dividend_10y_total": round(total_10y, 4),
