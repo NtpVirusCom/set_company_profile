@@ -28,12 +28,12 @@ jobs:
       - name: 🏛️ Fetch SET company list
         run: python scripts/fetch.py
       
-      #- name: 💰 Fetch latest dividend data
-        #run: python scripts/fetch_dividends.py
-
-      - name: 💰 Fetch dividend data with Payment Date
+      - name: 💰 Fetch latest dividend data
         run: python scripts/fetch_dividends.py
-        timeout-minutes: 45  # เพิ่ม timeout จาก default 6 นาที
+
+      #- name: 💰 Fetch dividend data with Payment Date
+      #  run: python scripts/fetch_dividends.py
+      #  timeout-minutes: 45  # เพิ่ม timeout จาก default 6 นาที
       
       # ✅ เพิ่มขั้นตอนนี้
       - name: 📅 Check 5-year dividend consistency
