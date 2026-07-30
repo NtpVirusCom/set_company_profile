@@ -150,10 +150,12 @@ def fetch_single_symbol(symbol: str):
 
         result = {
             "symbol": symbol,
-            "dividend_yield_pct": round(div_yield * 100, 2),
+            #"dividend_yield_pct": round(div_yield * 100, 2),
+            "dividend_yield_pct": round(div_yield, 2),
             "dividend_rate_baht": div_rate,
             "last_price": price,
-            "payout_ratio": round(payout, 4) if payout else None,
+            #"payout_ratio": round(payout, 4) if payout else None,
+            "payout_ratio": round(payout * 100, 2) if payout else None,
             "safety_score": safety_score,
             "ex_dividend_date": ex_div_date,
             "last_dividend_date": last_div_date,
