@@ -16,8 +16,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-12",
-    "oldest_dividend_date":"2015-03-11",
+    "ex_dividend_date":"2026-03-12",
+    "oldest_ex_dividend_date":"2015-03-11",
     "raw_dividend_count":20,
     "required_years":[
       2022,
@@ -50,8 +50,8 @@
       2026
     ],
     "total_years_found":7,
-    "latest_dividend_date":"2026-04-29",
-    "oldest_dividend_date":"2020-04-20",
+    "ex_dividend_date":"2026-04-29",
+    "oldest_ex_dividend_date":"2020-04-20",
     "raw_dividend_count":7,
     "required_years":[
       2022,
@@ -83,8 +83,8 @@
       2026
     ],
     "total_years_found":6,
-    "latest_dividend_date":"2026-05-26",
-    "oldest_dividend_date":"2021-08-24",
+    "ex_dividend_date":"2026-05-26",
+    "oldest_ex_dividend_date":"2021-08-24",
     "raw_dividend_count":18,
     "required_years":[
       2022,
@@ -123,8 +123,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-02-27",
-    "oldest_dividend_date":"2014-08-13",
+    "ex_dividend_date":"2026-02-27",
+    "oldest_ex_dividend_date":"2014-08-13",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -163,8 +163,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-04-27",
-    "oldest_dividend_date":"2014-10-10",
+    "ex_dividend_date":"2026-04-27",
+    "oldest_ex_dividend_date":"2014-10-10",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -202,8 +202,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-12",
-    "oldest_dividend_date":"2014-08-26",
+    "ex_dividend_date":"2026-03-12",
+    "oldest_ex_dividend_date":"2014-08-26",
     "raw_dividend_count":22,
     "required_years":[
       2022,
@@ -241,8 +241,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-04-30",
-    "oldest_dividend_date":"2015-04-30",
+    "ex_dividend_date":"2026-04-30",
+    "oldest_ex_dividend_date":"2015-04-30",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -281,8 +281,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-04",
-    "oldest_dividend_date":"2014-09-01",
+    "ex_dividend_date":"2026-03-04",
+    "oldest_ex_dividend_date":"2014-09-01",
     "raw_dividend_count":20,
     "required_years":[
       2022,
@@ -316,8 +316,8 @@
       2026
     ],
     "total_years_found":8,
-    "latest_dividend_date":"2026-05-22",
-    "oldest_dividend_date":"2019-11-25",
+    "ex_dividend_date":"2026-05-22",
+    "oldest_ex_dividend_date":"2019-11-25",
     "raw_dividend_count":23,
     "required_years":[
       2022,
@@ -352,8 +352,8 @@
       2026
     ],
     "total_years_found":9,
-    "latest_dividend_date":"2026-05-22",
-    "oldest_dividend_date":"2018-05-28",
+    "ex_dividend_date":"2026-05-22",
+    "oldest_ex_dividend_date":"2018-05-28",
     "raw_dividend_count":33,
     "required_years":[
       2022,
@@ -392,8 +392,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-04-22",
-    "oldest_dividend_date":"2014-08-19",
+    "ex_dividend_date":"2026-04-22",
+    "oldest_ex_dividend_date":"2014-08-19",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -428,8 +428,8 @@
       2026
     ],
     "total_years_found":9,
-    "latest_dividend_date":"2026-05-08",
-    "oldest_dividend_date":"2015-05-06",
+    "ex_dividend_date":"2026-05-08",
+    "oldest_ex_dividend_date":"2015-05-06",
     "raw_dividend_count":11,
     "required_years":[
       2022,
@@ -465,8 +465,8 @@
       2026
     ],
     "total_years_found":10,
-    "latest_dividend_date":"2026-05-08",
-    "oldest_dividend_date":"2017-05-02",
+    "ex_dividend_date":"2026-05-08",
+    "oldest_ex_dividend_date":"2017-05-02",
     "raw_dividend_count":10,
     "required_years":[
       2022,
@@ -499,8 +499,8 @@
       2026
     ],
     "total_years_found":7,
-    "latest_dividend_date":"2026-05-25",
-    "oldest_dividend_date":"2020-03-10",
+    "ex_dividend_date":"2026-05-25",
+    "oldest_ex_dividend_date":"2020-03-10",
     "raw_dividend_count":23,
     "required_years":[
       2022,
@@ -538,8 +538,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-05-06",
-    "oldest_dividend_date":"2015-04-30",
+    "ex_dividend_date":"2026-05-06",
+    "oldest_ex_dividend_date":"2015-04-30",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -575,8 +575,8 @@
       2026
     ],
     "total_years_found":10,
-    "latest_dividend_date":"2026-03-09",
-    "oldest_dividend_date":"2017-03-15",
+    "ex_dividend_date":"2026-03-09",
+    "oldest_ex_dividend_date":"2017-03-15",
     "raw_dividend_count":13,
     "required_years":[
       2022,
@@ -615,8 +615,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-05-05",
-    "oldest_dividend_date":"2014-11-25",
+    "ex_dividend_date":"2026-05-05",
+    "oldest_ex_dividend_date":"2014-11-25",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -654,8 +654,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-05-26",
-    "oldest_dividend_date":"2015-11-23",
+    "ex_dividend_date":"2026-05-26",
+    "oldest_ex_dividend_date":"2015-11-23",
     "raw_dividend_count":43,
     "required_years":[
       2022,
@@ -694,8 +694,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-05-06",
-    "oldest_dividend_date":"2014-10-20",
+    "ex_dividend_date":"2026-05-06",
+    "oldest_ex_dividend_date":"2014-10-20",
     "raw_dividend_count":13,
     "required_years":[
       2022,
@@ -733,8 +733,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-04-28",
-    "oldest_dividend_date":"2015-04-02",
+    "ex_dividend_date":"2026-04-28",
+    "oldest_ex_dividend_date":"2015-04-02",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -767,8 +767,8 @@
       2026
     ],
     "total_years_found":7,
-    "latest_dividend_date":"2026-05-07",
-    "oldest_dividend_date":"2020-04-16",
+    "ex_dividend_date":"2026-05-07",
+    "oldest_ex_dividend_date":"2020-04-16",
     "raw_dividend_count":7,
     "required_years":[
       2022,
@@ -807,8 +807,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-05-06",
-    "oldest_dividend_date":"2014-08-18",
+    "ex_dividend_date":"2026-05-06",
+    "oldest_ex_dividend_date":"2014-08-18",
     "raw_dividend_count":25,
     "required_years":[
       2022,
@@ -845,8 +845,8 @@
       2026
     ],
     "total_years_found":11,
-    "latest_dividend_date":"2026-05-07",
-    "oldest_dividend_date":"2016-05-03",
+    "ex_dividend_date":"2026-05-07",
+    "oldest_ex_dividend_date":"2016-05-03",
     "raw_dividend_count":11,
     "required_years":[
       2022,
@@ -883,8 +883,8 @@
       2026
     ],
     "total_years_found":11,
-    "latest_dividend_date":"2026-03-05",
-    "oldest_dividend_date":"2016-05-03",
+    "ex_dividend_date":"2026-03-05",
+    "oldest_ex_dividend_date":"2016-05-03",
     "raw_dividend_count":17,
     "required_years":[
       2022,
@@ -922,8 +922,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-13",
-    "oldest_dividend_date":"2015-03-13",
+    "ex_dividend_date":"2026-03-13",
+    "oldest_ex_dividend_date":"2015-03-13",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -961,8 +961,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-02-27",
-    "oldest_dividend_date":"2015-03-09",
+    "ex_dividend_date":"2026-02-27",
+    "oldest_ex_dividend_date":"2015-03-09",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -979,9 +979,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Finance & Securities",
-    "dividend_yield_pct":"0.03",
+    "dividend_yield_pct":"3.33",
     "last_price":"12.4",
-    "payout_ratio":null
+    "payout_ratio":"47.58"
   },
   {
     "symbol":"ASP",
@@ -1001,8 +1001,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-11",
-    "oldest_dividend_date":"2014-08-26",
+    "ex_dividend_date":"2026-03-11",
+    "oldest_ex_dividend_date":"2014-08-26",
     "raw_dividend_count":23,
     "required_years":[
       2022,
@@ -1039,8 +1039,8 @@
       2026
     ],
     "total_years_found":11,
-    "latest_dividend_date":"2026-04-07",
-    "oldest_dividend_date":"2016-04-12",
+    "ex_dividend_date":"2026-04-07",
+    "oldest_ex_dividend_date":"2016-04-12",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -1079,8 +1079,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-04-10",
-    "oldest_dividend_date":"2014-08-20",
+    "ex_dividend_date":"2026-04-10",
+    "oldest_ex_dividend_date":"2014-08-20",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -1112,8 +1112,8 @@
       2026
     ],
     "total_years_found":6,
-    "latest_dividend_date":"2026-05-07",
-    "oldest_dividend_date":"2020-04-15",
+    "ex_dividend_date":"2026-05-07",
+    "oldest_ex_dividend_date":"2020-04-15",
     "raw_dividend_count":6,
     "required_years":[
       2022,
@@ -1152,8 +1152,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-05-07",
-    "oldest_dividend_date":"2014-08-19",
+    "ex_dividend_date":"2026-05-07",
+    "oldest_ex_dividend_date":"2014-08-19",
     "raw_dividend_count":22,
     "required_years":[
       2022,
@@ -1186,8 +1186,8 @@
       2026
     ],
     "total_years_found":7,
-    "latest_dividend_date":"2026-05-05",
-    "oldest_dividend_date":"2020-04-08",
+    "ex_dividend_date":"2026-05-05",
+    "oldest_ex_dividend_date":"2020-04-08",
     "raw_dividend_count":7,
     "required_years":[
       2022,
@@ -1226,8 +1226,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-05-05",
-    "oldest_dividend_date":"2014-09-08",
+    "ex_dividend_date":"2026-05-05",
+    "oldest_ex_dividend_date":"2014-09-08",
     "raw_dividend_count":22,
     "required_years":[
       2022,
@@ -1258,8 +1258,8 @@
       2026
     ],
     "total_years_found":5,
-    "latest_dividend_date":"2026-03-04",
-    "oldest_dividend_date":"2022-05-24",
+    "ex_dividend_date":"2026-03-04",
+    "oldest_ex_dividend_date":"2022-05-24",
     "raw_dividend_count":6,
     "required_years":[
       2022,
@@ -1290,8 +1290,8 @@
       2026
     ],
     "total_years_found":5,
-    "latest_dividend_date":"2026-04-29",
-    "oldest_dividend_date":"2022-05-06",
+    "ex_dividend_date":"2026-04-29",
+    "oldest_ex_dividend_date":"2022-05-06",
     "raw_dividend_count":5,
     "required_years":[
       2022,
@@ -1330,8 +1330,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-04-22",
-    "oldest_dividend_date":"2014-09-09",
+    "ex_dividend_date":"2026-04-22",
+    "oldest_ex_dividend_date":"2014-09-09",
     "raw_dividend_count":23,
     "required_years":[
       2022,
@@ -1370,8 +1370,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-04-29",
-    "oldest_dividend_date":"2014-08-26",
+    "ex_dividend_date":"2026-04-29",
+    "oldest_ex_dividend_date":"2014-08-26",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -1410,8 +1410,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-02",
-    "oldest_dividend_date":"2014-09-04",
+    "ex_dividend_date":"2026-03-02",
+    "oldest_ex_dividend_date":"2014-09-04",
     "raw_dividend_count":22,
     "required_years":[
       2022,
@@ -1448,8 +1448,8 @@
       2026
     ],
     "total_years_found":11,
-    "latest_dividend_date":"2026-03-04",
-    "oldest_dividend_date":"2016-10-28",
+    "ex_dividend_date":"2026-03-04",
+    "oldest_ex_dividend_date":"2016-10-28",
     "raw_dividend_count":27,
     "required_years":[
       2022,
@@ -1487,8 +1487,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-06-05",
-    "oldest_dividend_date":"2015-07-07",
+    "ex_dividend_date":"2026-06-05",
+    "oldest_ex_dividend_date":"2015-07-07",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -1526,8 +1526,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-10",
-    "oldest_dividend_date":"2015-03-24",
+    "ex_dividend_date":"2026-03-10",
+    "oldest_ex_dividend_date":"2015-03-24",
     "raw_dividend_count":21,
     "required_years":[
       2022,
@@ -1558,8 +1558,8 @@
       2026
     ],
     "total_years_found":5,
-    "latest_dividend_date":"2026-05-05",
-    "oldest_dividend_date":"2022-03-25",
+    "ex_dividend_date":"2026-05-05",
+    "oldest_ex_dividend_date":"2022-03-25",
     "raw_dividend_count":5,
     "required_years":[
       2022,
@@ -1594,8 +1594,8 @@
       2026
     ],
     "total_years_found":9,
-    "latest_dividend_date":"2026-05-05",
-    "oldest_dividend_date":"2014-08-19",
+    "ex_dividend_date":"2026-05-05",
+    "oldest_ex_dividend_date":"2014-08-19",
     "raw_dividend_count":14,
     "required_years":[
       2022,
@@ -1632,8 +1632,8 @@
       2026
     ],
     "total_years_found":11,
-    "latest_dividend_date":"2026-03-10",
-    "oldest_dividend_date":"2016-04-11",
+    "ex_dividend_date":"2026-03-10",
+    "oldest_ex_dividend_date":"2016-04-11",
     "raw_dividend_count":15,
     "required_years":[
       2022,
@@ -1668,8 +1668,8 @@
       2026
     ],
     "total_years_found":9,
-    "latest_dividend_date":"2026-05-28",
-    "oldest_dividend_date":"2018-11-28",
+    "ex_dividend_date":"2026-05-28",
+    "oldest_ex_dividend_date":"2018-11-28",
     "raw_dividend_count":29,
     "required_years":[
       2022,
@@ -1704,8 +1704,8 @@
       2026
     ],
     "total_years_found":9,
-    "latest_dividend_date":"2026-03-10",
-    "oldest_dividend_date":"2018-03-20",
+    "ex_dividend_date":"2026-03-10",
+    "oldest_ex_dividend_date":"2018-03-20",
     "raw_dividend_count":17,
     "required_years":[
       2022,
@@ -1744,8 +1744,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-17",
-    "oldest_dividend_date":"2014-08-26",
+    "ex_dividend_date":"2026-03-17",
+    "oldest_ex_dividend_date":"2014-08-26",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -1776,8 +1776,8 @@
       2026
     ],
     "total_years_found":5,
-    "latest_dividend_date":"2026-04-29",
-    "oldest_dividend_date":"2022-08-24",
+    "ex_dividend_date":"2026-04-29",
+    "oldest_ex_dividend_date":"2022-08-24",
     "raw_dividend_count":8,
     "required_years":[
       2022,
@@ -1813,8 +1813,8 @@
       2026
     ],
     "total_years_found":10,
-    "latest_dividend_date":"2026-03-09",
-    "oldest_dividend_date":"2017-04-24",
+    "ex_dividend_date":"2026-03-09",
+    "oldest_ex_dividend_date":"2017-04-24",
     "raw_dividend_count":11,
     "required_years":[
       2022,
@@ -1853,8 +1853,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-04-29",
-    "oldest_dividend_date":"2014-08-29",
+    "ex_dividend_date":"2026-04-29",
+    "oldest_ex_dividend_date":"2014-08-29",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -1890,8 +1890,8 @@
       2026
     ],
     "total_years_found":10,
-    "latest_dividend_date":"2026-03-05",
-    "oldest_dividend_date":"2015-04-08",
+    "ex_dividend_date":"2026-03-05",
+    "oldest_ex_dividend_date":"2015-04-08",
     "raw_dividend_count":11,
     "required_years":[
       2022,
@@ -1930,8 +1930,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-04-21",
-    "oldest_dividend_date":"2014-10-08",
+    "ex_dividend_date":"2026-04-21",
+    "oldest_ex_dividend_date":"2014-10-08",
     "raw_dividend_count":22,
     "required_years":[
       2022,
@@ -1968,8 +1968,8 @@
       2026
     ],
     "total_years_found":11,
-    "latest_dividend_date":"2026-03-10",
-    "oldest_dividend_date":"2016-11-23",
+    "ex_dividend_date":"2026-03-10",
+    "oldest_ex_dividend_date":"2016-11-23",
     "raw_dividend_count":13,
     "required_years":[
       2022,
@@ -2007,8 +2007,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-02-23",
-    "oldest_dividend_date":"2015-03-06",
+    "ex_dividend_date":"2026-02-23",
+    "oldest_ex_dividend_date":"2015-03-06",
     "raw_dividend_count":19,
     "required_years":[
       2022,
@@ -2044,8 +2044,8 @@
       2026
     ],
     "total_years_found":10,
-    "latest_dividend_date":"2026-04-16",
-    "oldest_dividend_date":"2017-04-07",
+    "ex_dividend_date":"2026-04-16",
+    "oldest_ex_dividend_date":"2017-04-07",
     "raw_dividend_count":19,
     "required_years":[
       2022,
@@ -2082,8 +2082,8 @@
       2026
     ],
     "total_years_found":11,
-    "latest_dividend_date":"2026-05-06",
-    "oldest_dividend_date":"2015-05-07",
+    "ex_dividend_date":"2026-05-06",
+    "oldest_ex_dividend_date":"2015-05-07",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -2119,8 +2119,8 @@
       2026
     ],
     "total_years_found":10,
-    "latest_dividend_date":"2026-03-13",
-    "oldest_dividend_date":"2015-03-24",
+    "ex_dividend_date":"2026-03-13",
+    "oldest_ex_dividend_date":"2015-03-24",
     "raw_dividend_count":10,
     "required_years":[
       2022,
@@ -2158,8 +2158,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-05",
-    "oldest_dividend_date":"2015-05-07",
+    "ex_dividend_date":"2026-03-05",
+    "oldest_ex_dividend_date":"2015-05-07",
     "raw_dividend_count":23,
     "required_years":[
       2022,
@@ -2198,8 +2198,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-19",
-    "oldest_dividend_date":"2014-08-28",
+    "ex_dividend_date":"2026-03-19",
+    "oldest_ex_dividend_date":"2014-08-28",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -2230,8 +2230,8 @@
       2026
     ],
     "total_years_found":5,
-    "latest_dividend_date":"2026-03-13",
-    "oldest_dividend_date":"2022-08-29",
+    "ex_dividend_date":"2026-03-13",
+    "oldest_ex_dividend_date":"2022-08-29",
     "raw_dividend_count":5,
     "required_years":[
       2022,
@@ -2270,8 +2270,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-05-06",
-    "oldest_dividend_date":"2014-08-25",
+    "ex_dividend_date":"2026-05-06",
+    "oldest_ex_dividend_date":"2014-08-25",
     "raw_dividend_count":28,
     "required_years":[
       2022,
@@ -2288,9 +2288,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Health Care Services",
-    "dividend_yield_pct":"0.05",
+    "dividend_yield_pct":"4.58",
     "last_price":"1.55",
-    "payout_ratio":null
+    "payout_ratio":"80.92"
   },
   {
     "symbol":"CK",
@@ -2310,8 +2310,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-11",
-    "oldest_dividend_date":"2014-09-04",
+    "ex_dividend_date":"2026-03-11",
+    "oldest_ex_dividend_date":"2014-09-04",
     "raw_dividend_count":22,
     "required_years":[
       2022,
@@ -2349,8 +2349,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-05-07",
-    "oldest_dividend_date":"2015-03-11",
+    "ex_dividend_date":"2026-05-07",
+    "oldest_ex_dividend_date":"2015-03-11",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -2386,8 +2386,8 @@
       2026
     ],
     "total_years_found":10,
-    "latest_dividend_date":"2026-05-06",
-    "oldest_dividend_date":"2017-04-28",
+    "ex_dividend_date":"2026-05-06",
+    "oldest_ex_dividend_date":"2017-04-28",
     "raw_dividend_count":10,
     "required_years":[
       2022,
@@ -2424,8 +2424,8 @@
       2026
     ],
     "total_years_found":11,
-    "latest_dividend_date":"2026-03-10",
-    "oldest_dividend_date":"2016-05-09",
+    "ex_dividend_date":"2026-03-10",
+    "oldest_ex_dividend_date":"2016-05-09",
     "raw_dividend_count":11,
     "required_years":[
       2022,
@@ -2463,8 +2463,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-04-30",
-    "oldest_dividend_date":"2015-04-29",
+    "ex_dividend_date":"2026-04-30",
+    "oldest_ex_dividend_date":"2015-04-29",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -2503,8 +2503,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-05-05",
-    "oldest_dividend_date":"2014-08-26",
+    "ex_dividend_date":"2026-05-05",
+    "oldest_ex_dividend_date":"2014-08-26",
     "raw_dividend_count":22,
     "required_years":[
       2022,
@@ -2541,8 +2541,8 @@
       2026
     ],
     "total_years_found":11,
-    "latest_dividend_date":"2026-03-13",
-    "oldest_dividend_date":"2015-03-17",
+    "ex_dividend_date":"2026-03-13",
+    "oldest_ex_dividend_date":"2015-03-17",
     "raw_dividend_count":11,
     "required_years":[
       2022,
@@ -2580,8 +2580,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-09",
-    "oldest_dividend_date":"2015-04-30",
+    "ex_dividend_date":"2026-03-09",
+    "oldest_ex_dividend_date":"2015-04-30",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -2619,8 +2619,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-11",
-    "oldest_dividend_date":"2015-04-29",
+    "ex_dividend_date":"2026-03-11",
+    "oldest_ex_dividend_date":"2015-04-29",
     "raw_dividend_count":14,
     "required_years":[
       2022,
@@ -2653,8 +2653,8 @@
       2026
     ],
     "total_years_found":7,
-    "latest_dividend_date":"2026-03-09",
-    "oldest_dividend_date":"2020-01-06",
+    "ex_dividend_date":"2026-03-09",
+    "oldest_ex_dividend_date":"2020-01-06",
     "raw_dividend_count":10,
     "required_years":[
       2022,
@@ -2686,8 +2686,8 @@
       2026
     ],
     "total_years_found":6,
-    "latest_dividend_date":"2026-04-21",
-    "oldest_dividend_date":"2021-04-29",
+    "ex_dividend_date":"2026-04-21",
+    "oldest_ex_dividend_date":"2021-04-29",
     "raw_dividend_count":7,
     "required_years":[
       2022,
@@ -2725,8 +2725,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-13",
-    "oldest_dividend_date":"2015-03-09",
+    "ex_dividend_date":"2026-03-13",
+    "oldest_ex_dividend_date":"2015-03-09",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -2764,8 +2764,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-05-08",
-    "oldest_dividend_date":"2015-05-11",
+    "ex_dividend_date":"2026-05-08",
+    "oldest_ex_dividend_date":"2015-05-11",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -2804,8 +2804,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-04-30",
-    "oldest_dividend_date":"2014-08-21",
+    "ex_dividend_date":"2026-04-30",
+    "oldest_ex_dividend_date":"2014-08-21",
     "raw_dividend_count":22,
     "required_years":[
       2022,
@@ -2836,8 +2836,8 @@
       2026
     ],
     "total_years_found":5,
-    "latest_dividend_date":"2026-06-08",
-    "oldest_dividend_date":"2022-12-06",
+    "ex_dividend_date":"2026-06-08",
+    "oldest_ex_dividend_date":"2022-12-06",
     "raw_dividend_count":15,
     "required_years":[
       2022,
@@ -2876,8 +2876,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-05-18",
-    "oldest_dividend_date":"2014-08-05",
+    "ex_dividend_date":"2026-05-18",
+    "oldest_ex_dividend_date":"2014-08-05",
     "raw_dividend_count":46,
     "required_years":[
       2022,
@@ -2915,8 +2915,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-11",
-    "oldest_dividend_date":"2015-03-24",
+    "ex_dividend_date":"2026-03-11",
+    "oldest_ex_dividend_date":"2015-03-24",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -2951,8 +2951,8 @@
       2026
     ],
     "total_years_found":9,
-    "latest_dividend_date":"2026-04-30",
-    "oldest_dividend_date":"2018-03-09",
+    "ex_dividend_date":"2026-04-30",
+    "oldest_ex_dividend_date":"2018-03-09",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -2990,8 +2990,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-02-26",
-    "oldest_dividend_date":"2015-02-23",
+    "ex_dividend_date":"2026-02-26",
+    "oldest_ex_dividend_date":"2015-02-23",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -3022,8 +3022,8 @@
       2026
     ],
     "total_years_found":5,
-    "latest_dividend_date":"2026-05-06",
-    "oldest_dividend_date":"2022-03-15",
+    "ex_dividend_date":"2026-05-06",
+    "oldest_ex_dividend_date":"2022-03-15",
     "raw_dividend_count":6,
     "required_years":[
       2022,
@@ -3055,8 +3055,8 @@
       2026
     ],
     "total_years_found":6,
-    "latest_dividend_date":"2026-05-22",
-    "oldest_dividend_date":"2021-08-24",
+    "ex_dividend_date":"2026-05-22",
+    "oldest_ex_dividend_date":"2021-08-24",
     "raw_dividend_count":19,
     "required_years":[
       2022,
@@ -3089,8 +3089,8 @@
       2026
     ],
     "total_years_found":7,
-    "latest_dividend_date":"2026-03-05",
-    "oldest_dividend_date":"2020-03-11",
+    "ex_dividend_date":"2026-03-05",
+    "oldest_ex_dividend_date":"2020-03-11",
     "raw_dividend_count":7,
     "required_years":[
       2022,
@@ -3125,8 +3125,8 @@
       2026
     ],
     "total_years_found":9,
-    "latest_dividend_date":"2026-03-10",
-    "oldest_dividend_date":"2018-08-14",
+    "ex_dividend_date":"2026-03-10",
+    "oldest_ex_dividend_date":"2018-08-14",
     "raw_dividend_count":16,
     "required_years":[
       2022,
@@ -3165,8 +3165,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-02",
-    "oldest_dividend_date":"2014-09-18",
+    "ex_dividend_date":"2026-03-02",
+    "oldest_ex_dividend_date":"2014-09-18",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -3183,9 +3183,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Construction Materials",
-    "dividend_yield_pct":"0.06",
+    "dividend_yield_pct":"6.04",
     "last_price":"5.25",
-    "payout_ratio":null
+    "payout_ratio":"71.11"
   },
   {
     "symbol":"EASON",
@@ -3202,8 +3202,8 @@
       2026
     ],
     "total_years_found":10,
-    "latest_dividend_date":"2026-04-29",
-    "oldest_dividend_date":"2015-03-09",
+    "ex_dividend_date":"2026-04-29",
+    "oldest_ex_dividend_date":"2015-03-09",
     "raw_dividend_count":10,
     "required_years":[
       2022,
@@ -3242,8 +3242,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-05-05",
-    "oldest_dividend_date":"2014-09-08",
+    "ex_dividend_date":"2026-05-05",
+    "oldest_ex_dividend_date":"2014-09-08",
     "raw_dividend_count":23,
     "required_years":[
       2022,
@@ -3282,8 +3282,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-13",
-    "oldest_dividend_date":"2014-09-04",
+    "ex_dividend_date":"2026-03-13",
+    "oldest_ex_dividend_date":"2014-09-04",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -3319,8 +3319,8 @@
       2026
     ],
     "total_years_found":10,
-    "latest_dividend_date":"2026-05-05",
-    "oldest_dividend_date":"2017-04-25",
+    "ex_dividend_date":"2026-05-05",
+    "oldest_ex_dividend_date":"2017-04-25",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -3358,8 +3358,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-05-08",
-    "oldest_dividend_date":"2015-05-08",
+    "ex_dividend_date":"2026-05-08",
+    "oldest_ex_dividend_date":"2015-05-08",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -3398,8 +3398,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-05-05",
-    "oldest_dividend_date":"2014-08-21",
+    "ex_dividend_date":"2026-05-05",
+    "oldest_ex_dividend_date":"2014-08-21",
     "raw_dividend_count":23,
     "required_years":[
       2022,
@@ -3437,8 +3437,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-11",
-    "oldest_dividend_date":"2015-04-17",
+    "ex_dividend_date":"2026-03-11",
+    "oldest_ex_dividend_date":"2015-04-17",
     "raw_dividend_count":22,
     "required_years":[
       2022,
@@ -3474,8 +3474,8 @@
       2026
     ],
     "total_years_found":10,
-    "latest_dividend_date":"2026-05-05",
-    "oldest_dividend_date":"2017-11-20",
+    "ex_dividend_date":"2026-05-05",
+    "oldest_ex_dividend_date":"2017-11-20",
     "raw_dividend_count":17,
     "required_years":[
       2022,
@@ -3513,8 +3513,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-05-28",
-    "oldest_dividend_date":"2015-05-27",
+    "ex_dividend_date":"2026-05-28",
+    "oldest_ex_dividend_date":"2015-05-27",
     "raw_dividend_count":44,
     "required_years":[
       2022,
@@ -3548,8 +3548,8 @@
       2026
     ],
     "total_years_found":8,
-    "latest_dividend_date":"2026-03-09",
-    "oldest_dividend_date":"2016-03-28",
+    "ex_dividend_date":"2026-03-09",
+    "oldest_ex_dividend_date":"2016-03-28",
     "raw_dividend_count":8,
     "required_years":[
       2022,
@@ -3588,8 +3588,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-04-09",
-    "oldest_dividend_date":"2014-08-18",
+    "ex_dividend_date":"2026-04-09",
+    "oldest_ex_dividend_date":"2014-08-18",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -3627,8 +3627,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-04",
-    "oldest_dividend_date":"2015-03-06",
+    "ex_dividend_date":"2026-03-04",
+    "oldest_ex_dividend_date":"2015-03-06",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -3666,8 +3666,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-02-24",
-    "oldest_dividend_date":"2015-03-19",
+    "ex_dividend_date":"2026-02-24",
+    "oldest_ex_dividend_date":"2015-03-19",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -3684,9 +3684,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Commerce",
-    "dividend_yield_pct":null,
-    "last_price":null,
-    "payout_ratio":null
+    "dividend_yield_pct":"2.54",
+    "last_price":"7.4",
+    "payout_ratio":"50.68"
   },
   {
     "symbol":"GPI",
@@ -3702,8 +3702,8 @@
       2026
     ],
     "total_years_found":9,
-    "latest_dividend_date":"2026-04-09",
-    "oldest_dividend_date":"2018-05-24",
+    "ex_dividend_date":"2026-04-09",
+    "oldest_ex_dividend_date":"2018-05-24",
     "raw_dividend_count":16,
     "required_years":[
       2022,
@@ -3741,8 +3741,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-02-25",
-    "oldest_dividend_date":"2015-08-25",
+    "ex_dividend_date":"2026-02-25",
+    "oldest_ex_dividend_date":"2015-08-25",
     "raw_dividend_count":22,
     "required_years":[
       2022,
@@ -3780,8 +3780,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-05-22",
-    "oldest_dividend_date":"2015-04-21",
+    "ex_dividend_date":"2026-05-22",
+    "oldest_ex_dividend_date":"2015-04-21",
     "raw_dividend_count":16,
     "required_years":[
       2022,
@@ -3818,8 +3818,8 @@
       2026
     ],
     "total_years_found":11,
-    "latest_dividend_date":"2026-05-26",
-    "oldest_dividend_date":"2016-08-18",
+    "ex_dividend_date":"2026-05-26",
+    "oldest_ex_dividend_date":"2016-08-18",
     "raw_dividend_count":40,
     "required_years":[
       2022,
@@ -3858,8 +3858,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-16",
-    "oldest_dividend_date":"2014-11-25",
+    "ex_dividend_date":"2026-03-16",
+    "oldest_ex_dividend_date":"2014-11-25",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -3897,8 +3897,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-05-07",
-    "oldest_dividend_date":"2015-04-30",
+    "ex_dividend_date":"2026-05-07",
+    "oldest_ex_dividend_date":"2015-04-30",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -3929,8 +3929,8 @@
       2026
     ],
     "total_years_found":5,
-    "latest_dividend_date":"2026-03-02",
-    "oldest_dividend_date":"2022-03-04",
+    "ex_dividend_date":"2026-03-02",
+    "oldest_ex_dividend_date":"2022-03-04",
     "raw_dividend_count":5,
     "required_years":[
       2022,
@@ -3961,8 +3961,8 @@
       2026
     ],
     "total_years_found":5,
-    "latest_dividend_date":"2026-03-11",
-    "oldest_dividend_date":"2022-03-11",
+    "ex_dividend_date":"2026-03-11",
+    "oldest_ex_dividend_date":"2022-03-11",
     "raw_dividend_count":5,
     "required_years":[
       2022,
@@ -4001,8 +4001,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-04-22",
-    "oldest_dividend_date":"2014-10-21",
+    "ex_dividend_date":"2026-04-22",
+    "oldest_ex_dividend_date":"2014-10-21",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -4040,8 +4040,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-04-30",
-    "oldest_dividend_date":"2015-03-25",
+    "ex_dividend_date":"2026-04-30",
+    "oldest_ex_dividend_date":"2015-03-25",
     "raw_dividend_count":22,
     "required_years":[
       2022,
@@ -4080,8 +4080,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-19",
-    "oldest_dividend_date":"2014-08-26",
+    "ex_dividend_date":"2026-03-19",
+    "oldest_ex_dividend_date":"2014-08-26",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -4116,8 +4116,8 @@
       2026
     ],
     "total_years_found":9,
-    "latest_dividend_date":"2026-05-08",
-    "oldest_dividend_date":"2018-04-05",
+    "ex_dividend_date":"2026-05-08",
+    "oldest_ex_dividend_date":"2018-04-05",
     "raw_dividend_count":17,
     "required_years":[
       2022,
@@ -4155,8 +4155,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-05-07",
-    "oldest_dividend_date":"2015-05-06",
+    "ex_dividend_date":"2026-05-07",
+    "oldest_ex_dividend_date":"2015-05-06",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -4194,8 +4194,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-13",
-    "oldest_dividend_date":"2014-08-25",
+    "ex_dividend_date":"2026-03-13",
+    "oldest_ex_dividend_date":"2014-08-25",
     "raw_dividend_count":17,
     "required_years":[
       2022,
@@ -4230,8 +4230,8 @@
       2026
     ],
     "total_years_found":9,
-    "latest_dividend_date":"2026-03-11",
-    "oldest_dividend_date":"2018-03-19",
+    "ex_dividend_date":"2026-03-11",
+    "oldest_ex_dividend_date":"2018-03-19",
     "raw_dividend_count":17,
     "required_years":[
       2022,
@@ -4269,8 +4269,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-04",
-    "oldest_dividend_date":"2015-03-02",
+    "ex_dividend_date":"2026-03-04",
+    "oldest_ex_dividend_date":"2015-03-02",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -4305,8 +4305,8 @@
       2026
     ],
     "total_years_found":9,
-    "latest_dividend_date":"2026-04-28",
-    "oldest_dividend_date":"2018-03-06",
+    "ex_dividend_date":"2026-04-28",
+    "oldest_ex_dividend_date":"2018-03-06",
     "raw_dividend_count":14,
     "required_years":[
       2022,
@@ -4344,8 +4344,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-05-06",
-    "oldest_dividend_date":"2015-05-06",
+    "ex_dividend_date":"2026-05-06",
+    "oldest_ex_dividend_date":"2015-05-06",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -4378,8 +4378,8 @@
       2026
     ],
     "total_years_found":7,
-    "latest_dividend_date":"2026-05-11",
-    "oldest_dividend_date":"2020-05-28",
+    "ex_dividend_date":"2026-05-11",
+    "oldest_ex_dividend_date":"2020-05-28",
     "raw_dividend_count":13,
     "required_years":[
       2022,
@@ -4417,8 +4417,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-06-04",
-    "oldest_dividend_date":"2015-02-24",
+    "ex_dividend_date":"2026-06-04",
+    "oldest_ex_dividend_date":"2015-02-24",
     "raw_dividend_count":42,
     "required_years":[
       2022,
@@ -4453,8 +4453,8 @@
       2026
     ],
     "total_years_found":9,
-    "latest_dividend_date":"2026-04-29",
-    "oldest_dividend_date":"2016-04-27",
+    "ex_dividend_date":"2026-04-29",
+    "oldest_ex_dividend_date":"2016-04-27",
     "raw_dividend_count":9,
     "required_years":[
       2022,
@@ -4488,8 +4488,8 @@
       2026
     ],
     "total_years_found":8,
-    "latest_dividend_date":"2026-03-10",
-    "oldest_dividend_date":"2019-11-22",
+    "ex_dividend_date":"2026-03-10",
+    "oldest_ex_dividend_date":"2019-11-22",
     "raw_dividend_count":11,
     "required_years":[
       2022,
@@ -4527,8 +4527,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-02-10",
-    "oldest_dividend_date":"2014-12-08",
+    "ex_dividend_date":"2026-02-10",
+    "oldest_ex_dividend_date":"2014-12-08",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -4566,8 +4566,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-02",
-    "oldest_dividend_date":"2015-02-23",
+    "ex_dividend_date":"2026-03-02",
+    "oldest_ex_dividend_date":"2015-02-23",
     "raw_dividend_count":15,
     "required_years":[
       2022,
@@ -4606,8 +4606,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-05-28",
-    "oldest_dividend_date":"2014-08-20",
+    "ex_dividend_date":"2026-05-28",
+    "oldest_ex_dividend_date":"2014-08-20",
     "raw_dividend_count":39,
     "required_years":[
       2022,
@@ -4645,8 +4645,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-10",
-    "oldest_dividend_date":"2015-03-11",
+    "ex_dividend_date":"2026-03-10",
+    "oldest_ex_dividend_date":"2015-03-11",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -4685,8 +4685,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-05-27",
-    "oldest_dividend_date":"2014-08-20",
+    "ex_dividend_date":"2026-05-27",
+    "oldest_ex_dividend_date":"2014-08-20",
     "raw_dividend_count":20,
     "required_years":[
       2022,
@@ -4725,8 +4725,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-02",
-    "oldest_dividend_date":"2014-08-20",
+    "ex_dividend_date":"2026-03-02",
+    "oldest_ex_dividend_date":"2014-08-20",
     "raw_dividend_count":22,
     "required_years":[
       2022,
@@ -4758,8 +4758,8 @@
       2026
     ],
     "total_years_found":6,
-    "latest_dividend_date":"2026-03-10",
-    "oldest_dividend_date":"2021-03-04",
+    "ex_dividend_date":"2026-03-10",
+    "oldest_ex_dividend_date":"2021-03-04",
     "raw_dividend_count":6,
     "required_years":[
       2022,
@@ -4798,8 +4798,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-04-30",
-    "oldest_dividend_date":"2014-08-25",
+    "ex_dividend_date":"2026-04-30",
+    "oldest_ex_dividend_date":"2014-08-25",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -4816,9 +4816,9 @@
     "market":"mai",
     "industry":"Consumer Products",
     "sector":null,
-    "dividend_yield_pct":"0.03",
+    "dividend_yield_pct":"3.81",
     "last_price":"7.3",
-    "payout_ratio":null
+    "payout_ratio":"37.5"
   },
   {
     "symbol":"KAMART",
@@ -4838,8 +4838,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-05-27",
-    "oldest_dividend_date":"2014-08-26",
+    "ex_dividend_date":"2026-05-27",
+    "oldest_ex_dividend_date":"2014-08-26",
     "raw_dividend_count":48,
     "required_years":[
       2022,
@@ -4878,8 +4878,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-04-21",
-    "oldest_dividend_date":"2014-09-09",
+    "ex_dividend_date":"2026-04-21",
+    "oldest_ex_dividend_date":"2014-09-09",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -4896,9 +4896,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Banking",
-    "dividend_yield_pct":"0.04",
+    "dividend_yield_pct":"4.96",
     "last_price":"242.0",
-    "payout_ratio":null
+    "payout_ratio":"47.17"
   },
   {
     "symbol":"KCAR",
@@ -4918,8 +4918,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-18",
-    "oldest_dividend_date":"2014-08-25",
+    "ex_dividend_date":"2026-03-18",
+    "oldest_ex_dividend_date":"2014-08-25",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -4950,8 +4950,8 @@
       2026
     ],
     "total_years_found":5,
-    "latest_dividend_date":"2026-03-10",
-    "oldest_dividend_date":"2022-08-24",
+    "ex_dividend_date":"2026-03-10",
+    "oldest_ex_dividend_date":"2022-08-24",
     "raw_dividend_count":6,
     "required_years":[
       2022,
@@ -4990,8 +4990,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-23",
-    "oldest_dividend_date":"2014-08-18",
+    "ex_dividend_date":"2026-03-23",
+    "oldest_ex_dividend_date":"2014-08-18",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -5029,8 +5029,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-04-20",
-    "oldest_dividend_date":"2015-04-17",
+    "ex_dividend_date":"2026-04-20",
+    "oldest_ex_dividend_date":"2015-04-17",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -5069,8 +5069,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-05",
-    "oldest_dividend_date":"2014-08-19",
+    "ex_dividend_date":"2026-03-05",
+    "oldest_ex_dividend_date":"2014-08-19",
     "raw_dividend_count":25,
     "required_years":[
       2022,
@@ -5102,8 +5102,8 @@
       2026
     ],
     "total_years_found":6,
-    "latest_dividend_date":"2026-05-26",
-    "oldest_dividend_date":"2021-04-29",
+    "ex_dividend_date":"2026-05-26",
+    "oldest_ex_dividend_date":"2021-04-29",
     "raw_dividend_count":13,
     "required_years":[
       2022,
@@ -5135,8 +5135,8 @@
       2026
     ],
     "total_years_found":6,
-    "latest_dividend_date":"2026-03-10",
-    "oldest_dividend_date":"2021-03-11",
+    "ex_dividend_date":"2026-03-10",
+    "oldest_ex_dividend_date":"2021-03-11",
     "raw_dividend_count":6,
     "required_years":[
       2022,
@@ -5175,8 +5175,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-04-29",
-    "oldest_dividend_date":"2014-09-09",
+    "ex_dividend_date":"2026-04-29",
+    "oldest_ex_dividend_date":"2014-09-09",
     "raw_dividend_count":23,
     "required_years":[
       2022,
@@ -5213,8 +5213,8 @@
       2026
     ],
     "total_years_found":11,
-    "latest_dividend_date":"2026-03-02",
-    "oldest_dividend_date":"2015-03-12",
+    "ex_dividend_date":"2026-03-02",
+    "oldest_ex_dividend_date":"2015-03-12",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -5252,8 +5252,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-04-10",
-    "oldest_dividend_date":"2015-04-21",
+    "ex_dividend_date":"2026-04-10",
+    "oldest_ex_dividend_date":"2015-04-21",
     "raw_dividend_count":13,
     "required_years":[
       2022,
@@ -5291,8 +5291,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-04-10",
-    "oldest_dividend_date":"2015-02-26",
+    "ex_dividend_date":"2026-04-10",
+    "oldest_ex_dividend_date":"2015-02-26",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -5325,8 +5325,8 @@
       2026
     ],
     "total_years_found":7,
-    "latest_dividend_date":"2026-05-07",
-    "oldest_dividend_date":"2020-04-24",
+    "ex_dividend_date":"2026-05-07",
+    "oldest_ex_dividend_date":"2020-04-24",
     "raw_dividend_count":7,
     "required_years":[
       2022,
@@ -5364,8 +5364,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-04-17",
-    "oldest_dividend_date":"2015-04-30",
+    "ex_dividend_date":"2026-04-17",
+    "oldest_ex_dividend_date":"2015-04-30",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -5399,8 +5399,8 @@
       2026
     ],
     "total_years_found":8,
-    "latest_dividend_date":"2026-05-05",
-    "oldest_dividend_date":"2019-04-30",
+    "ex_dividend_date":"2026-05-05",
+    "oldest_ex_dividend_date":"2019-04-30",
     "raw_dividend_count":8,
     "required_years":[
       2022,
@@ -5439,8 +5439,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-17",
-    "oldest_dividend_date":"2014-08-26",
+    "ex_dividend_date":"2026-03-17",
+    "oldest_ex_dividend_date":"2014-08-26",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -5479,8 +5479,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-19",
-    "oldest_dividend_date":"2014-10-30",
+    "ex_dividend_date":"2026-03-19",
+    "oldest_ex_dividend_date":"2014-10-30",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -5518,8 +5518,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-26",
-    "oldest_dividend_date":"2015-03-26",
+    "ex_dividend_date":"2026-03-26",
+    "oldest_ex_dividend_date":"2015-03-26",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -5551,8 +5551,8 @@
       2026
     ],
     "total_years_found":6,
-    "latest_dividend_date":"2026-03-06",
-    "oldest_dividend_date":"2021-05-10",
+    "ex_dividend_date":"2026-03-06",
+    "oldest_ex_dividend_date":"2021-05-10",
     "raw_dividend_count":8,
     "required_years":[
       2022,
@@ -5591,8 +5591,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-04-29",
-    "oldest_dividend_date":"2014-08-27",
+    "ex_dividend_date":"2026-04-29",
+    "oldest_ex_dividend_date":"2014-08-27",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -5630,8 +5630,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-04-27",
-    "oldest_dividend_date":"2015-04-29",
+    "ex_dividend_date":"2026-04-27",
+    "oldest_ex_dividend_date":"2015-04-29",
     "raw_dividend_count":17,
     "required_years":[
       2022,
@@ -5670,8 +5670,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-06-11",
-    "oldest_dividend_date":"2014-11-24",
+    "ex_dividend_date":"2026-06-11",
+    "oldest_ex_dividend_date":"2014-11-24",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -5709,8 +5709,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-07-07",
-    "oldest_dividend_date":"2015-03-09",
+    "ex_dividend_date":"2026-07-07",
+    "oldest_ex_dividend_date":"2015-03-09",
     "raw_dividend_count":59,
     "required_years":[
       2022,
@@ -5727,9 +5727,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Fund & REITs",
-    "dividend_yield_pct":"0.08",
+    "dividend_yield_pct":"9.1",
     "last_price":"15.5",
-    "payout_ratio":null
+    "payout_ratio":"74.38"
   },
   {
     "symbol":"LPH",
@@ -5747,8 +5747,8 @@
       2026
     ],
     "total_years_found":11,
-    "latest_dividend_date":"2026-04-27",
-    "oldest_dividend_date":"2016-04-29",
+    "ex_dividend_date":"2026-04-27",
+    "oldest_ex_dividend_date":"2016-04-29",
     "raw_dividend_count":25,
     "required_years":[
       2022,
@@ -5787,8 +5787,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-11",
-    "oldest_dividend_date":"2014-08-20",
+    "ex_dividend_date":"2026-03-11",
+    "oldest_ex_dividend_date":"2014-08-20",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -5826,8 +5826,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-09",
-    "oldest_dividend_date":"2015-04-30",
+    "ex_dividend_date":"2026-03-09",
+    "oldest_ex_dividend_date":"2015-04-30",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -5866,8 +5866,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-04-17",
-    "oldest_dividend_date":"2014-08-21",
+    "ex_dividend_date":"2026-04-17",
+    "oldest_ex_dividend_date":"2014-08-21",
     "raw_dividend_count":19,
     "required_years":[
       2022,
@@ -5903,8 +5903,8 @@
       2026
     ],
     "total_years_found":10,
-    "latest_dividend_date":"2026-05-06",
-    "oldest_dividend_date":"2015-05-07",
+    "ex_dividend_date":"2026-05-06",
+    "oldest_ex_dividend_date":"2015-05-07",
     "raw_dividend_count":10,
     "required_years":[
       2022,
@@ -5942,8 +5942,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-17",
-    "oldest_dividend_date":"2014-10-20",
+    "ex_dividend_date":"2026-03-17",
+    "oldest_ex_dividend_date":"2014-10-20",
     "raw_dividend_count":20,
     "required_years":[
       2022,
@@ -5982,8 +5982,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-02-26",
-    "oldest_dividend_date":"2014-08-27",
+    "ex_dividend_date":"2026-02-26",
+    "oldest_ex_dividend_date":"2014-08-27",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -6021,8 +6021,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-04-20",
-    "oldest_dividend_date":"2015-04-03",
+    "ex_dividend_date":"2026-04-20",
+    "oldest_ex_dividend_date":"2015-04-03",
     "raw_dividend_count":22,
     "required_years":[
       2022,
@@ -6061,8 +6061,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-09",
-    "oldest_dividend_date":"2014-08-26",
+    "ex_dividend_date":"2026-03-09",
+    "oldest_ex_dividend_date":"2014-08-26",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -6093,8 +6093,8 @@
       2026
     ],
     "total_years_found":5,
-    "latest_dividend_date":"2026-05-07",
-    "oldest_dividend_date":"2022-04-27",
+    "ex_dividend_date":"2026-05-07",
+    "oldest_ex_dividend_date":"2022-04-27",
     "raw_dividend_count":5,
     "required_years":[
       2022,
@@ -6132,8 +6132,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-02-05",
-    "oldest_dividend_date":"2015-02-03",
+    "ex_dividend_date":"2026-02-05",
+    "oldest_ex_dividend_date":"2015-02-03",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -6171,8 +6171,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-05-07",
-    "oldest_dividend_date":"2015-04-27",
+    "ex_dividend_date":"2026-05-07",
+    "oldest_ex_dividend_date":"2015-04-27",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -6210,8 +6210,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-05-06",
-    "oldest_dividend_date":"2015-04-27",
+    "ex_dividend_date":"2026-05-06",
+    "oldest_ex_dividend_date":"2015-04-27",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -6247,8 +6247,8 @@
       2026
     ],
     "total_years_found":10,
-    "latest_dividend_date":"2026-05-07",
-    "oldest_dividend_date":"2017-03-09",
+    "ex_dividend_date":"2026-05-07",
+    "oldest_ex_dividend_date":"2017-03-09",
     "raw_dividend_count":19,
     "required_years":[
       2022,
@@ -6287,8 +6287,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-06-04",
-    "oldest_dividend_date":"2014-09-04",
+    "ex_dividend_date":"2026-06-04",
+    "oldest_ex_dividend_date":"2014-09-04",
     "raw_dividend_count":48,
     "required_years":[
       2022,
@@ -6327,8 +6327,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-06",
-    "oldest_dividend_date":"2014-08-26",
+    "ex_dividend_date":"2026-03-06",
+    "oldest_ex_dividend_date":"2014-08-26",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -6367,8 +6367,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-06-04",
-    "oldest_dividend_date":"2014-08-26",
+    "ex_dividend_date":"2026-06-04",
+    "oldest_ex_dividend_date":"2014-08-26",
     "raw_dividend_count":40,
     "required_years":[
       2022,
@@ -6407,8 +6407,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-06-04",
-    "oldest_dividend_date":"2014-08-26",
+    "ex_dividend_date":"2026-06-04",
+    "oldest_ex_dividend_date":"2014-08-26",
     "raw_dividend_count":47,
     "required_years":[
       2022,
@@ -6446,8 +6446,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-06-04",
-    "oldest_dividend_date":"2014-08-26",
+    "ex_dividend_date":"2026-06-04",
+    "oldest_ex_dividend_date":"2014-08-26",
     "raw_dividend_count":32,
     "required_years":[
       2022,
@@ -6486,8 +6486,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-04-21",
-    "oldest_dividend_date":"2014-08-07",
+    "ex_dividend_date":"2026-04-21",
+    "oldest_ex_dividend_date":"2014-08-07",
     "raw_dividend_count":22,
     "required_years":[
       2022,
@@ -6525,8 +6525,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-04-29",
-    "oldest_dividend_date":"2015-05-08",
+    "ex_dividend_date":"2026-04-29",
+    "oldest_ex_dividend_date":"2015-05-08",
     "raw_dividend_count":14,
     "required_years":[
       2022,
@@ -6564,8 +6564,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-09",
-    "oldest_dividend_date":"2015-03-10",
+    "ex_dividend_date":"2026-03-09",
+    "oldest_ex_dividend_date":"2015-03-10",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -6604,8 +6604,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-10",
-    "oldest_dividend_date":"2014-08-25",
+    "ex_dividend_date":"2026-03-10",
+    "oldest_ex_dividend_date":"2014-08-25",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -6643,8 +6643,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-04-28",
-    "oldest_dividend_date":"2015-04-27",
+    "ex_dividend_date":"2026-04-28",
+    "oldest_ex_dividend_date":"2015-04-27",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -6682,8 +6682,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-12",
-    "oldest_dividend_date":"2015-03-09",
+    "ex_dividend_date":"2026-03-12",
+    "oldest_ex_dividend_date":"2015-03-09",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -6717,8 +6717,8 @@
       2026
     ],
     "total_years_found":8,
-    "latest_dividend_date":"2026-04-23",
-    "oldest_dividend_date":"2019-05-07",
+    "ex_dividend_date":"2026-04-23",
+    "oldest_ex_dividend_date":"2019-05-07",
     "raw_dividend_count":14,
     "required_years":[
       2022,
@@ -6754,8 +6754,8 @@
       2026
     ],
     "total_years_found":10,
-    "latest_dividend_date":"2026-05-06",
-    "oldest_dividend_date":"2017-04-28",
+    "ex_dividend_date":"2026-05-06",
+    "oldest_ex_dividend_date":"2017-04-28",
     "raw_dividend_count":11,
     "required_years":[
       2022,
@@ -6792,8 +6792,8 @@
       2026
     ],
     "total_years_found":11,
-    "latest_dividend_date":"2026-05-05",
-    "oldest_dividend_date":"2015-04-30",
+    "ex_dividend_date":"2026-05-05",
+    "oldest_ex_dividend_date":"2015-04-30",
     "raw_dividend_count":11,
     "required_years":[
       2022,
@@ -6829,8 +6829,8 @@
       2026
     ],
     "total_years_found":10,
-    "latest_dividend_date":"2026-05-07",
-    "oldest_dividend_date":"2017-05-04",
+    "ex_dividend_date":"2026-05-07",
+    "oldest_ex_dividend_date":"2017-05-04",
     "raw_dividend_count":15,
     "required_years":[
       2022,
@@ -6862,8 +6862,8 @@
       2026
     ],
     "total_years_found":6,
-    "latest_dividend_date":"2026-04-30",
-    "oldest_dividend_date":"2021-08-30",
+    "ex_dividend_date":"2026-04-30",
+    "oldest_ex_dividend_date":"2021-08-30",
     "raw_dividend_count":10,
     "required_years":[
       2022,
@@ -6901,8 +6901,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-19",
-    "oldest_dividend_date":"2015-03-19",
+    "ex_dividend_date":"2026-03-19",
+    "oldest_ex_dividend_date":"2015-03-19",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -6940,8 +6940,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-05-05",
-    "oldest_dividend_date":"2015-03-09",
+    "ex_dividend_date":"2026-05-05",
+    "oldest_ex_dividend_date":"2015-03-09",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -6979,8 +6979,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-05-07",
-    "oldest_dividend_date":"2015-05-07",
+    "ex_dividend_date":"2026-05-07",
+    "oldest_ex_dividend_date":"2015-05-07",
     "raw_dividend_count":13,
     "required_years":[
       2022,
@@ -7011,8 +7011,8 @@
       2026
     ],
     "total_years_found":5,
-    "latest_dividend_date":"2026-05-05",
-    "oldest_dividend_date":"2022-05-09",
+    "ex_dividend_date":"2026-05-05",
+    "oldest_ex_dividend_date":"2022-05-09",
     "raw_dividend_count":9,
     "required_years":[
       2022,
@@ -7044,8 +7044,8 @@
       2026
     ],
     "total_years_found":6,
-    "latest_dividend_date":"2026-02-23",
-    "oldest_dividend_date":"2021-03-16",
+    "ex_dividend_date":"2026-02-23",
+    "oldest_ex_dividend_date":"2021-03-16",
     "raw_dividend_count":11,
     "required_years":[
       2022,
@@ -7062,9 +7062,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"0.05",
+    "dividend_yield_pct":"4.69",
     "last_price":"12.8",
-    "payout_ratio":null
+    "payout_ratio":"76.92"
   },
   {
     "symbol":"ORI",
@@ -7082,8 +7082,8 @@
       2026
     ],
     "total_years_found":11,
-    "latest_dividend_date":"2026-05-11",
-    "oldest_dividend_date":"2016-03-08",
+    "ex_dividend_date":"2026-05-11",
+    "oldest_ex_dividend_date":"2016-03-08",
     "raw_dividend_count":22,
     "required_years":[
       2022,
@@ -7117,8 +7117,8 @@
       2026
     ],
     "total_years_found":8,
-    "latest_dividend_date":"2026-05-07",
-    "oldest_dividend_date":"2019-02-12",
+    "ex_dividend_date":"2026-05-07",
+    "oldest_ex_dividend_date":"2019-02-12",
     "raw_dividend_count":17,
     "required_years":[
       2022,
@@ -7156,8 +7156,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-19",
-    "oldest_dividend_date":"2015-03-16",
+    "ex_dividend_date":"2026-03-19",
+    "oldest_ex_dividend_date":"2015-03-16",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -7196,8 +7196,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-05-11",
-    "oldest_dividend_date":"2014-09-01",
+    "ex_dividend_date":"2026-05-11",
+    "oldest_ex_dividend_date":"2014-09-01",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -7236,8 +7236,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-05-07",
-    "oldest_dividend_date":"2014-08-26",
+    "ex_dividend_date":"2026-05-07",
+    "oldest_ex_dividend_date":"2014-08-26",
     "raw_dividend_count":23,
     "required_years":[
       2022,
@@ -7276,8 +7276,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-19",
-    "oldest_dividend_date":"2014-08-21",
+    "ex_dividend_date":"2026-03-19",
+    "oldest_ex_dividend_date":"2014-08-21",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -7308,8 +7308,8 @@
       2026
     ],
     "total_years_found":5,
-    "latest_dividend_date":"2026-03-12",
-    "oldest_dividend_date":"2022-03-15",
+    "ex_dividend_date":"2026-03-12",
+    "oldest_ex_dividend_date":"2022-03-15",
     "raw_dividend_count":5,
     "required_years":[
       2022,
@@ -7345,8 +7345,8 @@
       2026
     ],
     "total_years_found":10,
-    "latest_dividend_date":"2026-05-12",
-    "oldest_dividend_date":"2015-05-07",
+    "ex_dividend_date":"2026-05-12",
+    "oldest_ex_dividend_date":"2015-05-07",
     "raw_dividend_count":11,
     "required_years":[
       2022,
@@ -7383,8 +7383,8 @@
       2026
     ],
     "total_years_found":11,
-    "latest_dividend_date":"2026-03-04",
-    "oldest_dividend_date":"2014-08-25",
+    "ex_dividend_date":"2026-03-04",
+    "oldest_ex_dividend_date":"2014-08-25",
     "raw_dividend_count":19,
     "required_years":[
       2022,
@@ -7421,8 +7421,8 @@
       2026
     ],
     "total_years_found":11,
-    "latest_dividend_date":"2026-04-30",
-    "oldest_dividend_date":"2016-05-03",
+    "ex_dividend_date":"2026-04-30",
+    "oldest_ex_dividend_date":"2016-05-03",
     "raw_dividend_count":17,
     "required_years":[
       2022,
@@ -7453,8 +7453,8 @@
       2026
     ],
     "total_years_found":5,
-    "latest_dividend_date":"2026-05-07",
-    "oldest_dividend_date":"2022-05-10",
+    "ex_dividend_date":"2026-05-07",
+    "oldest_ex_dividend_date":"2022-05-10",
     "raw_dividend_count":5,
     "required_years":[
       2022,
@@ -7491,8 +7491,8 @@
       2026
     ],
     "total_years_found":11,
-    "latest_dividend_date":"2026-05-08",
-    "oldest_dividend_date":"2015-04-29",
+    "ex_dividend_date":"2026-05-08",
+    "oldest_ex_dividend_date":"2015-04-29",
     "raw_dividend_count":15,
     "required_years":[
       2022,
@@ -7528,8 +7528,8 @@
       2026
     ],
     "total_years_found":10,
-    "latest_dividend_date":"2026-04-20",
-    "oldest_dividend_date":"2016-03-02",
+    "ex_dividend_date":"2026-04-20",
+    "oldest_ex_dividend_date":"2016-03-02",
     "raw_dividend_count":11,
     "required_years":[
       2022,
@@ -7568,8 +7568,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-04",
-    "oldest_dividend_date":"2014-08-20",
+    "ex_dividend_date":"2026-03-04",
+    "oldest_ex_dividend_date":"2014-08-20",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -7607,8 +7607,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-05-11",
-    "oldest_dividend_date":"2015-04-30",
+    "ex_dividend_date":"2026-05-11",
+    "oldest_ex_dividend_date":"2015-04-30",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -7642,8 +7642,8 @@
       2026
     ],
     "total_years_found":8,
-    "latest_dividend_date":"2026-04-30",
-    "oldest_dividend_date":"2019-05-07",
+    "ex_dividend_date":"2026-04-30",
+    "oldest_ex_dividend_date":"2019-05-07",
     "raw_dividend_count":10,
     "required_years":[
       2022,
@@ -7681,8 +7681,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-05-06",
-    "oldest_dividend_date":"2015-04-28",
+    "ex_dividend_date":"2026-05-06",
+    "oldest_ex_dividend_date":"2015-04-28",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -7714,8 +7714,8 @@
       2026
     ],
     "total_years_found":6,
-    "latest_dividend_date":"2026-05-05",
-    "oldest_dividend_date":"2021-05-05",
+    "ex_dividend_date":"2026-05-05",
+    "oldest_ex_dividend_date":"2021-05-05",
     "raw_dividend_count":6,
     "required_years":[
       2022,
@@ -7753,8 +7753,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-04-30",
-    "oldest_dividend_date":"2015-05-07",
+    "ex_dividend_date":"2026-04-30",
+    "oldest_ex_dividend_date":"2015-05-07",
     "raw_dividend_count":14,
     "required_years":[
       2022,
@@ -7789,8 +7789,8 @@
       2026
     ],
     "total_years_found":9,
-    "latest_dividend_date":"2026-05-06",
-    "oldest_dividend_date":"2018-05-03",
+    "ex_dividend_date":"2026-05-06",
+    "oldest_ex_dividend_date":"2018-05-03",
     "raw_dividend_count":16,
     "required_years":[
       2022,
@@ -7826,8 +7826,8 @@
       2026
     ],
     "total_years_found":10,
-    "latest_dividend_date":"2026-03-12",
-    "oldest_dividend_date":"2017-05-24",
+    "ex_dividend_date":"2026-03-12",
+    "oldest_ex_dividend_date":"2017-05-24",
     "raw_dividend_count":19,
     "required_years":[
       2022,
@@ -7860,8 +7860,8 @@
       2026
     ],
     "total_years_found":7,
-    "latest_dividend_date":"2026-05-26",
-    "oldest_dividend_date":"2014-08-13",
+    "ex_dividend_date":"2026-05-26",
+    "oldest_ex_dividend_date":"2014-08-13",
     "raw_dividend_count":23,
     "required_years":[
       2022,
@@ -7900,8 +7900,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-04",
-    "oldest_dividend_date":"2014-08-15",
+    "ex_dividend_date":"2026-03-04",
+    "oldest_ex_dividend_date":"2014-08-15",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -7932,8 +7932,8 @@
       2026
     ],
     "total_years_found":5,
-    "latest_dividend_date":"2026-03-12",
-    "oldest_dividend_date":"2022-03-15",
+    "ex_dividend_date":"2026-03-12",
+    "oldest_ex_dividend_date":"2022-03-15",
     "raw_dividend_count":5,
     "required_years":[
       2022,
@@ -7971,8 +7971,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-10",
-    "oldest_dividend_date":"2015-03-09",
+    "ex_dividend_date":"2026-03-10",
+    "oldest_ex_dividend_date":"2015-03-09",
     "raw_dividend_count":16,
     "required_years":[
       2022,
@@ -8011,8 +8011,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-05",
-    "oldest_dividend_date":"2014-09-15",
+    "ex_dividend_date":"2026-03-05",
+    "oldest_ex_dividend_date":"2014-09-15",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -8051,8 +8051,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-02-23",
-    "oldest_dividend_date":"2014-08-05",
+    "ex_dividend_date":"2026-02-23",
+    "oldest_ex_dividend_date":"2014-08-05",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -8091,8 +8091,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-02-24",
-    "oldest_dividend_date":"2014-08-27",
+    "ex_dividend_date":"2026-02-24",
+    "oldest_ex_dividend_date":"2014-08-27",
     "raw_dividend_count":20,
     "required_years":[
       2022,
@@ -8130,8 +8130,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-17",
-    "oldest_dividend_date":"2015-03-17",
+    "ex_dividend_date":"2026-03-17",
+    "oldest_ex_dividend_date":"2015-03-17",
     "raw_dividend_count":15,
     "required_years":[
       2022,
@@ -8170,8 +8170,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-04-27",
-    "oldest_dividend_date":"2014-09-01",
+    "ex_dividend_date":"2026-04-27",
+    "oldest_ex_dividend_date":"2014-09-01",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -8207,8 +8207,8 @@
       2026
     ],
     "total_years_found":10,
-    "latest_dividend_date":"2026-04-10",
-    "oldest_dividend_date":"2015-04-27",
+    "ex_dividend_date":"2026-04-10",
+    "oldest_ex_dividend_date":"2015-04-27",
     "raw_dividend_count":11,
     "required_years":[
       2022,
@@ -8247,8 +8247,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-25",
-    "oldest_dividend_date":"2014-10-28",
+    "ex_dividend_date":"2026-03-25",
+    "oldest_ex_dividend_date":"2014-10-28",
     "raw_dividend_count":35,
     "required_years":[
       2022,
@@ -8287,8 +8287,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-12",
-    "oldest_dividend_date":"2014-08-29",
+    "ex_dividend_date":"2026-03-12",
+    "oldest_ex_dividend_date":"2014-08-29",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -8321,8 +8321,8 @@
       2026
     ],
     "total_years_found":7,
-    "latest_dividend_date":"2026-05-07",
-    "oldest_dividend_date":"2020-04-16",
+    "ex_dividend_date":"2026-05-07",
+    "oldest_ex_dividend_date":"2020-04-16",
     "raw_dividend_count":7,
     "required_years":[
       2022,
@@ -8357,8 +8357,8 @@
       2026
     ],
     "total_years_found":9,
-    "latest_dividend_date":"2026-03-11",
-    "oldest_dividend_date":"2015-04-01",
+    "ex_dividend_date":"2026-03-11",
+    "oldest_ex_dividend_date":"2015-04-01",
     "raw_dividend_count":18,
     "required_years":[
       2022,
@@ -8395,8 +8395,8 @@
       2026
     ],
     "total_years_found":11,
-    "latest_dividend_date":"2026-03-10",
-    "oldest_dividend_date":"2016-10-28",
+    "ex_dividend_date":"2026-03-10",
+    "oldest_ex_dividend_date":"2016-10-28",
     "raw_dividend_count":25,
     "required_years":[
       2022,
@@ -8434,8 +8434,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-04-30",
-    "oldest_dividend_date":"2015-04-27",
+    "ex_dividend_date":"2026-04-30",
+    "oldest_ex_dividend_date":"2015-04-27",
     "raw_dividend_count":16,
     "required_years":[
       2022,
@@ -8471,8 +8471,8 @@
       2026
     ],
     "total_years_found":10,
-    "latest_dividend_date":"2026-04-29",
-    "oldest_dividend_date":"2017-05-03",
+    "ex_dividend_date":"2026-04-29",
+    "oldest_ex_dividend_date":"2017-05-03",
     "raw_dividend_count":19,
     "required_years":[
       2022,
@@ -8511,8 +8511,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-04-30",
-    "oldest_dividend_date":"2014-08-26",
+    "ex_dividend_date":"2026-04-30",
+    "oldest_ex_dividend_date":"2014-08-26",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -8544,8 +8544,8 @@
       2026
     ],
     "total_years_found":6,
-    "latest_dividend_date":"2026-04-29",
-    "oldest_dividend_date":"2021-04-29",
+    "ex_dividend_date":"2026-04-29",
+    "oldest_ex_dividend_date":"2021-04-29",
     "raw_dividend_count":6,
     "required_years":[
       2022,
@@ -8581,8 +8581,8 @@
       2026
     ],
     "total_years_found":10,
-    "latest_dividend_date":"2026-04-29",
-    "oldest_dividend_date":"2015-05-07",
+    "ex_dividend_date":"2026-04-29",
+    "oldest_ex_dividend_date":"2015-05-07",
     "raw_dividend_count":10,
     "required_years":[
       2022,
@@ -8620,8 +8620,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-18",
-    "oldest_dividend_date":"2014-08-18",
+    "ex_dividend_date":"2026-03-18",
+    "oldest_ex_dividend_date":"2014-08-18",
     "raw_dividend_count":21,
     "required_years":[
       2022,
@@ -8654,8 +8654,8 @@
       2026
     ],
     "total_years_found":7,
-    "latest_dividend_date":"2026-05-08",
-    "oldest_dividend_date":"2019-03-19",
+    "ex_dividend_date":"2026-05-08",
+    "oldest_ex_dividend_date":"2019-03-19",
     "raw_dividend_count":7,
     "required_years":[
       2022,
@@ -8693,8 +8693,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-04-29",
-    "oldest_dividend_date":"2015-04-29",
+    "ex_dividend_date":"2026-04-29",
+    "oldest_ex_dividend_date":"2015-04-29",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -8733,8 +8733,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-05",
-    "oldest_dividend_date":"2014-08-20",
+    "ex_dividend_date":"2026-03-05",
+    "oldest_ex_dividend_date":"2014-08-20",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -8772,8 +8772,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-04-30",
-    "oldest_dividend_date":"2015-04-29",
+    "ex_dividend_date":"2026-04-30",
+    "oldest_ex_dividend_date":"2015-04-29",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -8811,8 +8811,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-05-07",
-    "oldest_dividend_date":"2015-04-29",
+    "ex_dividend_date":"2026-05-07",
+    "oldest_ex_dividend_date":"2015-04-29",
     "raw_dividend_count":13,
     "required_years":[
       2022,
@@ -8850,8 +8850,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-05-07",
-    "oldest_dividend_date":"2015-04-30",
+    "ex_dividend_date":"2026-05-07",
+    "oldest_ex_dividend_date":"2015-04-30",
     "raw_dividend_count":16,
     "required_years":[
       2022,
@@ -8888,8 +8888,8 @@
       2026
     ],
     "total_years_found":11,
-    "latest_dividend_date":"2026-05-07",
-    "oldest_dividend_date":"2015-03-09",
+    "ex_dividend_date":"2026-05-07",
+    "oldest_ex_dividend_date":"2015-03-09",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -8906,9 +8906,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Finance & Securities",
-    "dividend_yield_pct":"0.04",
+    "dividend_yield_pct":"4.12",
     "last_price":"1.76",
-    "payout_ratio":null
+    "payout_ratio":"1.44"
   },
   {
     "symbol":"SCB",
@@ -8920,8 +8920,8 @@
       2026
     ],
     "total_years_found":5,
-    "latest_dividend_date":"2026-04-20",
-    "oldest_dividend_date":"2022-10-12",
+    "ex_dividend_date":"2026-04-20",
+    "oldest_ex_dividend_date":"2022-10-12",
     "raw_dividend_count":8,
     "required_years":[
       2022,
@@ -8960,8 +8960,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-04-01",
-    "oldest_dividend_date":"2014-08-07",
+    "ex_dividend_date":"2026-04-01",
+    "oldest_ex_dividend_date":"2014-08-07",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -8978,9 +8978,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Construction Materials",
-    "dividend_yield_pct":"0.02",
+    "dividend_yield_pct":"2.76",
     "last_price":"255.0",
-    "payout_ratio":null
+    "payout_ratio":"31.25"
   },
   {
     "symbol":"SCCC",
@@ -8999,8 +8999,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-05",
-    "oldest_dividend_date":"2015-04-17",
+    "ex_dividend_date":"2026-03-05",
+    "oldest_ex_dividend_date":"2015-04-17",
     "raw_dividend_count":19,
     "required_years":[
       2022,
@@ -9017,9 +9017,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Construction Materials",
-    "dividend_yield_pct":"0.07",
+    "dividend_yield_pct":"7.38",
     "last_price":"149.5",
-    "payout_ratio":null
+    "payout_ratio":"85.27"
   },
   {
     "symbol":"SCGP",
@@ -9032,8 +9032,8 @@
       2026
     ],
     "total_years_found":6,
-    "latest_dividend_date":"2026-03-31",
-    "oldest_dividend_date":"2021-04-07",
+    "ex_dividend_date":"2026-03-31",
+    "oldest_ex_dividend_date":"2021-04-07",
     "raw_dividend_count":11,
     "required_years":[
       2022,
@@ -9072,8 +9072,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-12",
-    "oldest_dividend_date":"2014-08-25",
+    "ex_dividend_date":"2026-03-12",
+    "oldest_ex_dividend_date":"2014-08-25",
     "raw_dividend_count":13,
     "required_years":[
       2022,
@@ -9109,8 +9109,8 @@
       2026
     ],
     "total_years_found":10,
-    "latest_dividend_date":"2026-03-11",
-    "oldest_dividend_date":"2017-03-07",
+    "ex_dividend_date":"2026-03-11",
+    "oldest_ex_dividend_date":"2017-03-07",
     "raw_dividend_count":10,
     "required_years":[
       2022,
@@ -9146,8 +9146,8 @@
       2026
     ],
     "total_years_found":10,
-    "latest_dividend_date":"2026-03-11",
-    "oldest_dividend_date":"2015-03-10",
+    "ex_dividend_date":"2026-03-11",
+    "oldest_ex_dividend_date":"2015-03-10",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -9178,8 +9178,8 @@
       2026
     ],
     "total_years_found":5,
-    "latest_dividend_date":"2026-03-12",
-    "oldest_dividend_date":"2022-05-09",
+    "ex_dividend_date":"2026-03-12",
+    "oldest_ex_dividend_date":"2022-05-09",
     "raw_dividend_count":6,
     "required_years":[
       2022,
@@ -9215,8 +9215,8 @@
       2026
     ],
     "total_years_found":10,
-    "latest_dividend_date":"2026-05-06",
-    "oldest_dividend_date":"2017-04-17",
+    "ex_dividend_date":"2026-05-06",
+    "oldest_ex_dividend_date":"2017-04-17",
     "raw_dividend_count":10,
     "required_years":[
       2022,
@@ -9255,8 +9255,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-05-13",
-    "oldest_dividend_date":"2014-10-01",
+    "ex_dividend_date":"2026-05-13",
+    "oldest_ex_dividend_date":"2014-10-01",
     "raw_dividend_count":20,
     "required_years":[
       2022,
@@ -9289,8 +9289,8 @@
       2026
     ],
     "total_years_found":7,
-    "latest_dividend_date":"2026-03-12",
-    "oldest_dividend_date":"2020-04-20",
+    "ex_dividend_date":"2026-03-12",
+    "oldest_ex_dividend_date":"2020-04-20",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -9322,8 +9322,8 @@
       2026
     ],
     "total_years_found":6,
-    "latest_dividend_date":"2026-03-19",
-    "oldest_dividend_date":"2021-03-10",
+    "ex_dividend_date":"2026-03-19",
+    "oldest_ex_dividend_date":"2021-03-10",
     "raw_dividend_count":6,
     "required_years":[
       2022,
@@ -9362,8 +9362,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-11",
-    "oldest_dividend_date":"2014-08-20",
+    "ex_dividend_date":"2026-03-11",
+    "oldest_ex_dividend_date":"2014-08-20",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -9395,8 +9395,8 @@
       2026
     ],
     "total_years_found":6,
-    "latest_dividend_date":"2026-05-05",
-    "oldest_dividend_date":"2021-05-07",
+    "ex_dividend_date":"2026-05-05",
+    "oldest_ex_dividend_date":"2021-05-07",
     "raw_dividend_count":6,
     "required_years":[
       2022,
@@ -9434,8 +9434,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-17",
-    "oldest_dividend_date":"2015-03-13",
+    "ex_dividend_date":"2026-03-17",
+    "oldest_ex_dividend_date":"2015-03-13",
     "raw_dividend_count":20,
     "required_years":[
       2022,
@@ -9473,8 +9473,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-06",
-    "oldest_dividend_date":"2015-04-29",
+    "ex_dividend_date":"2026-03-06",
+    "oldest_ex_dividend_date":"2015-04-29",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -9507,8 +9507,8 @@
       2026
     ],
     "total_years_found":7,
-    "latest_dividend_date":"2026-03-06",
-    "oldest_dividend_date":"2020-04-14",
+    "ex_dividend_date":"2026-03-06",
+    "oldest_ex_dividend_date":"2020-04-14",
     "raw_dividend_count":7,
     "required_years":[
       2022,
@@ -9544,8 +9544,8 @@
       2026
     ],
     "total_years_found":10,
-    "latest_dividend_date":"2026-05-05",
-    "oldest_dividend_date":"2015-05-07",
+    "ex_dividend_date":"2026-05-05",
+    "oldest_ex_dividend_date":"2015-05-07",
     "raw_dividend_count":13,
     "required_years":[
       2022,
@@ -9583,8 +9583,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-04-29",
-    "oldest_dividend_date":"2015-03-24",
+    "ex_dividend_date":"2026-04-29",
+    "oldest_ex_dividend_date":"2015-03-24",
     "raw_dividend_count":16,
     "required_years":[
       2022,
@@ -9617,8 +9617,8 @@
       2026
     ],
     "total_years_found":7,
-    "latest_dividend_date":"2026-04-20",
-    "oldest_dividend_date":"2020-05-21",
+    "ex_dividend_date":"2026-04-20",
+    "oldest_ex_dividend_date":"2020-05-21",
     "raw_dividend_count":7,
     "required_years":[
       2022,
@@ -9649,8 +9649,8 @@
       2026
     ],
     "total_years_found":5,
-    "latest_dividend_date":"2026-05-08",
-    "oldest_dividend_date":"2022-03-15",
+    "ex_dividend_date":"2026-05-08",
+    "oldest_ex_dividend_date":"2022-03-15",
     "raw_dividend_count":8,
     "required_years":[
       2022,
@@ -9689,8 +9689,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-04-20",
-    "oldest_dividend_date":"2014-08-20",
+    "ex_dividend_date":"2026-04-20",
+    "oldest_ex_dividend_date":"2014-08-20",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -9729,8 +9729,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-04-07",
-    "oldest_dividend_date":"2014-08-26",
+    "ex_dividend_date":"2026-04-07",
+    "oldest_ex_dividend_date":"2014-08-26",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -9761,8 +9761,8 @@
       2026
     ],
     "total_years_found":5,
-    "latest_dividend_date":"2026-04-30",
-    "oldest_dividend_date":"2022-05-05",
+    "ex_dividend_date":"2026-04-30",
+    "oldest_ex_dividend_date":"2022-05-05",
     "raw_dividend_count":5,
     "required_years":[
       2022,
@@ -9794,8 +9794,8 @@
       2026
     ],
     "total_years_found":6,
-    "latest_dividend_date":"2026-05-05",
-    "oldest_dividend_date":"2021-08-17",
+    "ex_dividend_date":"2026-05-05",
+    "oldest_ex_dividend_date":"2021-08-17",
     "raw_dividend_count":10,
     "required_years":[
       2022,
@@ -9834,8 +9834,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-16",
-    "oldest_dividend_date":"2014-08-26",
+    "ex_dividend_date":"2026-03-16",
+    "oldest_ex_dividend_date":"2014-08-26",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -9868,8 +9868,8 @@
       2026
     ],
     "total_years_found":7,
-    "latest_dividend_date":"2026-05-07",
-    "oldest_dividend_date":"2020-11-23",
+    "ex_dividend_date":"2026-05-07",
+    "oldest_ex_dividend_date":"2020-11-23",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -9903,8 +9903,8 @@
       2026
     ],
     "total_years_found":8,
-    "latest_dividend_date":"2026-03-17",
-    "oldest_dividend_date":"2018-11-27",
+    "ex_dividend_date":"2026-03-17",
+    "oldest_ex_dividend_date":"2018-11-27",
     "raw_dividend_count":8,
     "required_years":[
       2022,
@@ -9921,9 +9921,9 @@
     "market":"mai",
     "industry":"Services",
     "sector":null,
-    "dividend_yield_pct":"0.04",
+    "dividend_yield_pct":"3.9",
     "last_price":"1.52",
-    "payout_ratio":null
+    "payout_ratio":"37.97"
   },
   {
     "symbol":"SORKON",
@@ -9942,8 +9942,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-05-07",
-    "oldest_dividend_date":"2015-05-07",
+    "ex_dividend_date":"2026-05-07",
+    "oldest_ex_dividend_date":"2015-05-07",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -9982,8 +9982,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-05-06",
-    "oldest_dividend_date":"2014-08-25",
+    "ex_dividend_date":"2026-05-06",
+    "oldest_ex_dividend_date":"2014-08-25",
     "raw_dividend_count":22,
     "required_years":[
       2022,
@@ -10021,8 +10021,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-05-07",
-    "oldest_dividend_date":"2015-04-30",
+    "ex_dividend_date":"2026-05-07",
+    "oldest_ex_dividend_date":"2015-04-30",
     "raw_dividend_count":20,
     "required_years":[
       2022,
@@ -10061,8 +10061,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-13",
-    "oldest_dividend_date":"2014-08-25",
+    "ex_dividend_date":"2026-03-13",
+    "oldest_ex_dividend_date":"2014-08-25",
     "raw_dividend_count":25,
     "required_years":[
       2022,
@@ -10100,8 +10100,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-19",
-    "oldest_dividend_date":"2015-03-12",
+    "ex_dividend_date":"2026-03-19",
+    "oldest_ex_dividend_date":"2015-03-12",
     "raw_dividend_count":16,
     "required_years":[
       2022,
@@ -10139,8 +10139,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-05-06",
-    "oldest_dividend_date":"2015-05-06",
+    "ex_dividend_date":"2026-05-06",
+    "oldest_ex_dividend_date":"2015-05-06",
     "raw_dividend_count":22,
     "required_years":[
       2022,
@@ -10176,8 +10176,8 @@
       2026
     ],
     "total_years_found":10,
-    "latest_dividend_date":"2026-03-05",
-    "oldest_dividend_date":"2016-05-09",
+    "ex_dividend_date":"2026-03-05",
+    "oldest_ex_dividend_date":"2016-05-09",
     "raw_dividend_count":15,
     "required_years":[
       2022,
@@ -10211,8 +10211,8 @@
       2026
     ],
     "total_years_found":8,
-    "latest_dividend_date":"2026-05-21",
-    "oldest_dividend_date":"2019-05-23",
+    "ex_dividend_date":"2026-05-21",
+    "oldest_ex_dividend_date":"2019-05-23",
     "raw_dividend_count":28,
     "required_years":[
       2022,
@@ -10250,8 +10250,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-02",
-    "oldest_dividend_date":"2015-03-06",
+    "ex_dividend_date":"2026-03-02",
+    "oldest_ex_dividend_date":"2015-03-06",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -10289,8 +10289,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-05-05",
-    "oldest_dividend_date":"2015-04-28",
+    "ex_dividend_date":"2026-05-05",
+    "oldest_ex_dividend_date":"2015-04-28",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -10325,8 +10325,8 @@
       2026
     ],
     "total_years_found":9,
-    "latest_dividend_date":"2026-05-05",
-    "oldest_dividend_date":"2018-05-09",
+    "ex_dividend_date":"2026-05-05",
+    "oldest_ex_dividend_date":"2018-05-09",
     "raw_dividend_count":11,
     "required_years":[
       2022,
@@ -10364,8 +10364,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-05-07",
-    "oldest_dividend_date":"2015-05-07",
+    "ex_dividend_date":"2026-05-07",
+    "oldest_ex_dividend_date":"2015-05-07",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -10402,8 +10402,8 @@
       2026
     ],
     "total_years_found":11,
-    "latest_dividend_date":"2026-02-18",
-    "oldest_dividend_date":"2015-02-24",
+    "ex_dividend_date":"2026-02-18",
+    "oldest_ex_dividend_date":"2015-02-24",
     "raw_dividend_count":21,
     "required_years":[
       2022,
@@ -10441,8 +10441,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-04-21",
-    "oldest_dividend_date":"2015-05-11",
+    "ex_dividend_date":"2026-04-21",
+    "oldest_ex_dividend_date":"2015-05-11",
     "raw_dividend_count":17,
     "required_years":[
       2022,
@@ -10480,8 +10480,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-07-08",
-    "oldest_dividend_date":"2015-07-10",
+    "ex_dividend_date":"2026-07-08",
+    "oldest_ex_dividend_date":"2015-07-10",
     "raw_dividend_count":13,
     "required_years":[
       2022,
@@ -10514,8 +10514,8 @@
       2026
     ],
     "total_years_found":7,
-    "latest_dividend_date":"2026-04-21",
-    "oldest_dividend_date":"2020-11-27",
+    "ex_dividend_date":"2026-04-21",
+    "oldest_ex_dividend_date":"2020-11-27",
     "raw_dividend_count":11,
     "required_years":[
       2022,
@@ -10549,8 +10549,8 @@
       2026
     ],
     "total_years_found":8,
-    "latest_dividend_date":"2026-02-03",
-    "oldest_dividend_date":"2019-04-29",
+    "ex_dividend_date":"2026-02-03",
+    "oldest_ex_dividend_date":"2019-04-29",
     "raw_dividend_count":8,
     "required_years":[
       2022,
@@ -10581,8 +10581,8 @@
       2026
     ],
     "total_years_found":5,
-    "latest_dividend_date":"2026-04-17",
-    "oldest_dividend_date":"2022-08-26",
+    "ex_dividend_date":"2026-04-17",
+    "oldest_ex_dividend_date":"2022-08-26",
     "raw_dividend_count":8,
     "required_years":[
       2022,
@@ -10619,8 +10619,8 @@
       2026
     ],
     "total_years_found":11,
-    "latest_dividend_date":"2026-03-31",
-    "oldest_dividend_date":"2015-03-31",
+    "ex_dividend_date":"2026-03-31",
+    "oldest_ex_dividend_date":"2015-03-31",
     "raw_dividend_count":11,
     "required_years":[
       2022,
@@ -10655,8 +10655,8 @@
       2026
     ],
     "total_years_found":9,
-    "latest_dividend_date":"2026-04-28",
-    "oldest_dividend_date":"2018-05-02",
+    "ex_dividend_date":"2026-04-28",
+    "oldest_ex_dividend_date":"2018-05-02",
     "raw_dividend_count":15,
     "required_years":[
       2022,
@@ -10695,8 +10695,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-12",
-    "oldest_dividend_date":"2014-09-10",
+    "ex_dividend_date":"2026-03-12",
+    "oldest_ex_dividend_date":"2014-09-10",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -10727,8 +10727,8 @@
       2026
     ],
     "total_years_found":5,
-    "latest_dividend_date":"2026-03-13",
-    "oldest_dividend_date":"2022-03-09",
+    "ex_dividend_date":"2026-03-13",
+    "oldest_ex_dividend_date":"2022-03-09",
     "raw_dividend_count":5,
     "required_years":[
       2022,
@@ -10767,8 +10767,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-05-07",
-    "oldest_dividend_date":"2014-08-25",
+    "ex_dividend_date":"2026-05-07",
+    "oldest_ex_dividend_date":"2014-08-25",
     "raw_dividend_count":23,
     "required_years":[
       2022,
@@ -10805,8 +10805,8 @@
       2026
     ],
     "total_years_found":11,
-    "latest_dividend_date":"2026-03-13",
-    "oldest_dividend_date":"2014-08-20",
+    "ex_dividend_date":"2026-03-13",
+    "oldest_ex_dividend_date":"2014-08-20",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -10844,8 +10844,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-04-30",
-    "oldest_dividend_date":"2015-03-30",
+    "ex_dividend_date":"2026-04-30",
+    "oldest_ex_dividend_date":"2015-03-30",
     "raw_dividend_count":23,
     "required_years":[
       2022,
@@ -10884,8 +10884,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-04-01",
-    "oldest_dividend_date":"2014-08-25",
+    "ex_dividend_date":"2026-04-01",
+    "oldest_ex_dividend_date":"2014-08-25",
     "raw_dividend_count":22,
     "required_years":[
       2022,
@@ -10922,8 +10922,8 @@
       2026
     ],
     "total_years_found":11,
-    "latest_dividend_date":"2026-04-22",
-    "oldest_dividend_date":"2016-04-26",
+    "ex_dividend_date":"2026-04-22",
+    "oldest_ex_dividend_date":"2016-04-26",
     "raw_dividend_count":21,
     "required_years":[
       2022,
@@ -10962,8 +10962,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-04",
-    "oldest_dividend_date":"2014-11-26",
+    "ex_dividend_date":"2026-03-04",
+    "oldest_ex_dividend_date":"2014-11-26",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -11001,8 +11001,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-05-07",
-    "oldest_dividend_date":"2015-05-12",
+    "ex_dividend_date":"2026-05-07",
+    "oldest_ex_dividend_date":"2015-05-12",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -11041,8 +11041,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-04-16",
-    "oldest_dividend_date":"2014-10-02",
+    "ex_dividend_date":"2026-04-16",
+    "oldest_ex_dividend_date":"2014-10-02",
     "raw_dividend_count":25,
     "required_years":[
       2022,
@@ -11075,8 +11075,8 @@
       2026
     ],
     "total_years_found":7,
-    "latest_dividend_date":"2026-03-13",
-    "oldest_dividend_date":"2015-03-12",
+    "ex_dividend_date":"2026-03-13",
+    "oldest_ex_dividend_date":"2015-03-12",
     "raw_dividend_count":11,
     "required_years":[
       2022,
@@ -11107,8 +11107,8 @@
       2026
     ],
     "total_years_found":5,
-    "latest_dividend_date":"2026-03-02",
-    "oldest_dividend_date":"2022-08-26",
+    "ex_dividend_date":"2026-03-02",
+    "oldest_ex_dividend_date":"2022-08-26",
     "raw_dividend_count":5,
     "required_years":[
       2022,
@@ -11144,8 +11144,8 @@
       2026
     ],
     "total_years_found":10,
-    "latest_dividend_date":"2026-05-25",
-    "oldest_dividend_date":"2017-10-18",
+    "ex_dividend_date":"2026-05-25",
+    "oldest_ex_dividend_date":"2017-10-18",
     "raw_dividend_count":22,
     "required_years":[
       2022,
@@ -11176,8 +11176,8 @@
       2026
     ],
     "total_years_found":5,
-    "latest_dividend_date":"2026-02-26",
-    "oldest_dividend_date":"2022-03-03",
+    "ex_dividend_date":"2026-02-26",
+    "oldest_ex_dividend_date":"2022-03-03",
     "raw_dividend_count":8,
     "required_years":[
       2022,
@@ -11216,8 +11216,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-05-11",
-    "oldest_dividend_date":"2014-09-30",
+    "ex_dividend_date":"2026-05-11",
+    "oldest_ex_dividend_date":"2014-09-30",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -11255,8 +11255,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-02",
-    "oldest_dividend_date":"2015-02-27",
+    "ex_dividend_date":"2026-03-02",
+    "oldest_ex_dividend_date":"2015-02-27",
     "raw_dividend_count":13,
     "required_years":[
       2022,
@@ -11294,8 +11294,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-18",
-    "oldest_dividend_date":"2015-05-07",
+    "ex_dividend_date":"2026-03-18",
+    "oldest_ex_dividend_date":"2015-05-07",
     "raw_dividend_count":15,
     "required_years":[
       2022,
@@ -11334,8 +11334,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-06-02",
-    "oldest_dividend_date":"2014-08-26",
+    "ex_dividend_date":"2026-06-02",
+    "oldest_ex_dividend_date":"2014-08-26",
     "raw_dividend_count":47,
     "required_years":[
       2022,
@@ -11372,8 +11372,8 @@
       2026
     ],
     "total_years_found":11,
-    "latest_dividend_date":"2026-03-06",
-    "oldest_dividend_date":"2016-04-28",
+    "ex_dividend_date":"2026-03-06",
+    "oldest_ex_dividend_date":"2016-04-28",
     "raw_dividend_count":19,
     "required_years":[
       2022,
@@ -11404,8 +11404,8 @@
       2026
     ],
     "total_years_found":5,
-    "latest_dividend_date":"2026-03-13",
-    "oldest_dividend_date":"2022-06-14",
+    "ex_dividend_date":"2026-03-13",
+    "oldest_ex_dividend_date":"2022-06-14",
     "raw_dividend_count":9,
     "required_years":[
       2022,
@@ -11443,8 +11443,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-04-29",
-    "oldest_dividend_date":"2015-04-28",
+    "ex_dividend_date":"2026-04-29",
+    "oldest_ex_dividend_date":"2015-04-28",
     "raw_dividend_count":15,
     "required_years":[
       2022,
@@ -11482,8 +11482,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-11",
-    "oldest_dividend_date":"2015-03-09",
+    "ex_dividend_date":"2026-03-11",
+    "oldest_ex_dividend_date":"2015-03-09",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -11514,8 +11514,8 @@
       2026
     ],
     "total_years_found":5,
-    "latest_dividend_date":"2026-05-05",
-    "oldest_dividend_date":"2022-05-10",
+    "ex_dividend_date":"2026-05-05",
+    "oldest_ex_dividend_date":"2022-05-10",
     "raw_dividend_count":6,
     "required_years":[
       2022,
@@ -11552,8 +11552,8 @@
       2026
     ],
     "total_years_found":11,
-    "latest_dividend_date":"2026-03-09",
-    "oldest_dividend_date":"2016-03-07",
+    "ex_dividend_date":"2026-03-09",
+    "oldest_ex_dividend_date":"2016-03-07",
     "raw_dividend_count":23,
     "required_years":[
       2022,
@@ -11592,8 +11592,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-04-27",
-    "oldest_dividend_date":"2014-08-26",
+    "ex_dividend_date":"2026-04-27",
+    "oldest_ex_dividend_date":"2014-08-26",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -11631,8 +11631,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-12",
-    "oldest_dividend_date":"2015-03-30",
+    "ex_dividend_date":"2026-03-12",
+    "oldest_ex_dividend_date":"2015-03-30",
     "raw_dividend_count":13,
     "required_years":[
       2022,
@@ -11670,8 +11670,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-16",
-    "oldest_dividend_date":"2015-03-25",
+    "ex_dividend_date":"2026-03-16",
+    "oldest_ex_dividend_date":"2015-03-25",
     "raw_dividend_count":20,
     "required_years":[
       2022,
@@ -11709,8 +11709,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-10",
-    "oldest_dividend_date":"2015-05-07",
+    "ex_dividend_date":"2026-03-10",
+    "oldest_ex_dividend_date":"2015-05-07",
     "raw_dividend_count":13,
     "required_years":[
       2022,
@@ -11747,8 +11747,8 @@
       2026
     ],
     "total_years_found":11,
-    "latest_dividend_date":"2026-03-11",
-    "oldest_dividend_date":"2016-03-03",
+    "ex_dividend_date":"2026-03-11",
+    "oldest_ex_dividend_date":"2016-03-03",
     "raw_dividend_count":21,
     "required_years":[
       2022,
@@ -11784,8 +11784,8 @@
       2026
     ],
     "total_years_found":10,
-    "latest_dividend_date":"2026-03-13",
-    "oldest_dividend_date":"2017-03-09",
+    "ex_dividend_date":"2026-03-13",
+    "oldest_ex_dividend_date":"2017-03-09",
     "raw_dividend_count":13,
     "required_years":[
       2022,
@@ -11820,8 +11820,8 @@
       2026
     ],
     "total_years_found":9,
-    "latest_dividend_date":"2026-05-06",
-    "oldest_dividend_date":"2018-05-02",
+    "ex_dividend_date":"2026-05-06",
+    "oldest_ex_dividend_date":"2018-05-02",
     "raw_dividend_count":17,
     "required_years":[
       2022,
@@ -11838,9 +11838,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Construction Materials",
-    "dividend_yield_pct":"0.05",
+    "dividend_yield_pct":"4.97",
     "last_price":"15.5",
-    "payout_ratio":null
+    "payout_ratio":"38.89"
   },
   {
     "symbol":"TOG",
@@ -11860,8 +11860,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-04-17",
-    "oldest_dividend_date":"2014-08-26",
+    "ex_dividend_date":"2026-04-17",
+    "oldest_ex_dividend_date":"2014-08-26",
     "raw_dividend_count":23,
     "required_years":[
       2022,
@@ -11900,8 +11900,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-02-25",
-    "oldest_dividend_date":"2014-09-11",
+    "ex_dividend_date":"2026-02-25",
+    "oldest_ex_dividend_date":"2014-09-11",
     "raw_dividend_count":23,
     "required_years":[
       2022,
@@ -11939,8 +11939,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-05-07",
-    "oldest_dividend_date":"2015-04-24",
+    "ex_dividend_date":"2026-05-07",
+    "oldest_ex_dividend_date":"2015-04-24",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -11976,8 +11976,8 @@
       2026
     ],
     "total_years_found":10,
-    "latest_dividend_date":"2026-05-08",
-    "oldest_dividend_date":"2015-05-11",
+    "ex_dividend_date":"2026-05-08",
+    "oldest_ex_dividend_date":"2015-05-11",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -12015,8 +12015,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-05-07",
-    "oldest_dividend_date":"2015-05-07",
+    "ex_dividend_date":"2026-05-07",
+    "oldest_ex_dividend_date":"2015-05-07",
     "raw_dividend_count":14,
     "required_years":[
       2022,
@@ -12054,8 +12054,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-11",
-    "oldest_dividend_date":"2015-03-20",
+    "ex_dividend_date":"2026-03-11",
+    "oldest_ex_dividend_date":"2015-03-20",
     "raw_dividend_count":18,
     "required_years":[
       2022,
@@ -12091,8 +12091,8 @@
       2026
     ],
     "total_years_found":10,
-    "latest_dividend_date":"2026-03-11",
-    "oldest_dividend_date":"2017-05-19",
+    "ex_dividend_date":"2026-03-11",
+    "oldest_ex_dividend_date":"2017-05-19",
     "raw_dividend_count":23,
     "required_years":[
       2022,
@@ -12126,8 +12126,8 @@
       2026
     ],
     "total_years_found":8,
-    "latest_dividend_date":"2026-04-10",
-    "oldest_dividend_date":"2019-04-18",
+    "ex_dividend_date":"2026-04-10",
+    "oldest_ex_dividend_date":"2019-04-18",
     "raw_dividend_count":8,
     "required_years":[
       2022,
@@ -12165,8 +12165,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-13",
-    "oldest_dividend_date":"2015-03-17",
+    "ex_dividend_date":"2026-03-13",
+    "oldest_ex_dividend_date":"2015-03-17",
     "raw_dividend_count":13,
     "required_years":[
       2022,
@@ -12202,8 +12202,8 @@
       2026
     ],
     "total_years_found":10,
-    "latest_dividend_date":"2026-05-21",
-    "oldest_dividend_date":"2017-03-09",
+    "ex_dividend_date":"2026-05-21",
+    "oldest_ex_dividend_date":"2017-03-09",
     "raw_dividend_count":38,
     "required_years":[
       2022,
@@ -12236,8 +12236,8 @@
       2026
     ],
     "total_years_found":7,
-    "latest_dividend_date":"2026-04-24",
-    "oldest_dividend_date":"2020-04-30",
+    "ex_dividend_date":"2026-04-24",
+    "oldest_ex_dividend_date":"2020-04-30",
     "raw_dividend_count":8,
     "required_years":[
       2022,
@@ -12271,8 +12271,8 @@
       2026
     ],
     "total_years_found":8,
-    "latest_dividend_date":"2026-03-12",
-    "oldest_dividend_date":"2019-03-11",
+    "ex_dividend_date":"2026-03-12",
+    "oldest_ex_dividend_date":"2019-03-11",
     "raw_dividend_count":15,
     "required_years":[
       2022,
@@ -12304,8 +12304,8 @@
       2026
     ],
     "total_years_found":6,
-    "latest_dividend_date":"2026-03-17",
-    "oldest_dividend_date":"2021-03-16",
+    "ex_dividend_date":"2026-03-17",
+    "oldest_ex_dividend_date":"2021-03-16",
     "raw_dividend_count":11,
     "required_years":[
       2022,
@@ -12343,8 +12343,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-06-09",
-    "oldest_dividend_date":"2015-06-05",
+    "ex_dividend_date":"2026-06-09",
+    "oldest_ex_dividend_date":"2015-06-05",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -12382,8 +12382,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-05-11",
-    "oldest_dividend_date":"2015-04-30",
+    "ex_dividend_date":"2026-05-11",
+    "oldest_ex_dividend_date":"2015-04-30",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -12421,8 +12421,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-05-19",
-    "oldest_dividend_date":"2015-01-30",
+    "ex_dividend_date":"2026-05-19",
+    "oldest_ex_dividend_date":"2015-01-30",
     "raw_dividend_count":23,
     "required_years":[
       2022,
@@ -12460,8 +12460,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-18",
-    "oldest_dividend_date":"2015-03-25",
+    "ex_dividend_date":"2026-03-18",
+    "oldest_ex_dividend_date":"2015-03-25",
     "raw_dividend_count":20,
     "required_years":[
       2022,
@@ -12499,8 +12499,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-19",
-    "oldest_dividend_date":"2015-02-03",
+    "ex_dividend_date":"2026-03-19",
+    "oldest_ex_dividend_date":"2015-02-03",
     "raw_dividend_count":13,
     "required_years":[
       2022,
@@ -12538,8 +12538,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-04-27",
-    "oldest_dividend_date":"2015-04-21",
+    "ex_dividend_date":"2026-04-27",
+    "oldest_ex_dividend_date":"2015-04-21",
     "raw_dividend_count":17,
     "required_years":[
       2022,
@@ -12574,8 +12574,8 @@
       2026
     ],
     "total_years_found":9,
-    "latest_dividend_date":"2026-03-12",
-    "oldest_dividend_date":"2015-03-20",
+    "ex_dividend_date":"2026-03-12",
+    "oldest_ex_dividend_date":"2015-03-20",
     "raw_dividend_count":9,
     "required_years":[
       2022,
@@ -12609,8 +12609,8 @@
       2026
     ],
     "total_years_found":8,
-    "latest_dividend_date":"2026-06-24",
-    "oldest_dividend_date":"2019-07-12",
+    "ex_dividend_date":"2026-06-24",
+    "oldest_ex_dividend_date":"2019-07-12",
     "raw_dividend_count":15,
     "required_years":[
       2022,
@@ -12649,8 +12649,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-10",
-    "oldest_dividend_date":"2014-08-26",
+    "ex_dividend_date":"2026-03-10",
+    "oldest_ex_dividend_date":"2014-08-26",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -12689,8 +12689,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-02",
-    "oldest_dividend_date":"2014-08-25",
+    "ex_dividend_date":"2026-03-02",
+    "oldest_ex_dividend_date":"2014-08-25",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -12729,8 +12729,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-13",
-    "oldest_dividend_date":"2014-08-26",
+    "ex_dividend_date":"2026-03-13",
+    "oldest_ex_dividend_date":"2014-08-26",
     "raw_dividend_count":23,
     "required_years":[
       2022,
@@ -12768,8 +12768,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-04-29",
-    "oldest_dividend_date":"2015-05-07",
+    "ex_dividend_date":"2026-04-29",
+    "oldest_ex_dividend_date":"2015-05-07",
     "raw_dividend_count":13,
     "required_years":[
       2022,
@@ -12807,8 +12807,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-04-28",
-    "oldest_dividend_date":"2015-04-01",
+    "ex_dividend_date":"2026-04-28",
+    "oldest_ex_dividend_date":"2015-04-01",
     "raw_dividend_count":17,
     "required_years":[
       2022,
@@ -12839,8 +12839,8 @@
       2026
     ],
     "total_years_found":5,
-    "latest_dividend_date":"2026-03-10",
-    "oldest_dividend_date":"2022-03-31",
+    "ex_dividend_date":"2026-03-10",
+    "oldest_ex_dividend_date":"2022-03-31",
     "raw_dividend_count":5,
     "required_years":[
       2022,
@@ -12878,8 +12878,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-03-12",
-    "oldest_dividend_date":"2014-08-20",
+    "ex_dividend_date":"2026-03-12",
+    "oldest_ex_dividend_date":"2014-08-20",
     "raw_dividend_count":20,
     "required_years":[
       2022,
@@ -12917,8 +12917,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-04-17",
-    "oldest_dividend_date":"2015-04-30",
+    "ex_dividend_date":"2026-04-17",
+    "oldest_ex_dividend_date":"2015-04-30",
     "raw_dividend_count":13,
     "required_years":[
       2022,
@@ -12957,8 +12957,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-10",
-    "oldest_dividend_date":"2014-11-18",
+    "ex_dividend_date":"2026-03-10",
+    "oldest_ex_dividend_date":"2014-11-18",
     "raw_dividend_count":13,
     "required_years":[
       2022,
@@ -12997,8 +12997,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-10",
-    "oldest_dividend_date":"2014-08-26",
+    "ex_dividend_date":"2026-03-10",
+    "oldest_ex_dividend_date":"2014-08-26",
     "raw_dividend_count":19,
     "required_years":[
       2022,
@@ -13037,8 +13037,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-06",
-    "oldest_dividend_date":"2014-08-26",
+    "ex_dividend_date":"2026-03-06",
+    "oldest_ex_dividend_date":"2014-08-26",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -13073,8 +13073,8 @@
       2026
     ],
     "total_years_found":9,
-    "latest_dividend_date":"2026-03-12",
-    "oldest_dividend_date":"2018-03-29",
+    "ex_dividend_date":"2026-03-12",
+    "oldest_ex_dividend_date":"2018-03-29",
     "raw_dividend_count":15,
     "required_years":[
       2022,
@@ -13112,8 +13112,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-05-06",
-    "oldest_dividend_date":"2015-05-12",
+    "ex_dividend_date":"2026-05-06",
+    "oldest_ex_dividend_date":"2015-05-12",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -13152,8 +13152,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-03-13",
-    "oldest_dividend_date":"2014-10-24",
+    "ex_dividend_date":"2026-03-13",
+    "oldest_ex_dividend_date":"2014-10-24",
     "raw_dividend_count":13,
     "required_years":[
       2022,
@@ -13191,8 +13191,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-05-07",
-    "oldest_dividend_date":"2015-04-30",
+    "ex_dividend_date":"2026-05-07",
+    "oldest_ex_dividend_date":"2015-04-30",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -13228,8 +13228,8 @@
       2026
     ],
     "total_years_found":10,
-    "latest_dividend_date":"2026-05-11",
-    "oldest_dividend_date":"2017-05-05",
+    "ex_dividend_date":"2026-05-11",
+    "oldest_ex_dividend_date":"2017-05-05",
     "raw_dividend_count":18,
     "required_years":[
       2022,
@@ -13266,8 +13266,8 @@
       2026
     ],
     "total_years_found":11,
-    "latest_dividend_date":"2026-06-02",
-    "oldest_dividend_date":"2016-11-09",
+    "ex_dividend_date":"2026-06-02",
+    "oldest_ex_dividend_date":"2016-11-09",
     "raw_dividend_count":39,
     "required_years":[
       2022,
@@ -13302,8 +13302,8 @@
       2026
     ],
     "total_years_found":9,
-    "latest_dividend_date":"2026-05-22",
-    "oldest_dividend_date":"2017-05-18",
+    "ex_dividend_date":"2026-05-22",
+    "oldest_ex_dividend_date":"2017-05-18",
     "raw_dividend_count":32,
     "required_years":[
       2022,
@@ -13341,8 +13341,8 @@
       2026
     ],
     "total_years_found":12,
-    "latest_dividend_date":"2026-05-19",
-    "oldest_dividend_date":"2015-05-12",
+    "ex_dividend_date":"2026-05-19",
+    "oldest_ex_dividend_date":"2015-05-12",
     "raw_dividend_count":49,
     "required_years":[
       2022,
@@ -13377,8 +13377,8 @@
       2026
     ],
     "total_years_found":9,
-    "latest_dividend_date":"2026-04-28",
-    "oldest_dividend_date":"2018-05-04",
+    "ex_dividend_date":"2026-04-28",
+    "oldest_ex_dividend_date":"2018-05-04",
     "raw_dividend_count":16,
     "required_years":[
       2022,
@@ -13415,8 +13415,8 @@
       2026
     ],
     "total_years_found":11,
-    "latest_dividend_date":"2026-03-11",
-    "oldest_dividend_date":"2016-02-23",
+    "ex_dividend_date":"2026-03-11",
+    "oldest_ex_dividend_date":"2016-02-23",
     "raw_dividend_count":11,
     "required_years":[
       2022,
@@ -13453,8 +13453,8 @@
       2026
     ],
     "total_years_found":11,
-    "latest_dividend_date":"2026-03-11",
-    "oldest_dividend_date":"2016-03-24",
+    "ex_dividend_date":"2026-03-11",
+    "oldest_ex_dividend_date":"2016-03-24",
     "raw_dividend_count":12,
     "required_years":[
       2022,
@@ -13485,8 +13485,8 @@
       2026
     ],
     "total_years_found":5,
-    "latest_dividend_date":"2026-03-16",
-    "oldest_dividend_date":"2022-03-17",
+    "ex_dividend_date":"2026-03-16",
+    "oldest_ex_dividend_date":"2022-03-17",
     "raw_dividend_count":5,
     "required_years":[
       2022,
@@ -13525,8 +13525,8 @@
       2026
     ],
     "total_years_found":13,
-    "latest_dividend_date":"2026-05-05",
-    "oldest_dividend_date":"2014-08-26",
+    "ex_dividend_date":"2026-05-05",
+    "oldest_ex_dividend_date":"2014-08-26",
     "raw_dividend_count":24,
     "required_years":[
       2022,
@@ -13543,9 +13543,9 @@
     "market":"mai",
     "industry":"Agro & Food Industry",
     "sector":null,
-    "dividend_yield_pct":"0.08",
+    "dividend_yield_pct":"8.26",
     "last_price":"2.2",
-    "payout_ratio":null
+    "payout_ratio":"81.82"
   },
   {
     "symbol":"WP",
@@ -13559,8 +13559,8 @@
       2026
     ],
     "total_years_found":7,
-    "latest_dividend_date":"2026-05-07",
-    "oldest_dividend_date":"2020-02-04",
+    "ex_dividend_date":"2026-05-07",
+    "oldest_ex_dividend_date":"2020-02-04",
     "raw_dividend_count":8,
     "required_years":[
       2022,
@@ -13595,8 +13595,8 @@
       2026
     ],
     "total_years_found":9,
-    "latest_dividend_date":"2026-03-11",
-    "oldest_dividend_date":"2018-05-04",
+    "ex_dividend_date":"2026-03-11",
+    "oldest_ex_dividend_date":"2018-05-04",
     "raw_dividend_count":9,
     "required_years":[
       2022,
@@ -13633,8 +13633,8 @@
       2026
     ],
     "total_years_found":11,
-    "latest_dividend_date":"2026-03-09",
-    "oldest_dividend_date":"2016-05-03",
+    "ex_dividend_date":"2026-03-09",
+    "oldest_ex_dividend_date":"2016-05-03",
     "raw_dividend_count":18,
     "required_years":[
       2022,
@@ -13671,8 +13671,8 @@
       2026
     ],
     "total_years_found":11,
-    "latest_dividend_date":"2026-04-20",
-    "oldest_dividend_date":"2016-03-02",
+    "ex_dividend_date":"2026-04-20",
+    "oldest_ex_dividend_date":"2016-03-02",
     "raw_dividend_count":11,
     "required_years":[
       2022,
