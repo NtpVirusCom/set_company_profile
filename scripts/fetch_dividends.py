@@ -38,7 +38,6 @@ def fetch_single_symbol(symbol: str):
         div_rate = info.get("trailingAnnualDividendRate")  # เงินปันผลต่อหุ้น/ปี
         payout = info.get("payoutRatio")               # อัตราจ่ายเงินปันผล
         ex_div = info.get("exDividendDate")            # วันขึ้นเครื่องหมาย XD
-        div_date = info.get("DividendDate") 
         price = info.get("currentPrice") or info.get("regularMarketPrice")
 
         # ถ้าไม่มี dividendYield แต่มีเงินปันผล + ราคา ให้คำนวณเอง
@@ -57,7 +56,6 @@ def fetch_single_symbol(symbol: str):
             #"payout_ratio": round(payout, 4) if payout else None,
             "payout_ratio": round(payout * 100, 4) if payout else None,
             "ex_dividend_date": pd.to_datetime(ex_div, unit="s").isoformat() if ex_div else None,
-            "dividend_date": pd.to_datetime(div_date, unit="s").isoformat() if div_date else None,
             "fetched_at": datetime.now(timezone.utc).isoformat(),
         }
 
