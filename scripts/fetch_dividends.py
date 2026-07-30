@@ -125,7 +125,8 @@ def fetch_single_symbol(symbol: str):
         # --- คำนวณเพิ่มเติม ---
         yield_vs_5y = None
         if five_y_avg and five_y_avg > 0:
-            yield_vs_5y = round((div_yield * 100) - five_y_avg, 2)
+            #yield_vs_5y = round((div_yield * 100) - five_y_avg, 2)
+            yield_vs_5y = round(div_yield - five_y_avg, 2)
 
         yield_on_low = round((div_rate / low_52w) * 100, 2) if (low_52w and low_52w > 0) else None
         yield_on_high = round((div_rate / high_52w) * 100, 2) if (high_52w and high_52w > 0) else None
