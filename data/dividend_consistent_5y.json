@@ -979,9 +979,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Finance & Securities",
-    "dividend_yield_pct":"3.33",
+    "dividend_yield_pct":"0.03",
     "last_price":"12.4",
-    "payout_ratio":"47.58"
+    "payout_ratio":null
   },
   {
     "symbol":"ASP",
@@ -2288,9 +2288,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Health Care Services",
-    "dividend_yield_pct":"4.58",
+    "dividend_yield_pct":"0.05",
     "last_price":"1.55",
-    "payout_ratio":"80.92"
+    "payout_ratio":null
   },
   {
     "symbol":"CK",
@@ -3183,9 +3183,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Construction Materials",
-    "dividend_yield_pct":"6.04",
+    "dividend_yield_pct":"0.06",
     "last_price":"5.25",
-    "payout_ratio":"71.11"
+    "payout_ratio":null
   },
   {
     "symbol":"EASON",
@@ -3684,9 +3684,9 @@
     "market":"SET",
     "industry":"Services",
     "sector":"Commerce",
-    "dividend_yield_pct":"2.54",
-    "last_price":"7.4",
-    "payout_ratio":"50.68"
+    "dividend_yield_pct":null,
+    "last_price":null,
+    "payout_ratio":null
   },
   {
     "symbol":"GPI",
@@ -4816,9 +4816,9 @@
     "market":"mai",
     "industry":"Consumer Products",
     "sector":null,
-    "dividend_yield_pct":"3.81",
+    "dividend_yield_pct":"0.03",
     "last_price":"7.3",
-    "payout_ratio":"37.5"
+    "payout_ratio":null
   },
   {
     "symbol":"KAMART",
@@ -4896,9 +4896,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Banking",
-    "dividend_yield_pct":"4.96",
+    "dividend_yield_pct":"0.04",
     "last_price":"242.0",
-    "payout_ratio":"47.17"
+    "payout_ratio":null
   },
   {
     "symbol":"KCAR",
@@ -5727,9 +5727,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Property Fund & REITs",
-    "dividend_yield_pct":"9.1",
+    "dividend_yield_pct":"0.08",
     "last_price":"15.5",
-    "payout_ratio":"74.38"
+    "payout_ratio":null
   },
   {
     "symbol":"LPH",
@@ -7062,9 +7062,9 @@
     "market":"SET",
     "industry":"Resources",
     "sector":"Energy & Utilities",
-    "dividend_yield_pct":"4.69",
+    "dividend_yield_pct":"0.05",
     "last_price":"12.8",
-    "payout_ratio":"76.92"
+    "payout_ratio":null
   },
   {
     "symbol":"ORI",
@@ -8906,9 +8906,9 @@
     "market":"SET",
     "industry":"Financials",
     "sector":"Finance & Securities",
-    "dividend_yield_pct":"4.12",
+    "dividend_yield_pct":"0.04",
     "last_price":"1.76",
-    "payout_ratio":"1.44"
+    "payout_ratio":null
   },
   {
     "symbol":"SCB",
@@ -8978,9 +8978,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Construction Materials",
-    "dividend_yield_pct":"2.76",
+    "dividend_yield_pct":"0.02",
     "last_price":"255.0",
-    "payout_ratio":"31.25"
+    "payout_ratio":null
   },
   {
     "symbol":"SCCC",
@@ -9017,9 +9017,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Construction Materials",
-    "dividend_yield_pct":"7.38",
+    "dividend_yield_pct":"0.07",
     "last_price":"149.5",
-    "payout_ratio":"85.27"
+    "payout_ratio":null
   },
   {
     "symbol":"SCGP",
@@ -9921,9 +9921,9 @@
     "market":"mai",
     "industry":"Services",
     "sector":null,
-    "dividend_yield_pct":"3.9",
+    "dividend_yield_pct":"0.04",
     "last_price":"1.52",
-    "payout_ratio":"37.97"
+    "payout_ratio":null
   },
   {
     "symbol":"SORKON",
@@ -11838,9 +11838,9 @@
     "market":"SET",
     "industry":"Property & Construction",
     "sector":"Construction Materials",
-    "dividend_yield_pct":"4.97",
+    "dividend_yield_pct":"0.05",
     "last_price":"15.5",
-    "payout_ratio":"38.89"
+    "payout_ratio":null
   },
   {
     "symbol":"TOG",
@@ -13543,9 +13543,9 @@
     "market":"mai",
     "industry":"Agro & Food Industry",
     "sector":null,
-    "dividend_yield_pct":"8.26",
+    "dividend_yield_pct":"0.08",
     "last_price":"2.2",
-    "payout_ratio":"81.82"
+    "payout_ratio":null
   },
   {
     "symbol":"WP",
