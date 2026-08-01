@@ -439,7 +439,44 @@
         "website",
         "updated_at"
       ]
+    },
+    {
+      "timestamp": "2026-08-01T02:23:16.570917+00:00",
+      "total_companies": 893,
+      "markets": {
+        "SET": 666,
+        "mai": 227
+      },
+      "columns": [
+        "symbol",
+        "company_name_th",
+        "company_name_en",
+        "market",
+        "industry",
+        "sector",
+        "address",
+        "zip_code",
+        "telephone",
+        "fax",
+        "website",
+        "updated_at"
+      ]
     }
   ],
-  "changes": []
+  "changes": [
+    {
+      "symbol": "BANPUU",
+      "field": "status",
+      "old_value": "listed",
+      "new_value": "delisted",
+      "detected_at": "2026-08-01T02:23:16.518282+00:00"
+    },
+    {
+      "symbol": "BPP",
+      "field": "status",
+      "old_value": "listed",
+      "new_value": "delisted",
+      "detected_at": "2026-08-01T02:23:16.519818+00:00"
+    }
+  ]
 }
