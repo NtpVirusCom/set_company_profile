@@ -901,6 +901,28 @@
         "website",
         "updated_at"
       ]
+    },
+    {
+      "timestamp": "2026-08-22T00:56:32.549117+00:00",
+      "total_companies": 895,
+      "markets": {
+        "SET": 667,
+        "mai": 228
+      },
+      "columns": [
+        "symbol",
+        "company_name_th",
+        "company_name_en",
+        "market",
+        "industry",
+        "sector",
+        "address",
+        "zip_code",
+        "telephone",
+        "fax",
+        "website",
+        "updated_at"
+      ]
     }
   ],
   "changes": [
@@ -924,6 +946,27 @@
       "old_value": "not_listed",
       "new_value": "listed",
       "detected_at": "2026-08-08T01:12:47.205151+00:00"
+    },
+    {
+      "symbol": "COLOR",
+      "field": "status",
+      "old_value": "listed",
+      "new_value": "delisted",
+      "detected_at": "2026-08-22T00:56:32.493314+00:00"
+    },
+    {
+      "symbol": "COLOUR",
+      "field": "status",
+      "old_value": "not_listed",
+      "new_value": "listed",
+      "detected_at": "2026-08-22T00:56:32.493382+00:00"
+    },
+    {
+      "symbol": "PHAT",
+      "field": "status",
+      "old_value": "not_listed",
+      "new_value": "listed",
+      "detected_at": "2026-08-22T00:56:32.513809+00:00"
     }
   ]
 }
