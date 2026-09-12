@@ -1363,6 +1363,28 @@
         "website",
         "updated_at"
       ]
+    },
+    {
+      "timestamp": "2026-09-12T02:48:32.554516+00:00",
+      "total_companies": 893,
+      "markets": {
+        "SET": 664,
+        "mai": 229
+      },
+      "columns": [
+        "symbol",
+        "company_name_th",
+        "company_name_en",
+        "market",
+        "industry",
+        "sector",
+        "address",
+        "zip_code",
+        "telephone",
+        "fax",
+        "website",
+        "updated_at"
+      ]
     }
   ],
   "changes": [
@@ -1414,6 +1436,27 @@
       "old_value": "not_listed",
       "new_value": "listed",
       "detected_at": "2026-09-05T02:36:00.888907+00:00"
+    },
+    {
+      "symbol": "CIMBT",
+      "field": "status",
+      "old_value": "listed",
+      "new_value": "delisted",
+      "detected_at": "2026-09-12T02:48:32.488365+00:00"
+    },
+    {
+      "symbol": "GLAND",
+      "field": "status",
+      "old_value": "listed",
+      "new_value": "delisted",
+      "detected_at": "2026-09-12T02:48:32.495052+00:00"
+    },
+    {
+      "symbol": "LRH",
+      "field": "status",
+      "old_value": "listed",
+      "new_value": "delisted",
+      "detected_at": "2026-09-12T02:48:32.502533+00:00"
     }
   ]
 }
