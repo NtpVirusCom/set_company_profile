@@ -1671,6 +1671,28 @@
         "website",
         "updated_at"
       ]
+    },
+    {
+      "timestamp": "2026-09-26T03:10:10.234578+00:00",
+      "total_companies": 893,
+      "markets": {
+        "SET": 664,
+        "mai": 229
+      },
+      "columns": [
+        "symbol",
+        "company_name_th",
+        "company_name_en",
+        "market",
+        "industry",
+        "sector",
+        "address",
+        "zip_code",
+        "telephone",
+        "fax",
+        "website",
+        "updated_at"
+      ]
     }
   ],
   "changes": [
@@ -1743,6 +1765,20 @@
       "old_value": "listed",
       "new_value": "delisted",
       "detected_at": "2026-09-12T02:48:32.502533+00:00"
+    },
+    {
+      "symbol": "GST",
+      "field": "status",
+      "old_value": "not_listed",
+      "new_value": "listed",
+      "detected_at": "2026-09-26T03:10:10.175032+00:00"
+    },
+    {
+      "symbol": "THCOM",
+      "field": "status",
+      "old_value": "listed",
+      "new_value": "delisted",
+      "detected_at": "2026-09-26T03:10:10.204699+00:00"
     }
   ]
 }
