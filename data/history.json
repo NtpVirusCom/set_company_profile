@@ -2265,6 +2265,28 @@
         "website",
         "updated_at"
       ]
+    },
+    {
+      "timestamp": "2026-10-23T03:03:31.506492+00:00",
+      "total_companies": 894,
+      "markets": {
+        "SET": 664,
+        "mai": 230
+      },
+      "columns": [
+        "symbol",
+        "company_name_th",
+        "company_name_en",
+        "market",
+        "industry",
+        "sector",
+        "address",
+        "zip_code",
+        "telephone",
+        "fax",
+        "website",
+        "updated_at"
+      ]
     }
   ],
   "changes": [
@@ -2358,6 +2380,20 @@
       "old_value": "not_listed",
       "new_value": "listed",
       "detected_at": "2026-10-03T03:28:55.500530+00:00"
+    },
+    {
+      "symbol": "AKS",
+      "field": "status",
+      "old_value": "listed",
+      "new_value": "delisted",
+      "detected_at": "2026-10-23T03:03:31.445259+00:00"
+    },
+    {
+      "symbol": "QUICK",
+      "field": "status",
+      "old_value": "not_listed",
+      "new_value": "listed",
+      "detected_at": "2026-10-23T03:03:31.476636+00:00"
     }
   ]
 }
