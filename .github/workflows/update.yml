@@ -32,7 +32,7 @@ jobs:
         run: python scripts/fetch_dividends.py
       
       # ✅ เพิ่มขั้นตอนนี้
-      - name: 🔍 Filter dividend stocks (≥5Y, ≥5%, ≤80% payout)
+      - name: 🔍 Filter dividend stocks (≥5Y, ≥4%, ≤60% payout)
         run: python scripts/filter_dividends.py
       
       - name: 🚀 Commit and push changes
