@@ -23,8 +23,8 @@ OUTPUT_JSON = DATA_DIR / "filtered_dividends.json"
 
 # เกณฑ์การคัดกรอง
 MIN_CONSECUTIVE_YEARS = 5      # จ่ายต่อเนื่องขั้นต่ำ 5 ปี
-MIN_DIVIDEND_YIELD = 5.0       # Yield ขั้นต่ำ 5%
-MAX_PAYOUT_RATIO = 80.0        # Payout ไม่เกิน 80%
+MIN_DIVIDEND_YIELD = 4.0       # Yield ขั้นต่ำ 5%
+MAX_PAYOUT_RATIO = 60.0        # Payout ไม่เกิน 80%
 
 
 def main():
