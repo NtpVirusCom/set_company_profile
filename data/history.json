@@ -2419,6 +2419,28 @@
         "website",
         "updated_at"
       ]
+    },
+    {
+      "timestamp": "2026-10-30T04:03:13.216568+00:00",
+      "total_companies": 894,
+      "markets": {
+        "SET": 664,
+        "mai": 230
+      },
+      "columns": [
+        "symbol",
+        "company_name_th",
+        "company_name_en",
+        "market",
+        "industry",
+        "sector",
+        "address",
+        "zip_code",
+        "telephone",
+        "fax",
+        "website",
+        "updated_at"
+      ]
     }
   ],
   "changes": [
