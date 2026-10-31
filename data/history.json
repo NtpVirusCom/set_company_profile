@@ -2441,6 +2441,28 @@
         "website",
         "updated_at"
       ]
+    },
+    {
+      "timestamp": "2026-10-31T03:47:13.949401+00:00",
+      "total_companies": 894,
+      "markets": {
+        "SET": 666,
+        "mai": 228
+      },
+      "columns": [
+        "symbol",
+        "company_name_th",
+        "company_name_en",
+        "market",
+        "industry",
+        "sector",
+        "address",
+        "zip_code",
+        "telephone",
+        "fax",
+        "website",
+        "updated_at"
+      ]
     }
   ],
   "changes": [
@@ -2548,6 +2570,20 @@
       "old_value": "not_listed",
       "new_value": "listed",
       "detected_at": "2026-10-23T03:03:31.476636+00:00"
+    },
+    {
+      "symbol": "SICT",
+      "field": "sector",
+      "old_value": "",
+      "new_value": "Electronic Components",
+      "detected_at": "2026-10-31T03:47:13.924419+00:00"
+    },
+    {
+      "symbol": "TACC",
+      "field": "sector",
+      "old_value": "",
+      "new_value": "Food & Beverage",
+      "detected_at": "2026-10-31T03:47:13.926739+00:00"
     }
   ]
 }
